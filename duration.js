@@ -28,13 +28,19 @@ function fixDurations(json) {
     return {
       ...acc,
       [year]: {
-        singles: [...singles.map(single => ({ ...single, duration: fixDuration(single.duration) }))],
-        albums: [...albums.map(album => ({ ...album, duration: fixDuration(album.duration) }))]
+        singles: [...singles.map(single => ({ ...single, duration: fixDuration(single.duration, year) }))],
+        albums: [...albums.map(album => ({ ...album, duration: fixDuration(album.duration, year) }))]
       }
     };
   }, {});
 
-  function fixDuration(duration) {
-    return "unfixed:" + duration;
+  function fixDuration(duration, year) {
+    const matches = /\((\d+)\. ([a-zä]+) (?:(\d+) )?[–-] (\d+)\. ([a-zä]+)(?: (\d+))?/i.exec(duration);
+    if (matches) {
+      return "unfixed:" + duration;
+    } else {
+      console.log("duration wrong??", duration, year);
+      return duration;
+    }
   }
 }
