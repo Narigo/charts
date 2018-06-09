@@ -42,11 +42,18 @@ function fixDurations(json) {
       const { dayFrom, monthFrom, yearFrom, dayTo, monthTo, yearTo } = matches.groups;
       const monthF = monthInNumber(monthFrom);
       const monthT = monthInNumber(monthTo);
-      return { from: `${yearFrom || year}-${monthF}-${dayFrom}`, to: `${yearTo || year}-${monthT}-${dayTo}` };
+      return {
+        from: `${yearFrom || year}-${nf(monthF)}-${nf(dayFrom)}`,
+        to: `${yearTo || year}-${nf(monthT)}-${nf(dayTo)}`
+      };
     } else {
-      console.log("duration wrong??", duration, year);
-      return duration;
+      console.error("Wrong duration:", duration, year);
+      throw new Error("Should be able to catch all durations.");
     }
+  }
+
+  function nf(num) {
+    return `${num < 10 ? "0" : ""}${num}`;
   }
 
   function monthInNumber(month) {
@@ -76,8 +83,8 @@ function fixDurations(json) {
       case "Dezember":
         return 12;
       default:
-        console.log("Wrong month!", month);
-        return month;
+        console.error("Wrong month!", month);
+        throw new Error("Should be able to catch all months.");
     }
   }
 }
