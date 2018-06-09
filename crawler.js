@@ -35,22 +35,58 @@ async function crawl(year) {
   });
 
   const result = await page.evaluate(() => {
-    const $singles = document.querySelectorAll(
+    const $singlesFallback0 = document.querySelectorAll(
+      "#mw-content-text > div > table > tbody > tr:nth-child(2) > td > ul > li"
+    );
+    const $singlesFallback1 = document.querySelectorAll(
       "#mw-content-text > div > table:nth-child(3) > tbody > tr:nth-child(2) > td:nth-child(1) > ul > li"
     );
-    const $albums = document.querySelectorAll(
-      "#mw-content-text > div > table:nth-child(3) > tbody > tr:nth-child(2) > td:nth-child(2) > ul > li"
+    const $singlesFallback2 = document.querySelectorAll(
+      "#mw-content-text > div > table:nth-child(4) > tbody > tr:nth-child(2) > td > table > tbody > tr"
+    );
+    const $singlesFallback3 = document.querySelectorAll(
+      "#mw-content-text > div > table:nth-child(5) > tbody > tr:nth-child(2) > td > table > tbody > tr"
+    );
+    const $singlesFallback4 = document.querySelectorAll(
+      "#mw-content-text > div > table:nth-child(6) > tbody > tr:nth-child(2) > td > table > tbody > tr"
     );
 
-    const $singlesFallback1 = document.querySelectorAll(
-      "#mw-content-text > div > table > tbody > tr:nth-child(2) > td > ul > li"
+    const $albumsFallback0 = document.querySelectorAll(
+      "#mw-content-text > div > table:nth-child(3) > tbody > tr:nth-child(2) > td:nth-child(2) > ul > li"
     );
     const $albumsFallback1 = document.querySelectorAll(
       "#mw-content-text > div > table > tbody > tr:nth-child(2) > td:nth-child(2) > ul > li"
     );
+    const $albumsFallback2 = document.querySelectorAll(
+      "#mw-content-text > div > table:nth-child(8) > tbody > tr:nth-child(2) > td > table > tbody > tr"
+    );
+    const $albumsFallback3 = document.querySelectorAll(
+      "#mw-content-text > div > table:nth-child(7) > tbody > tr:nth-child(2) > td > table > tbody > tr"
+    );
+    const $albumsFallback4 = document.querySelectorAll(
+      "#mw-content-text > div > table:nth-child(6) > tbody > tr:nth-child(2) > td > table > tbody > tr"
+    );
 
-    const singles = [].map.call($singles.length > 0 ? $singles : $singlesFallback1, infoFromLi);
-    const albums = [].map.call($albums.length > 0 ? $albums : $albumsFallback1, infoFromLi);
+    const singleFilter = $firstElement => /^Singles/.test($firstElement.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.previousElementSibling.innerText);
+    const albumFilter = $firstElement => /^Alben/.test($firstElement.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.previousElementSibling.innerText);
+
+    const selectedSingles = [
+      { list: $singlesFallback0, by: infoFromLi, extraFilter: () => true },
+      { list: $singlesFallback1, by: infoFromLi, extraFilter: () => true },
+      { list: $singlesFallback2, by: infoFromTable, extraFilter: singleFilter },
+      { list: $singlesFallback3, by: infoFromTable, extraFilter: singleFilter },
+      { list: $singlesFallback4, by: infoFromTable, extraFilter: singleFilter }
+    ].find(x => x.list.length > 0 && x.extraFilter(x.list[0]));
+    const selectedAlbums = [
+      { list: $albumsFallback0, by: infoFromLi, extraFilter: () => true },
+      { list: $albumsFallback1, by: infoFromLi, extraFilter: () => true },
+      { list: $albumsFallback2, by: infoFromTable, extraFilter: albumFilter },
+      { list: $albumsFallback3, by: infoFromTable, extraFilter: albumFilter },
+      { list: $albumsFallback4, by: infoFromTable, extraFilter: albumFilter }
+    ].find(x => x.list.length > 0 && x.extraFilter(x.list[0]));
+
+    const singles = selectedSingles ? [].map.call(selectedSingles.list, selectedSingles.by) : [];
+    const albums = selectedAlbums ? [].map.call(selectedAlbums.list, selectedAlbums.by) : [];
 
     return { singles, albums };
 
@@ -62,9 +98,17 @@ async function crawl(year) {
       return { interpret, title, duration };
     }
 
-    function selectOrNA($li, selector) {
+    function infoFromTable($tr) {
+      const interpret = selectOrNA($tr, "td:nth-child(3)");
+      const title = selectOrNA($tr, "td:nth-child(4)");
+      const duration = selectOrNA($tr, "td:nth-child(1)");
+
+      return { interpret, title, duration };
+    }
+
+    function selectOrNA($element, selector) {
       try {
-        return $li.querySelector(selector).innerText;
+        return $element.querySelector(selector).innerText;
       } catch (e) {
         return "N/A";
       }

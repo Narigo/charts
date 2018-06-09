@@ -1,7 +1,7 @@
 const fs = require("fs");
 const { promisify } = require("util");
 
-const DURATION_MATCHER = /\((?<dayFrom>\d+)\.? (?<monthFrom>[a-zä]+)(?: (?<yearFrom>\d+))?(?: [–-] | und |: )(?<dayTo>\d+)\. (?<monthTo>[a-zä]+)(?: (?<yearTo>\d+))?/i;
+const DURATION_MATCHER = /\(?(?<dayFrom>\d+)\.?\s(?<monthFrom>[a-zä]+)(?:\s(?<yearFrom>\d+))?(?:\s[–-]\s|\sund\s|:\s)(?<dayTo>\d+)\.\s(?<monthTo>[a-zä]+)(?:\s(?<yearTo>\d+))?/i;
 
 return run().catch(e => console.error("Error!", e));
 
