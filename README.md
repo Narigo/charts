@@ -28,5 +28,3 @@ node duration.js
 * 1959 - Album Charts
 * 1960 - Album Charts
 * 1961 - Album Charts
-* 2014 - Album Charts
-* 2018 - Single Charts
