@@ -19,9 +19,9 @@ function onChange(e) {
   const hitAlbum = getHit(date, charts[year].albums);
 
   const $singles = document.createElement("div");
-  $singles.appendChild(document.createTextNode(`Single: ${hitSingle.interpret} - ${hitSingle.title}, ${hitSingle.duration.from}-${hitSingle.duration.to}`));
+  $singles.appendChild(document.createTextNode(`Single: ${hitSingle.interpret} - ${hitSingle.title}, ${hitSingle.duration.from} bis ${hitSingle.duration.to}`));
   const $albums = document.createElement("div");
-  $albums.appendChild(document.createTextNode(`Album: ${hitAlbum.interpret} - ${hitAlbum.title}, ${hitAlbum.duration.from}-${hitAlbum.duration.to}`));
+  $albums.appendChild(document.createTextNode(`Album: ${hitAlbum.interpret} - ${hitAlbum.title}, ${hitAlbum.duration.from} bis ${hitAlbum.duration.to}`));
 
   $result.innerHTML = "";
   $result.appendChild($singles);
