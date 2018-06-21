@@ -35,9 +35,16 @@ body {
 }
 
 .date-select select {
-    padding: 25px;
+  padding: 25px;
 }
 
+#result {
+  margin: 25px 0;
+}
+
+.singles {
+  margin-bottom: 25px;
+}
 
 @media only screen and (max-width: 1000px) {
   .page-wrap {

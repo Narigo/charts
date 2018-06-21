@@ -20,8 +20,10 @@ function onChange(e) {
 
   const $singles = document.createElement("div");
   $singles.appendChild(document.createTextNode(`Single: ${hitSingle.interpret} - ${hitSingle.title}, ${hitSingle.duration.from} bis ${hitSingle.duration.to}`));
+  $singles.classList.add("singles");
   const $albums = document.createElement("div");
   $albums.appendChild(document.createTextNode(`Album: ${hitAlbum.interpret} - ${hitAlbum.title}, ${hitAlbum.duration.from} bis ${hitAlbum.duration.to}`));
+  $albums.classList.add("albums");
 
   $result.innerHTML = "";
   $result.appendChild($singles);
