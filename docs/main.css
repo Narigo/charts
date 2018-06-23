@@ -36,6 +36,10 @@ body {
 
 .date-select select {
   padding: 25px;
+  height: 40px;
+  min-width: 80px;
+  line-height: 40px;
+  text-align: center;
 }
 
 #result {
