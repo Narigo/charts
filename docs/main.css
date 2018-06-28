@@ -17,9 +17,10 @@ body {
   min-height: 100%;
   width: 50%;
   box-shadow: 0px 0px 15px #000000;
-  padding: 0 25px;
+  box-sizing: border-box;
   display: flex;
-  flex-direction: column;
+	flex-direction: column;
+	padding: 25px;
 }
 
 .page-wrap > * {
@@ -38,7 +39,6 @@ body {
 .page-wrap footer {
 	display: flex;
 	flex-direction: row;
-	margin-bottom: 25px;
 }
 
 .page-wrap footer > * {
@@ -79,6 +79,6 @@ body {
 
 @media only screen and (max-width: 1000px) {
   .page-wrap {
-    width: 95%;
+    width: 100%;
   }
 }
