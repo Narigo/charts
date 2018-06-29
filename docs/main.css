@@ -4,6 +4,7 @@ body {
   margin: 0;
   height: 100%;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  background-color: #fff;
 }
 
 body {
@@ -13,14 +14,23 @@ body {
   justify-content: center;
 }
 
+a {
+  color: rgba(0, 0, 0, 0.5);
+  text-decoration: none;
+}
+a:hover {
+  background-color: #000;
+  color: #fff;
+}
+
 .page-wrap {
   min-height: 100%;
   width: 50%;
   box-shadow: 0px 0px 15px #000000;
   box-sizing: border-box;
   display: flex;
-	flex-direction: column;
-	padding: 25px;
+  flex-direction: column;
+  padding: 25px;
 }
 
 .page-wrap > * {
@@ -30,20 +40,23 @@ body {
 }
 
 .page-wrap > main {
-	flex-grow: 1;
-	display: flex;
-	flex-direction: column;
-	justify-content: flex-start;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
 }
 
 .page-wrap footer {
-	display: flex;
+  display: flex;
 	flex-direction: row;
+	justify-content: space-between;
 }
 
-.page-wrap footer > * {
-	text-align: center;
+.page-wrap footer > *:nth-child(2) {
 	margin: 0 25px;
+}
+.page-wrap footer > * {
+  text-align: center;
 }
 
 .date-select {
