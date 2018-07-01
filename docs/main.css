@@ -86,8 +86,31 @@ a:hover {
   margin: 25px 0;
 }
 
-.singles {
-  margin-bottom: 25px;
+#result .single,
+#result .album {
+	position: relative;
+	border: 1px solid #ccc;
+	padding: 25px;
+	border-radius: 10px;
+	margin: 25px 0;
+	box-shadow: 0 6px 5px -5px #000;
+}
+
+#result .header {
+	position: absolute;
+	top: -15px;
+	background-color: #fff;
+	padding: 5px 10px;
+	border: 1px solid #aaa;
+	border-radius: 5px;
+}
+
+#result .title {
+	font-weight: 600;
+}
+
+#result .interpret {
+	font-style: italic;
 }
 
 @media only screen and (max-width: 1000px) {
