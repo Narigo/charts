@@ -41,8 +41,8 @@ function onChange(e) {
     $header.appendChild(document.createTextNode(header));
     $interpret.appendChild(document.createTextNode(hit.interpret));
     $title.appendChild(document.createTextNode(hit.title));
-    $durationFrom.appendChild(document.createTextNode(hit.duration.from));
-    $durationUntil.appendChild(document.createTextNode(hit.duration.to));
+    $durationFrom.appendChild(document.createTextNode(durationToTime(hit.duration.from)));
+    $durationUntil.appendChild(document.createTextNode(durationToTime(hit.duration.to)));
 
     $header.classList.add("header");
     $interpret.classList.add("interpret");
@@ -62,5 +62,12 @@ function onChange(e) {
     $singleOrAlbum.classList.add(singleOrAlbum);
 
     return $singleOrAlbum;
-  }
+	}
+	
+	function durationToTime(date) {
+		const year = date.substring(0, 4);
+		const month = date.substring(5, 7);
+		const day = date.substring(8);
+		return `${day}.${month}.${year}`;
+	}
 }
