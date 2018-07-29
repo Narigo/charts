@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1502px" height="1502px" viewBox="0 0 1502 1502" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="124.386026%" id="radialGradient-1">
+            <stop stop-color="#FAD961" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1.000000, 1.000000)">
+            <g id="disc" fill-rule="nonzero">
+                <path d="M750,1500 C335.786438,1500 0,1164.21356 0,750 C0,335.786438 335.786438,0 750,0 C1164.21356,0 1500,335.786438 1500,750 C1500,1164.21356 1164.21356,1500 750,1500 Z M750,825 C791.421356,825 825,791.421356 825,750 C825,708.578644 791.421356,675 750,675 C708.578644,675 675,708.578644 675,750 C675,791.421356 708.578644,825 750,825 Z" id="Combined-Shape" stroke="#000000" fill="url(#radialGradient-1)"></path>
+                <path d="M749,900 C666.157288,900 599,832.842712 599,750 C599,667.157288 666.157288,600 749,600 C831.842712,600 899,667.157288 899,750 C899,832.842712 831.842712,900 749,900 Z M749,825 C790.421356,825 824,791.421356 824,750 C824,708.578644 790.421356,675 749,675 C707.578644,675 674,708.578644 674,750 C674,791.421356 707.578644,825 749,825 Z" id="Combined-Shape" fill="#E8E8E8"></path>
+            </g>
+            <g id="note" transform="translate(570.000000, 647.000000)" fill="#000000" fill-rule="nonzero" stroke="#000000">
+                <path d="M293.5,0.985266558 L71.5,48.404479 L71.5,292.217367 L70.7637548,291.822661 C58.4654673,285.229461 41.1951303,286.287777 26.2211432,294.933013 C4.91668812,307.233146 -4.57820174,330.586982 4.9330127,347.060889 C14.4442271,363.534796 39.4166881,366.988898 60.7211432,354.688766 C77.4210501,345.04707 87.2511137,328.285313 85.5,313.15001 L85.5,123.891704 L279.5,82.4557402 L279.5,248.217367 L278.763755,247.822661 C266.465467,241.229461 249.19513,242.287777 234.221143,250.933013 C212.916688,263.233146 203.421798,286.586982 212.933013,303.060889 C222.444227,319.534796 247.416688,322.988898 268.721143,310.688766 C285.42105,301.04707 295.251114,284.285313 293.5,269.15001 L293.5,0.985266558 Z M279.5,60.9756673 L85.5,102.414078 L85.5,89.3915202 L279.5,47.9531093 L279.5,60.9756673 Z" id="Combined-Shape"></path>
+            </g>
+            <g id="text" transform="translate(0.000000, 602.000000)">
+                <text id="RTS" font-family="Questrial-Regular, Questrial" font-size="288" font-weight="normal" fill="#000000">
+                    <tspan x="901.08" y="236">RTS</tspan>
+                </text>
+                <text id="CH" font-family="Questrial-Regular, Questrial" font-size="288" font-weight="normal" fill="#000000">
+                    <tspan x="194" y="236">CH</tspan>
+                </text>
+                <path d="M185.5,42.5 L185.5,238.5" id="helper" fill-rule="nonzero"></path>
+                <path d="M0.5,141.25 L78.5,141.25" id="helper2" fill-rule="nonzero"></path>
+                <text id="1954-2018" transform="translate(130.000000, 140.250000) rotate(-90.000000) translate(-130.000000, -140.250000) " font-family="Questrial-Regular, Questrial" font-size="59" font-weight="normal" fill="#000000">
+                    <tspan x="65.1" y="128.25">1954</tspan>
+                    <tspan x="65.1" y="188.25">2018</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
