@@ -14,6 +14,13 @@ body {
   justify-content: center;
 }
 
+header {
+display: flex;
+flex-direction: column;
+align-items: center;
+
+}
+
 a {
   color: rgba(0, 0, 0, 0.5);
   text-decoration: none;
