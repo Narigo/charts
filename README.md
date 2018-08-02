@@ -10,10 +10,10 @@ To crawl the pages:
 node crawler <year-from> <year-to>
 ```
 
-To fix the durations and put everything into a `result.json`:
+To fix the durations and put everything into a `result.json` and write it into `docs/charts.js`:
 
 ```
-node duration.js
+node into-charts
 ```
 
 

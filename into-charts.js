@@ -10,6 +10,7 @@ async function run() {
   const readFile = promisify(fs.readFile);
   const writeFile = promisify(fs.writeFile);
   const resultsDir = `${__dirname}/results`;
+  const chartsFile = `${__dirname}/docs/charts.js`;
 
   const files = await readdir(resultsDir);
   const result = await files.filter(name => /result-\d+-\d+\.json$/.test(name)).reduce(async (acc, jsonFile) => {
@@ -22,7 +23,9 @@ async function run() {
     };
   }, Promise.resolve({}));
 
-  await writeFile(`${resultsDir}/result.json`, JSON.stringify(result));
+	const resultJson = JSON.stringify(result);
+  await writeFile(`${resultsDir}/result.json`, resultJson);
+  await writeFile(`${chartsFile}`, `export default ${resultJson};`);
 }
 
 function fixDurations(json) {
