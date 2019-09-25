@@ -13,17 +13,19 @@ async function run() {
   const chartsFile = `${__dirname}/docs/charts.js`;
 
   const files = await readdir(resultsDir);
-  const result = await files.filter(name => /result-\d+-\d+\.json$/.test(name)).reduce(async (acc, jsonFile) => {
-    const resultJson = await acc;
-    const json = await readFile(`${resultsDir}/${jsonFile}`);
-    const fixedJson = fixDurations(JSON.parse(json));
-    return {
-      ...resultJson,
-      ...fixedJson
-    };
-  }, Promise.resolve({}));
+  const result = await files
+    .filter(name => /result-\d+-\d+\.json$/.test(name))
+    .reduce(async (acc, jsonFile) => {
+      const resultJson = await acc;
+      const json = await readFile(`${resultsDir}/${jsonFile}`);
+      const fixedJson = fixDurations(JSON.parse(json));
+      return {
+        ...resultJson,
+        ...fixedJson
+      };
+    }, Promise.resolve({}));
 
-	const resultJson = JSON.stringify(result);
+  const resultJson = JSON.stringify(result);
   await writeFile(`${resultsDir}/result.json`, resultJson);
   await writeFile(`${chartsFile}`, `export default ${resultJson};`);
 }

@@ -67,8 +67,14 @@ async function crawl(year) {
       "#mw-content-text > div > table:nth-child(6) > tbody > tr:nth-child(2) > td > table > tbody > tr"
     );
 
-    const singleFilter = $firstElement => /^Singles/.test($firstElement.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.previousElementSibling.innerText);
-    const albumFilter = $firstElement => /^Alben/.test($firstElement.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.previousElementSibling.innerText);
+    const singleFilter = $firstElement =>
+      /^Singles/.test(
+        $firstElement.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.previousElementSibling.innerText
+      );
+    const albumFilter = $firstElement =>
+      /^Alben/.test(
+        $firstElement.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.previousElementSibling.innerText
+      );
 
     const selectedSingles = [
       { list: $singlesFallback0, by: infoFromLi, extraFilter: () => true },
