@@ -18,8 +18,8 @@ function onChange(e) {
   const hitSingle = getHit(date, charts[year].singles);
   const hitAlbum = getHit(date, charts[year].albums);
 
-  const $singles = createSingleOrAlbum("Single", "single", hitSingle);
-  const $albums = createSingleOrAlbum("Album", "album", hitAlbum);
+  const $singles = hitSingle ? createSingleOrAlbum("Single", "single", hitSingle) : createMissing("single");
+  const $albums = hitAlbum ? createSingleOrAlbum("Album", "album", hitAlbum) : createMissing("album");
 
   $result.innerHTML = "";
   $result.appendChild($singles);
@@ -27,6 +27,24 @@ function onChange(e) {
 
   function getHit(date, listOfHits) {
     return listOfHits.find(hit => hit.duration.from <= date && date <= hit.duration.to);
+  }
+
+  function createMissing(singleOrAlbum) {
+    const $missing = document.createElement("div");
+    const $header = document.createElement("div");
+    const $title = document.createElement("div");
+
+    $header.appendChild(document.createTextNode(`Missing ${singleOrAlbum}`));
+    $title.appendChild(document.createTextNode(`Sorry, no ${singleOrAlbum} found!`));
+
+    $header.classList.add("header");
+    $title.classList.add("title");
+
+    $missing.appendChild($header);
+    $missing.appendChild($title);
+    $missing.classList.add(singleOrAlbum);
+
+    return $missing;
   }
 
   function createSingleOrAlbum(header, singleOrAlbum, hit) {
@@ -62,12 +80,12 @@ function onChange(e) {
     $singleOrAlbum.classList.add(singleOrAlbum);
 
     return $singleOrAlbum;
-	}
-	
-	function durationToTime(date) {
-		const year = date.substring(0, 4);
-		const month = date.substring(5, 7);
-		const day = date.substring(8);
-		return `${day}.${month}.${year}`;
-	}
+  }
+
+  function durationToTime(date) {
+    const year = date.substring(0, 4);
+    const month = date.substring(5, 7);
+    const day = date.substring(8);
+    return `${day}.${month}.${year}`;
+  }
 }
