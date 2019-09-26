@@ -3,553 +3,451 @@
     "singles": [
       {
         "interpret": "Stefan Raab & Truck Stop",
-        "title": "Maschen-Draht-Zaun",
-        "duration": "8 Wochen (29. November 1999 – 23. Januar 2000)"
+        "title": "Maschen-Draht-Zaun\nMusik: Stefan Raab; Text: Stefan Raab, Jens Bujar",
+        "duration": "29. November 1999 – 23. Januar 2000\n8 Wochen"
       },
-      { "interpret": "HIM", "title": "Join Me (In Death)", "duration": "4 Wochen (24. Januar – 20. Februar)" },
-      { "interpret": "French Affair", "title": "My Heart Goes Boom", "duration": "3 Wochen (21. Februar – 12. März)" },
-      { "interpret": "Madonna", "title": "American Pie", "duration": "1 Woche (13. März – 19. März)" },
+      {
+        "interpret": "HIM",
+        "title": "Join Me (in Death)\nMusik: Ville Hermanni Valo, Mikko Viljami Lindström, Mika Kristian Karppinen, Mikko Henrik Julius Paananen, Jussi Mikko Salminen; Text: Ville Hermanni Valo",
+        "duration": "24. Januar 2000 – 20. Februar 2000\n4 Wochen"
+      },
+      {
+        "interpret": "French Affair",
+        "title": "My Heart Goes Boom (La Di Da Di)\nMusik: Karsten Dreyer, Torsten Dreyer; Text: Karsten Dreyer, Torsten Dreyer, Barbara Alcindor",
+        "duration": "21. Februar 2000 – 12. März 2000\n3 Wochen"
+      },
+      {
+        "interpret": "Madonna",
+        "title": "American Pie\nDonald McLean",
+        "duration": "13. März 2000 – 19. März 2000\n1 Woche"
+      },
       {
         "interpret": "Santana feat. The Product G&B",
-        "title": "Maria Maria",
-        "duration": "4 Wochen (20. März – 16. April)"
+        "title": "Maria Maria\nJerry Duplessis, Nel Wyclef Jean, David Devine McRae, Marvin Lequiente Moore Hough, Carlos Santana, Karl F. Perazzo",
+        "duration": "20. März 2000 – 16. April 2000\n4 Wochen"
       },
-      { "interpret": "Anton feat. DJ Ötzi", "title": "Anton aus Tirol", "duration": "1 Woche (17. April – 23. April)" },
-      { "interpret": "Die 3. Generation", "title": "Leb!", "duration": "2 Wochen (24. April – 7. Mai)" },
+      {
+        "interpret": "Anton feat. DJ Ötzi",
+        "title": "Anton aus Tirol\nManfred Padinger, Walter Schachner, Friedrich Schicho, Ingrid Evelyn Musenbichler",
+        "duration": "17. April 2000 – 23. April 2000\n1 Woche"
+      },
+      {
+        "interpret": "Die 3. Generation",
+        "title": "Leb!\nMusik: Paul Post, Rudolf H. Ruud Voerman; Text: Henri C. G. Han Kooreneef",
+        "duration": "24. April 2000 – 7. Mai 2000\n2 Wochen"
+      },
       {
         "interpret": "Zlatko",
-        "title": "Ich vermiss Dich … (wie die Hölle)",
-        "duration": "4 Wochen (8. Mai – 4. Juni)"
+        "title": "Ich vermiss Dich … (wie die Hölle)\nBob Arnz, Christoph Siemons",
+        "duration": "8. Mai 2000 – 4. Juni 2000\n4 Wochen"
       },
-      { "interpret": "Bomfunk MC’s", "title": "Freestyler", "duration": "3 Wochen (5. Juni – 25. Juni)" },
-      { "interpret": "Zlatko & Jürgen", "title": "Großer Bruder", "duration": "4 Wochen (26. Juni – 23. Juli)" },
+      {
+        "interpret": "Bomfunk MC’s",
+        "title": "Freestyler\nJaakko Sakari Salovaara, Raymond Anthony Ebanks",
+        "duration": "5. Juni 2000 – 25. Juni 2000\n3 Wochen"
+      },
+      {
+        "interpret": "Zlatko & Jürgen",
+        "title": "Großer Bruder\nBob Arnz, Christoph Siemons, Thomas Anders, Christian Geller, Muck Brückner",
+        "duration": "26. Juni 2000 – 23. Juli 2000\n4 Wochen"
+      },
       {
         "interpret": "ATC",
-        "title": "Around the World (La La La La La)",
-        "duration": "6 Wochen (24. Juli – 3. September)"
+        "title": "Around the World (La La La La La)\nSergej Evgenevich Zhukov, Aleksej Evgenevich Potekhin, Alex Jörg Christensen, Peter Könemann",
+        "duration": "24. Juli 2000 – 3. September 2000\n6 Wochen"
       },
-      { "interpret": "Britney Spears", "title": "Lucky", "duration": "3 Wochen (4. September – 24. September)" },
+      {
+        "interpret": "Britney Spears",
+        "title": "Lucky\nMartin Karl Sandberg, Alexander Erik Kronlund, Rami Yacoub",
+        "duration": "4. September 2000 – 24. September 2000\n3 Wochen"
+      },
       {
         "interpret": "Rednex",
-        "title": "The Spirit of the Hawk",
-        "duration": "9 Wochen (25. September – 26. November)"
+        "title": "The Spirit of the Hawk\nAxel Breitung, Graham Mark Compton, David Alan Cameron-Pryde, Mark Jeffrey Stagg",
+        "duration": "25. September 2000 – 26. November 2000\n9 Wochen"
       },
       {
         "interpret": "Christian",
-        "title": "Es ist geil ein Arschloch zu sein",
-        "duration": "9 Wochen (27. November 2000 – 28. Januar 2001)"
-      },
-      {
-        "interpret": "Céline Dion",
-        "title": "All the Way – A Decade of Song",
-        "duration": "4 Wochen (27. Dezember 1999 – 30. Januar 2000, insgesamt 6 Wochen; → 1999)"
-      },
-      {
-        "interpret": "Santana",
-        "title": "Supernatural",
-        "duration": "1 Woche (31. Januar – 6. Februar, insgesamt 10 Wochen)"
-      },
-      { "interpret": "HIM", "title": "Razorblade Romance", "duration": "1 Woche (7. Februar – 13. Februar)" },
-      {
-        "interpret": "Santana",
-        "title": "Supernatural",
-        "duration": "4 Wochen (14. Februar – 12. März, insgesamt 10 Wochen)"
-      },
-      { "interpret": "AC/DC", "title": "Stiff Upper Lip", "duration": "1 Woche (13. März – 19. März)" },
-      {
-        "interpret": "Santana",
-        "title": "Supernatural",
-        "duration": "2 Wochen (20. März – 2. April, insgesamt 10 Wochen)"
-      },
-      { "interpret": "Böhse Onkelz", "title": "Ein böses Märchen", "duration": "1 Woche (3. April – 9. April)" },
-      {
-        "interpret": "Santana",
-        "title": "Supernatural",
-        "duration": "3 Wochen (10. April – 30. April, insgesamt 10 Wochen)"
-      },
-      { "interpret": "a-ha", "title": "Minor Earth, Major Sky", "duration": "2 Wochen (1. Mai – 14. Mai)" },
-      { "interpret": "Guano Apes", "title": "Don’t Give Me Names", "duration": "2 Wochen (15. Mai – 28. Mai)" },
-      { "interpret": "Britney Spears", "title": "Oops! … I Did It Again", "duration": "2 Wochen (29. Mai – 11. Juni)" },
-      { "interpret": "Bon Jovi", "title": "Crush", "duration": "3 Wochen (12. Juni – 2. Juli, insgesamt 6 Wochen)" },
-      { "interpret": "Wolfgang Petry", "title": "Konkret", "duration": "1 Woche (3. Juli – 9. Juli)" },
-      { "interpret": "Bon Jovi", "title": "Crush", "duration": "3 Wochen (10. Juli – 30. Juli, insgesamt 6 Wochen)" },
-      { "interpret": "The Corrs", "title": "In Blue", "duration": "6 Wochen (31. Juli – 10. September)" },
-      {
-        "interpret": "Robbie Williams",
-        "title": "Sing When You’re Winning",
-        "duration": "1 Woche (11. September – 17. September)"
-      },
-      { "interpret": "Rosenstolz", "title": "Kassengift", "duration": "1 Woche (18. September – 24. September)" },
-      { "interpret": "Pur", "title": "Mittendrin", "duration": "1 Woche (25. September – 1. Oktober)" },
-      { "interpret": "Madonna", "title": "Music", "duration": "3 Wochen (2. Oktober – 22. Oktober)" },
-      {
-        "interpret": "Mark Knopfler",
-        "title": "Sailing to Philadelphia",
-        "duration": "1 Woche (23. Oktober – 29. Oktober)"
-      },
-      {
-        "interpret": "Limp Bizkit",
-        "title": "Chocolate Starfish and the Hot Dog Flavored Water",
-        "duration": "1 Woche (30. Oktober – 5. November)"
-      },
-      {
-        "interpret": "Die Ärzte",
-        "title": "Runter mit den Spendierhosen, Unsichtbarer!",
-        "duration": "1 Woche (6. November – 12. November)"
-      },
-      {
-        "interpret": "U2",
-        "title": "All That You Can’t Leave Behind",
-        "duration": "2 Wochen (13. November – 26. November)"
-      },
-      {
-        "interpret": "The Beatles",
-        "title": "1",
-        "duration": "1 Woche (27. November – 3. Dezember, insgesamt 10 Wochen; → 2001)"
-      },
-      { "interpret": "Backstreet Boys", "title": "Black & Blue", "duration": "1 Woche (4. Dezember – 10. Dezember)" },
-      {
-        "interpret": "The Beatles",
-        "title": "1",
-        "duration": "8 Wochen (11. Dezember 2000 – 4. Februar 2001, insgesamt 10 Wochen)"
+        "title": "Es ist geil, ein Arschloch zu sein\nSteve Velvet",
+        "duration": "27. November 2000 – 28. Januar 2001\n9 Wochen"
       }
     ],
     "albums": [
       {
         "interpret": "Céline Dion",
         "title": "All the Way – A Decade of Song",
-        "duration": "4 Wochen (27. Dezember 1999 – 30. Januar 2000, insgesamt 6 Wochen; → 1999)"
+        "duration": "27. Dezember 1999 – 30. Januar 2000\n5 Wochen"
+      },
+      { "interpret": "Santana", "title": "Supernatural", "duration": "31. Januar 2000 – 6. Februar 2000\n1 Woche" },
+      { "interpret": "HIM", "title": "Razorblade Romance", "duration": "7. Februar 2000 – 13. Februar 2000\n1 Woche" },
+      { "interpret": "Santana", "title": "Supernatural", "duration": "14. Februar 2000 – 12. März 2000\n4 Wochen" },
+      { "interpret": "AC/DC", "title": "Stiff Upper Lip", "duration": "13. März 2000 – 19. März 2000\n1 Woche" },
+      { "interpret": "Santana", "title": "Supernatural", "duration": "20. März 2000 – 2. April 2000\n2 Wochen" },
+      {
+        "interpret": "Böhse Onkelz",
+        "title": "Ein böses Märchen",
+        "duration": "3. April 2000 – 9. April 2000\n1 Woche"
+      },
+      { "interpret": "Santana", "title": "Supernatural", "duration": "10. April 2000 – 30. April 2000\n3 Wochen" },
+      { "interpret": "a-ha", "title": "Minor Earth, Major Sky", "duration": "1. Mai 2000 – 14. Mai 2000\n2 Wochen" },
+      {
+        "interpret": "Guano Apes",
+        "title": "Don’t Give Me Names",
+        "duration": "15. Mai 2000 – 28. Mai 2000\n2 Wochen"
       },
       {
-        "interpret": "Santana",
-        "title": "Supernatural",
-        "duration": "1 Woche (31. Januar – 6. Februar, insgesamt 10 Wochen)"
+        "interpret": "Britney Spears",
+        "title": "Oops! … I Did It Again",
+        "duration": "29. Mai 2000 – 11. Juni 2000\n2 Wochen"
       },
-      { "interpret": "HIM", "title": "Razorblade Romance", "duration": "1 Woche (7. Februar – 13. Februar)" },
-      {
-        "interpret": "Santana",
-        "title": "Supernatural",
-        "duration": "4 Wochen (14. Februar – 12. März, insgesamt 10 Wochen)"
-      },
-      { "interpret": "AC/DC", "title": "Stiff Upper Lip", "duration": "1 Woche (13. März – 19. März)" },
-      {
-        "interpret": "Santana",
-        "title": "Supernatural",
-        "duration": "2 Wochen (20. März – 2. April, insgesamt 10 Wochen)"
-      },
-      { "interpret": "Böhse Onkelz", "title": "Ein böses Märchen", "duration": "1 Woche (3. April – 9. April)" },
-      {
-        "interpret": "Santana",
-        "title": "Supernatural",
-        "duration": "3 Wochen (10. April – 30. April, insgesamt 10 Wochen)"
-      },
-      { "interpret": "a-ha", "title": "Minor Earth, Major Sky", "duration": "2 Wochen (1. Mai – 14. Mai)" },
-      { "interpret": "Guano Apes", "title": "Don’t Give Me Names", "duration": "2 Wochen (15. Mai – 28. Mai)" },
-      { "interpret": "Britney Spears", "title": "Oops! … I Did It Again", "duration": "2 Wochen (29. Mai – 11. Juni)" },
-      { "interpret": "Bon Jovi", "title": "Crush", "duration": "3 Wochen (12. Juni – 2. Juli, insgesamt 6 Wochen)" },
-      { "interpret": "Wolfgang Petry", "title": "Konkret", "duration": "1 Woche (3. Juli – 9. Juli)" },
-      { "interpret": "Bon Jovi", "title": "Crush", "duration": "3 Wochen (10. Juli – 30. Juli, insgesamt 6 Wochen)" },
-      { "interpret": "The Corrs", "title": "In Blue", "duration": "6 Wochen (31. Juli – 10. September)" },
+      { "interpret": "Bon Jovi", "title": "Crush", "duration": "12. Juni 2000 – 2. Juli 2000\n3 Wochen" },
+      { "interpret": "Wolfgang Petry", "title": "Konkret", "duration": "3. Juli 2000 – 9. Juli 2000\n1 Woche" },
+      { "interpret": "Bon Jovi", "title": "Crush", "duration": "10. Juli 2000 – 30. Juli 2000\n3 Wochen" },
+      { "interpret": "The Corrs", "title": "In Blue", "duration": "31. Juli 2000 – 10. September 2000\n6 Wochen" },
       {
         "interpret": "Robbie Williams",
         "title": "Sing When You’re Winning",
-        "duration": "1 Woche (11. September – 17. September)"
+        "duration": "11. September 2000 – 17. September 2000\n1 Woche"
       },
-      { "interpret": "Rosenstolz", "title": "Kassengift", "duration": "1 Woche (18. September – 24. September)" },
-      { "interpret": "Pur", "title": "Mittendrin", "duration": "1 Woche (25. September – 1. Oktober)" },
-      { "interpret": "Madonna", "title": "Music", "duration": "3 Wochen (2. Oktober – 22. Oktober)" },
+      {
+        "interpret": "Rosenstolz",
+        "title": "Kassengift",
+        "duration": "18. September 2000 – 24. September 2000\n1 Woche"
+      },
+      { "interpret": "Pur", "title": "Mittendrin", "duration": "25. September 2000 – 1. Oktober 2000\n1 Woche" },
+      { "interpret": "Madonna", "title": "Music", "duration": "2. Oktober 2000 – 22. Oktober 2000\n3 Wochen" },
       {
         "interpret": "Mark Knopfler",
         "title": "Sailing to Philadelphia",
-        "duration": "1 Woche (23. Oktober – 29. Oktober)"
+        "duration": "23. Oktober 2000 – 29. Oktober 2000\n1 Woche"
       },
       {
         "interpret": "Limp Bizkit",
         "title": "Chocolate Starfish and the Hot Dog Flavored Water",
-        "duration": "1 Woche (30. Oktober – 5. November)"
+        "duration": "30. Oktober 2000 – 5. November 2000\n1 Woche"
       },
       {
         "interpret": "Die Ärzte",
         "title": "Runter mit den Spendierhosen, Unsichtbarer!",
-        "duration": "1 Woche (6. November – 12. November)"
+        "duration": "6. November 2000 – 12. November 2000\n1 Woche"
       },
       {
         "interpret": "U2",
         "title": "All That You Can’t Leave Behind",
-        "duration": "2 Wochen (13. November – 26. November)"
+        "duration": "13. November 2000 – 26. November 2000\n2 Wochen"
       },
+      { "interpret": "The Beatles", "title": "1", "duration": "27. November 2000 – 3. Dezember 2000\n1 Woche" },
       {
-        "interpret": "The Beatles",
-        "title": "1",
-        "duration": "1 Woche (27. November – 3. Dezember, insgesamt 10 Wochen; → 2001)"
+        "interpret": "Backstreet Boys",
+        "title": "Black & Blue",
+        "duration": "4. Dezember 2000 – 10. Dezember 2000\n1 Woche"
       },
-      { "interpret": "Backstreet Boys", "title": "Black & Blue", "duration": "1 Woche (4. Dezember – 10. Dezember)" },
-      {
-        "interpret": "The Beatles",
-        "title": "1",
-        "duration": "8 Wochen (11. Dezember 2000 – 4. Februar 2001, insgesamt 10 Wochen)"
-      }
+      { "interpret": "The Beatles", "title": "1", "duration": "11. Dezember 2000 – 4. Februar 2001\n8 Wochen" }
     ]
   },
   "2001": {
     "singles": [
       {
         "interpret": "Christian",
-        "title": "Es ist geil, ein Arschloch zu sein",
-        "duration": "9 Wochen (27. November 2000 – 28. Januar 2001)"
+        "title": "Es ist geil, ein Arschloch zu sein\nSteve Velvet",
+        "duration": "27. November 2000 – 28. Januar 2001\n9 Wochen"
       },
-      { "interpret": "Eminem feat. Dido", "title": "Stan", "duration": "1 Woche (29. Januar – 4. Februar)" },
-      { "interpret": "OutKast", "title": "Ms. Jackson", "duration": "2 Wochen (5. Februar – 18. Februar)" },
-      { "interpret": "No Angels", "title": "Daylight in Your Eyes", "duration": "6 Wochen (19. Februar – 1. April)" },
+      {
+        "interpret": "Eminem feat. Dido",
+        "title": "Stan\nDido Armstrong, Paul Philip Herman, Marshall Mathers",
+        "duration": "29. Januar 2001 – 4. Februar 2001\n1 Woche"
+      },
+      {
+        "interpret": "OutKast",
+        "title": "Ms. Jackson\nAndré Lauren Benjamin, Antwan Andre Patton, David A. Sheats",
+        "duration": "5. Februar 2001 – 18. Februar 2001\n2 Wochen"
+      },
+      {
+        "interpret": "No Angels",
+        "title": "Daylight in Your Eyes\nAnthony Michael Bruno, Tommy Byrnes, Paul Mihalitsianos",
+        "duration": "19. Februar 2001 – 1. April 2001\n6 Wochen"
+      },
       {
         "interpret": "Crazy Town",
-        "title": "Butterfly",
-        "duration": "5 Wochen (2. April – 6. Mai, insgesamt 6 Wochen)"
+        "title": "Butterfly\nMichael Peter Balzary, Anthony Kiedis, Chad Gaylord Smith, John Anthony Frusciante, Bret H. Mazur, Seth Brooks Binzer",
+        "duration": "2. April 2001 – 6. Mai 2001\n5 Wochen"
       },
-      { "interpret": "Depeche Mode", "title": "Dream On", "duration": "1 Woche (7. Mai – 13. Mai)" },
+      {
+        "interpret": "Depeche Mode",
+        "title": "Dream On\nMartin Lee Gore",
+        "duration": "7. Mai 2001 – 13. Mai 2001\n1 Woche"
+      },
       {
         "interpret": "Crazy Town",
-        "title": "Butterfly",
-        "duration": "1 Woche (14. Mai – 20. Mai, insgesamt 6 Wochen)"
+        "title": "Butterfly\nMichael Peter Balzary, Anthony Kiedis, Chad Gaylord Smith, John Anthony Frusciante, Bret H. Mazur, Seth Brooks Binzer",
+        "duration": "14. Mai 2001 – 20. Mai 2001\n1 Woche"
       },
-      { "interpret": "Atomic Kitten", "title": "Whole Again", "duration": "6 Wochen (21. Mai – 1. Juli)" },
+      {
+        "interpret": "Atomic Kitten",
+        "title": "Whole Again\nGeorge Andrew McCluskey, Stuart Kershaw, Bill Padley, Jeremy Peter Godfrey",
+        "duration": "21. Mai 2001 – 1. Juli 2001\n6 Wochen"
+      },
       {
         "interpret": "Dante Thomas featuring Pras Michel",
-        "title": "Miss California",
-        "duration": "1 Woche (2. Juli – 8. Juli)"
+        "title": "Miss California\nRasheem Sharrief Pugh, Vada J. Nobles",
+        "duration": "2. Juli 2001 – 8. Juli 2001\n1 Woche"
       },
       {
         "interpret": "Christina Aguilera, Lil’ Kim, Mýa, Pink & Missy Elliott",
-        "title": "Lady Marmalade",
-        "duration": "1 Woche (9. Juli – 15. Juli)"
+        "title": "Lady Marmalade\nBob Crewe, Kenny Nolan",
+        "duration": "9. Juli 2001 – 15. Juli 2001\n1 Woche"
       },
-      { "interpret": "Shaggy feat. Rayvon", "title": "Angel", "duration": "4 Wochen (16. Juli – 12. August)" },
-      { "interpret": "Uncle Kracker", "title": "Follow Me", "duration": "2 Wochen (13. August – 26. August)" },
+      {
+        "interpret": "Shaggy feat. Rayvon",
+        "title": "Angel\nSteven Haworth Miller, Eddie Curtis, Ahmet Ertegun, Chip Taylor",
+        "duration": "16. Juli 2001 – 12. August 2001\n4 Wochen"
+      },
+      {
+        "interpret": "Uncle Kracker",
+        "title": "Follow Me\nMatthew L. Shafer, Michael Bradford",
+        "duration": "13. August 2001 – 26. August 2001\n2 Wochen"
+      },
       {
         "interpret": "No Angels",
-        "title": "There Must Be an Angel",
-        "duration": "5 Wochen (27. August – 30. September)"
+        "title": "There Must Be an Angel (Playing with My Heart)\nAnnie Lennox, David Alan Stewart",
+        "duration": "27. August 2001 – 30. September 2001\n5 Wochen"
       },
-      { "interpret": "Enya", "title": "Only Time", "duration": "6 Wochen (1. Oktober – 11. November)" },
+      {
+        "interpret": "Enya",
+        "title": "Only Time\nMusik: Eith Ní Bhraonáin, Nicholas Dominick Ryan; Text: Roma Shane Ryan",
+        "duration": "1. Oktober 2001 – 11. November 2001\n6 Wochen"
+      },
       {
         "interpret": "Kylie Minogue",
-        "title": "Can’t Get You Out of My Head",
-        "duration": "1 Woche (12. November – 18. November)"
+        "title": "Can’t Get You Out of My Head\nCathy Dennis, Robert Berkeley Davis",
+        "duration": "12. November 2001 – 18. November 2001\n1 Woche"
       },
-      { "interpret": "Afroman", "title": "Because I Got High", "duration": "1 Woche (19. November – 25. November)" },
+      {
+        "interpret": "Afroman",
+        "title": "Because I Got High\nJoseph Foreman",
+        "duration": "19. November 2001 – 25. November 2001\n1 Woche"
+      },
       {
         "interpret": "Sarah Connor",
-        "title": "From Sarah with Love",
-        "duration": "3 Wochen (26. November – 16. Dezember)"
-      },
-      { "interpret": "Bro’Sis", "title": "I Believe", "duration": "6 Wochen (17. Dezember 2001 – 27. Januar 2002)" },
-      {
-        "interpret": "The Beatles",
-        "title": "1",
-        "duration": "8 Wochen (11. Dezember 2000 – 4. Februar 2001, insgesamt 10 Wochen; → 2000)"
-      },
-      { "interpret": "Jennifer Lopez", "title": "J.Lo", "duration": "3 Wochen (5. Februar – 25. Februar)" },
-      { "interpret": "The Beatles", "title": "1", "duration": "1 Woche (26. Februar – 4. März, insgesamt 10 Wochen)" },
-      { "interpret": "Peter Maffay", "title": "Heute vor dreißig Jahren", "duration": "3 Wochen (5. März – 25. März)" },
-      { "interpret": "No Angels", "title": "Elle’ments", "duration": "3 Wochen (26. März – 15. April)" },
-      { "interpret": "Rammstein", "title": "Mutter", "duration": "4 Wochen (16. April – 13. Mai)" },
-      { "interpret": "Destiny’s Child", "title": "Survivor", "duration": "2 Wochen (14. Mai – 27. Mai)" },
-      { "interpret": "Depeche Mode", "title": "Exciter", "duration": "2 Wochen (28. Mai – 10. Juni)" },
-      { "interpret": "R.E.M.", "title": "Reveal", "duration": "2 Wochen (11. Juni – 24. Juni)" },
-      { "interpret": "BAP", "title": "Aff un zo", "duration": "1 Woche (25. Juni – 1. Juli, insgesamt 2 Wochen)" },
-      {
-        "interpret": "blink-182",
-        "title": "Take Off Your Pants and Jacket",
-        "duration": "1 Woche (2. Juli – 8. Juli)"
-      },
-      { "interpret": "BAP", "title": "Aff un zo", "duration": "1 Woche (9. Juli – 15. Juli, insgesamt 2 Wochen)" },
-      { "interpret": "Shaggy", "title": "Hot Shot", "duration": "4 Wochen (16. Juli – 12. August)" },
-      { "interpret": "Schiller", "title": "Weltreise", "duration": "4 Wochen (13. August – 9. September)" },
-      {
-        "interpret": "Pur",
-        "title": "Hits PUR – 20 Jahre eine Band",
-        "duration": "4 Wochen (10. September – 7. Oktober)"
+        "title": "From Sarah with Love\nRob Tyger, Kay Denar",
+        "duration": "26. November 2001 – 16. Dezember 2001\n3 Wochen"
       },
       {
-        "interpret": "Enya",
-        "title": "A Day without Rain",
-        "duration": "2 Wochen (8. Oktober – 21. Oktober, insgesamt 3 Wochen)"
-      },
-      {
-        "interpret": "Kylie Minogue",
-        "title": "Fever",
-        "duration": "1 Woche (22. Oktober – 28. Oktober, insgesamt 2 Wochen)"
-      },
-      {
-        "interpret": "Enya",
-        "title": "A Day Without Rain",
-        "duration": "1 Woche (29. Oktober – 4. November, insgesamt 3 Wochen)"
-      },
-      {
-        "interpret": "Kylie Minogue",
-        "title": "Fever",
-        "duration": "1 Woche (5. November – 11. November, insgesamt 2 Wochen)"
-      },
-      { "interpret": "Michael Jackson", "title": "Invincible", "duration": "1 Woche (12. November – 18. November)" },
-      { "interpret": "Britney Spears", "title": "Britney", "duration": "1 Woche (19. November – 25. November)" },
-      {
-        "interpret": "Pink Floyd",
-        "title": "Echoes: The Best of Pink Floyd",
-        "duration": "1 Woche (26. November – 2. Dezember)"
-      },
-      {
-        "interpret": "Robbie Williams",
-        "title": "Swing When You’re Winning",
-        "duration": "9 Wochen (3. Dezember 2001 – 3. Februar 2002)"
+        "interpret": "Bro’Sis",
+        "title": "I Believe\nAlex Jörg Christensen, Peter Könemann, Jens Klein, Clyde Joseph Ward",
+        "duration": "17. Dezember 2001 – 27. Januar 2002\n6 Wochen"
       }
     ],
     "albums": [
+      { "interpret": "The Beatles", "title": "1", "duration": "11. Dezember 2000 – 4. Februar 2001\n8 Wochen" },
+      { "interpret": "Jennifer Lopez", "title": "J.Lo", "duration": "5. Februar 2001 – 25. Februar 2001\n3 Wochen" },
+      { "interpret": "The Beatles", "title": "1", "duration": "26. Februar 2001 – 4. März 2001\n1 Woche" },
       {
-        "interpret": "The Beatles",
-        "title": "1",
-        "duration": "8 Wochen (11. Dezember 2000 – 4. Februar 2001, insgesamt 10 Wochen; → 2000)"
+        "interpret": "Peter Maffay",
+        "title": "Heute vor dreißig Jahren",
+        "duration": "5. März 2001 – 25. März 2001\n3 Wochen"
       },
-      { "interpret": "Jennifer Lopez", "title": "J.Lo", "duration": "3 Wochen (5. Februar – 25. Februar)" },
-      { "interpret": "The Beatles", "title": "1", "duration": "1 Woche (26. Februar – 4. März, insgesamt 10 Wochen)" },
-      { "interpret": "Peter Maffay", "title": "Heute vor dreißig Jahren", "duration": "3 Wochen (5. März – 25. März)" },
-      { "interpret": "No Angels", "title": "Elle’ments", "duration": "3 Wochen (26. März – 15. April)" },
-      { "interpret": "Rammstein", "title": "Mutter", "duration": "4 Wochen (16. April – 13. Mai)" },
-      { "interpret": "Destiny’s Child", "title": "Survivor", "duration": "2 Wochen (14. Mai – 27. Mai)" },
-      { "interpret": "Depeche Mode", "title": "Exciter", "duration": "2 Wochen (28. Mai – 10. Juni)" },
-      { "interpret": "R.E.M.", "title": "Reveal", "duration": "2 Wochen (11. Juni – 24. Juni)" },
-      { "interpret": "BAP", "title": "Aff un zo", "duration": "1 Woche (25. Juni – 1. Juli, insgesamt 2 Wochen)" },
+      { "interpret": "No Angels", "title": "Elle’ments", "duration": "26. März 2001 – 15. April 2001\n3 Wochen" },
+      { "interpret": "Rammstein", "title": "Mutter", "duration": "6. April 2001 – 13. Mai 2001\n6 Wochen" },
+      { "interpret": "Destiny’s Child", "title": "Survivor", "duration": "14. Mai 2001 – 27. Mai 2001\n2 Wochen" },
+      { "interpret": "Depeche Mode", "title": "Exciter", "duration": "28. Mai 2001 – 10. Juni 2001\n2 Wochen" },
+      { "interpret": "R.E.M.", "title": "Reveal", "duration": "11. Juni 2001 – 24. Juni 2001\n2 Wochen" },
+      { "interpret": "BAP", "title": "Aff un zo", "duration": "25. Juni 2001 – 1. Juli 2001\n1 Woche" },
       {
         "interpret": "blink-182",
         "title": "Take Off Your Pants and Jacket",
-        "duration": "1 Woche (2. Juli – 8. Juli)"
+        "duration": "2. Juli 2001 – 8. Juli 2001\n1 Woche"
       },
-      { "interpret": "BAP", "title": "Aff un zo", "duration": "1 Woche (9. Juli – 15. Juli, insgesamt 2 Wochen)" },
-      { "interpret": "Shaggy", "title": "Hot Shot", "duration": "4 Wochen (16. Juli – 12. August)" },
-      { "interpret": "Schiller", "title": "Weltreise", "duration": "4 Wochen (13. August – 9. September)" },
+      { "interpret": "BAP", "title": "Aff un zo", "duration": "9. Juli 2001 – 15. Juli 2001\n1 Woche" },
+      { "interpret": "Shaggy", "title": "Hot Shot", "duration": "16. Juli 2001 – 12. August 2001\n4 Wochen" },
+      { "interpret": "Schiller", "title": "Weltreise", "duration": "13. August 2001 – 9. September 2001\n4 Wochen" },
       {
         "interpret": "Pur",
         "title": "Hits PUR – 20 Jahre eine Band",
-        "duration": "4 Wochen (10. September – 7. Oktober)"
-      },
-      {
-        "interpret": "Enya",
-        "title": "A Day without Rain",
-        "duration": "2 Wochen (8. Oktober – 21. Oktober, insgesamt 3 Wochen)"
-      },
-      {
-        "interpret": "Kylie Minogue",
-        "title": "Fever",
-        "duration": "1 Woche (22. Oktober – 28. Oktober, insgesamt 2 Wochen)"
+        "duration": "10. September 2001 – 7. Oktober 2001\n4 Wochen"
       },
       {
         "interpret": "Enya",
         "title": "A Day Without Rain",
-        "duration": "1 Woche (29. Oktober – 4. November, insgesamt 3 Wochen)"
+        "duration": "8. Oktober 2001 – 21. Oktober 2001\n2 Wochen"
+      },
+      { "interpret": "Kylie Minogue", "title": "Fever", "duration": "22. Oktober 2001 – 28. Oktober 2001\n1 Woche" },
+      {
+        "interpret": "Enya",
+        "title": "A Day Without Rain",
+        "duration": "29. Oktober 2001 – 4. November 2001\n1 Woche"
+      },
+      { "interpret": "Kylie Minogue", "title": "Fever", "duration": "5. November 2001 – 11. November 2001\n1 Woche" },
+      {
+        "interpret": "Michael Jackson",
+        "title": "Invincible",
+        "duration": "12. November 2001 – 18. November 2001\n1 Woche"
       },
       {
-        "interpret": "Kylie Minogue",
-        "title": "Fever",
-        "duration": "1 Woche (5. November – 11. November, insgesamt 2 Wochen)"
+        "interpret": "Britney Spears",
+        "title": "Britney",
+        "duration": "19. November 2001 – 25. November 2001\n1 Woche"
       },
-      { "interpret": "Michael Jackson", "title": "Invincible", "duration": "1 Woche (12. November – 18. November)" },
-      { "interpret": "Britney Spears", "title": "Britney", "duration": "1 Woche (19. November – 25. November)" },
       {
         "interpret": "Pink Floyd",
         "title": "Echoes: The Best of Pink Floyd",
-        "duration": "1 Woche (26. November – 2. Dezember)"
+        "duration": "26. November 2001 – 2. Dezember 2001\n1 Woche"
       },
       {
         "interpret": "Robbie Williams",
         "title": "Swing When You’re Winning",
-        "duration": "9 Wochen (3. Dezember 2001 – 3. Februar 2002)"
+        "duration": "3. Dezember 2001 – 3. Februar 2002\n9 Wochen"
       }
     ]
   },
   "2002": {
     "singles": [
-      { "interpret": "Bro’Sis", "title": "I Believe", "duration": "6 Wochen (17. Dezember 2001 – 27. Januar 2002)" },
-      { "interpret": "Enya", "title": "May It Be", "duration": "1 Woche (28. Januar – 3. Februar)" },
-      { "interpret": "Shakira", "title": "Whenever, Wherever", "duration": "11 Wochen (4. Februar – 21. April)" },
-      { "interpret": "Scooter", "title": "Nessaja", "duration": "1 Woche (22. April – 28. April, insgesamt 3 Wochen)" },
-      { "interpret": "Mad’House", "title": "Like a Prayer", "duration": "1 Woche (29. April – 5. Mai)" },
-      { "interpret": "Scooter", "title": "Nessaja", "duration": "2 Wochen (6. Mai – 19. Mai, insgesamt 3 Wochen)" },
+      {
+        "interpret": "Bro’Sis",
+        "title": "I Believe\nAlex Jörg Christensen, Peter Könemann, Jens Klein, Clyde Joseph Ward",
+        "duration": "17. Dezember 2001 – 27. Januar 2002\n6 Wochen"
+      },
+      {
+        "interpret": "Enya",
+        "title": "May It Be\nMusik: Eith Ní Bhraonáin, Nicky Ryan; Text: Roma Shane Ryan",
+        "duration": "28. Januar 2002 – 3. Februar 2002\n1 Woche"
+      },
+      {
+        "interpret": "Shakira",
+        "title": "Whenever, Wherever\nShakira Isabel Mebarak, Gloria M. Estefan, Timothy C. Mitchell",
+        "duration": "4. Februar 2002 – 21. April 2002\n11 Wochen"
+      },
+      {
+        "interpret": "Scooter",
+        "title": "Nessaja\nMusik: Peter Maffay; Text: Rolf Zuckowski",
+        "duration": "22. April 2002 – 28. April 2002\n1 Woche"
+      },
+      {
+        "interpret": "Mad’House",
+        "title": "Like a Prayer\nMadonna L. Ciccone, Patrick Raymond Leonard",
+        "duration": "29. April 2002 – 5. Mai 2002\n1 Woche"
+      },
+      {
+        "interpret": "Scooter",
+        "title": "Nessaja\nMusik: Peter Maffay; Text: Rolf Zuckowski",
+        "duration": "6. Mai 2002 – 19. Mai 2002\n2 Wochen"
+      },
       {
         "interpret": "No Angels",
-        "title": "Something About Us/Like Ice in the Sunshine",
-        "duration": "4 Wochen (20. Mai – 16. Juni)"
+        "title": "Something About Us / Like Ice in the Sunshine\nThorsten Brötzmann, Alexander Geringas, Vanessa Petruo, Holger Julian Copp, Hanno Harders",
+        "duration": "20. Mai 2002 – 16. Juni 2002\n4 Wochen"
       },
-      { "interpret": "Eminem", "title": "Without Me", "duration": "9 Wochen (17. Juni – 18. August)" },
-      { "interpret": "Herbert Grönemeyer", "title": "Mensch", "duration": "5 Wochen (19. August – 22. September)" },
+      {
+        "interpret": "Eminem",
+        "title": "Without Me\nAnne Jennifer Dudley, Marshall Mathers, Jeffrey Irwin Bass, Malcolm Robert Andrew McLaren, Trevor Charles Horn, Kevin Dean Bell",
+        "duration": "17. Juni 2002 – 18. August 2002\n9 Wochen"
+      },
+      {
+        "interpret": "Herbert Grönemeyer",
+        "title": "Mensch\nHerbert Arthur Grönemeyer",
+        "duration": "19. August 2002 – 22. September 2002\n5 Wochen"
+      },
       {
         "interpret": "Las Ketchup",
-        "title": "The Ketchup Song (Aserejé)",
-        "duration": "7 Wochen (23. September – 10. November)"
+        "title": "The Ketchup Song (Aserejé)\nFrancisco Manuel Ruiz Gomez",
+        "duration": "23. September 2002 – 10. November 2002\n7 Wochen"
       },
       {
         "interpret": "Nelly feat. Kelly Rowland",
-        "title": "Dilemma",
-        "duration": "2 Wochen (11. November – 24. November)"
+        "title": "Dilemma\nKenneth Gamble, Bunny Sigler, Cornell Haynes, Antoine L. Macon",
+        "duration": "11. November 2002 – 24. November 2002\n2 Wochen"
       },
       {
         "interpret": "Die Gerd Show",
-        "title": "Der Steuersong (Las Kanzlern)",
-        "duration": "7 Wochen (25. November 2002 – 12. Januar 2003)"
-      },
-      {
-        "interpret": "Robbie Williams",
-        "title": "Swing When You’re Winning",
-        "duration": "9 Wochen (3. Dezember 2001 – 3. Februar 2002)"
-      },
-      { "interpret": "Die Toten Hosen", "title": "Auswärtsspiel", "duration": "1 Woche (4. Februar – 10. Februar)" },
-      {
-        "interpret": "Bro’Sis",
-        "title": "Never Forget (Where You Come From)",
-        "duration": "2 Wochen (11. Februar – 24. Februar)"
-      },
-      {
-        "interpret": "Anastacia",
-        "title": "Freak of Nature",
-        "duration": "2 Wochen (25. Februar – 10. März, insgesamt 4 Wochen)"
-      },
-      { "interpret": "Alanis Morissette", "title": "Under Rug Swept", "duration": "1 Woche (11. März – 17. März)" },
-      {
-        "interpret": "Anastacia",
-        "title": "Freak of Nature",
-        "duration": "2 Wochen (18. März – 31. März, insgesamt 4 Wochen)"
-      },
-      { "interpret": "Modern Talking", "title": "Victory", "duration": "1 Woche (1. April – 7. April)" },
-      {
-        "interpret": "Xavier Naidoo",
-        "title": "Zwischenspiel – Alles für den Herrn",
-        "duration": "3 Wochen (8. April – 28. April)"
-      },
-      { "interpret": "Böhse Onkelz", "title": "Dopamin", "duration": "2 Wochen (29. April – 12. Mai)" },
-      { "interpret": "a-ha", "title": "Lifelines", "duration": "2 Wochen (13. Mai – 26. Mai)" },
-      { "interpret": "Moby", "title": "18", "duration": "1 Woche (27. Mai – 2. Juni)" },
-      { "interpret": "Ronan Keating", "title": "Destination", "duration": "1 Woche (3. Juni – 9. Juni)" },
-      {
-        "interpret": "Eminem",
-        "title": "The Eminem Show",
-        "duration": "2 Wochen (10. Juni – 23. Juni, insgesamt 3 Wochen)"
-      },
-      { "interpret": "Korn", "title": "Untouchables", "duration": "1 Woche (24. Juni – 30. Juni)" },
-      {
-        "interpret": "Eminem",
-        "title": "The Eminem Show",
-        "duration": "1 Woche (1. Juli – 7. Juli, insgesamt 3 Wochen)"
-      },
-      { "interpret": "No Angels", "title": "Now … Us!", "duration": "2 Wochen (8. Juli – 21. Juli)" },
-      { "interpret": "Red Hot Chili Peppers", "title": "By the Way", "duration": "3 Wochen (22. Juli – 11. August)" },
-      { "interpret": "Bruce Springsteen", "title": "The Rising", "duration": "4 Wochen (12. August – 8. September)" },
-      {
-        "interpret": "Coldplay",
-        "title": "A Rush of Blood to the Head",
-        "duration": "1 Woche (9. September – 15. September)"
-      },
-      {
-        "interpret": "Herbert Grönemeyer",
-        "title": "Mensch",
-        "duration": "9 Wochen (16. September – 17. November, insgesamt 12 Wochen)"
-      },
-      { "interpret": "Westernhagen", "title": "In den Wahnsinn", "duration": "1 Woche (18. November – 24. November)" },
-      {
-        "interpret": "Herbert Grönemeyer",
-        "title": "Mensch",
-        "duration": "1 Woche (25. November – 1. Dezember, insgesamt 12 Wochen; → 2003)"
-      },
-      {
-        "interpret": "Robbie Williams",
-        "title": "Escapology",
-        "duration": "2 Wochen (2. Dezember – 15. Dezember, insgesamt 6 Wochen; → 2003)"
-      },
-      {
-        "interpret": "Herbert Grönemeyer",
-        "title": "Mensch",
-        "duration": "1 Woche (16. Dezember – 22. Dezember, insgesamt 12 Wochen)"
-      },
-      {
-        "interpret": "Robbie Williams",
-        "title": "Escapology",
-        "duration": "2 Wochen (23. Dezember 2002 – 5. Januar 2003, insgesamt 6 Wochen)"
+        "title": "Der Steuersong (Las Kanzlern)\nFrancisco Manuel Ruiz Gomez; deutscher Text: Peter Burtz, Elmar Brandt, Michael Kernbach",
+        "duration": "25. November 2002 – 12. Januar 2003\n7 Wochen"
       }
     ],
     "albums": [
       {
         "interpret": "Robbie Williams",
         "title": "Swing When You’re Winning",
-        "duration": "9 Wochen (3. Dezember 2001 – 3. Februar 2002)"
+        "duration": "3. Dezember 2001 – 3. Februar 2002\n9 Wochen"
       },
-      { "interpret": "Die Toten Hosen", "title": "Auswärtsspiel", "duration": "1 Woche (4. Februar – 10. Februar)" },
+      {
+        "interpret": "Die Toten Hosen",
+        "title": "Auswärtsspiel",
+        "duration": "4. Februar 2002 – 10. Februar 2002\n1 Woche"
+      },
       {
         "interpret": "Bro’Sis",
         "title": "Never Forget (Where You Come From)",
-        "duration": "2 Wochen (11. Februar – 24. Februar)"
+        "duration": "11. Februar 2002 – 24. Februar 2002\n2 Wochen"
       },
       {
         "interpret": "Anastacia",
         "title": "Freak of Nature",
-        "duration": "2 Wochen (25. Februar – 10. März, insgesamt 4 Wochen)"
+        "duration": "25. Februar 2002 – 10. März 2002\n2 Wochen"
       },
-      { "interpret": "Alanis Morissette", "title": "Under Rug Swept", "duration": "1 Woche (11. März – 17. März)" },
       {
-        "interpret": "Anastacia",
-        "title": "Freak of Nature",
-        "duration": "2 Wochen (18. März – 31. März, insgesamt 4 Wochen)"
+        "interpret": "Alanis Morissette",
+        "title": "Under Rug Swept",
+        "duration": "11. März 2002 – 17. März 2002\n1 Woche"
       },
-      { "interpret": "Modern Talking", "title": "Victory", "duration": "1 Woche (1. April – 7. April)" },
+      { "interpret": "Anastacia", "title": "Freak of Nature", "duration": "18. März 2002 – 31. März 2002\n2 Wochen" },
+      { "interpret": "Modern Talking", "title": "Victory", "duration": "1. April 2002 – 7. April 2002\n1 Woche" },
       {
         "interpret": "Xavier Naidoo",
         "title": "Zwischenspiel – Alles für den Herrn",
-        "duration": "3 Wochen (8. April – 28. April)"
+        "duration": "8. April 2002 – 28. April 2002\n3 Wochen"
       },
-      { "interpret": "Böhse Onkelz", "title": "Dopamin", "duration": "2 Wochen (29. April – 12. Mai)" },
-      { "interpret": "a-ha", "title": "Lifelines", "duration": "2 Wochen (13. Mai – 26. Mai)" },
-      { "interpret": "Moby", "title": "18", "duration": "1 Woche (27. Mai – 2. Juni)" },
-      { "interpret": "Ronan Keating", "title": "Destination", "duration": "1 Woche (3. Juni – 9. Juni)" },
+      { "interpret": "Böhse Onkelz", "title": "Dopamin", "duration": "29. April 2002 – 12. Mai 2002\n2 Wochen" },
+      { "interpret": "a-ha", "title": "Lifelines", "duration": "13. Mai 2002 – 26. Mai 2002\n2 Wochen" },
+      { "interpret": "Moby", "title": "18", "duration": "27. Mai 2002 – 2. Juni 2002\n1 Woche" },
+      { "interpret": "Ronan Keating", "title": "Destination", "duration": "3. Juni 2002 – 9. Juni 2002\n1 Woche" },
+      { "interpret": "Eminem", "title": "The Eminem Show", "duration": "10. Juni 2002 – 23. Juni 2002\n2 Wochen" },
+      { "interpret": "Korn", "title": "Untouchables", "duration": "24. Juni 2002 – 30. Juni 2002\n1 Woche" },
+      { "interpret": "Eminem", "title": "The Eminem Show", "duration": "1. Juli 2002 – 7. Juli 2002\n1 Woche" },
+      { "interpret": "No Angels", "title": "Now … Us!", "duration": "8. Juli 2002 – 21. Juli 2002\n2 Wochen" },
       {
-        "interpret": "Eminem",
-        "title": "The Eminem Show",
-        "duration": "2 Wochen (10. Juni – 23. Juni, insgesamt 3 Wochen)"
+        "interpret": "Red Hot Chili Peppers",
+        "title": "By the Way",
+        "duration": "22. Juli 2002 – 11. August 2002\n3 Wochen"
       },
-      { "interpret": "Korn", "title": "Untouchables", "duration": "1 Woche (24. Juni – 30. Juni)" },
       {
-        "interpret": "Eminem",
-        "title": "The Eminem Show",
-        "duration": "1 Woche (1. Juli – 7. Juli, insgesamt 3 Wochen)"
+        "interpret": "Bruce Springsteen",
+        "title": "The Rising",
+        "duration": "12. August 2002 – 8. September 2002\n4 Wochen"
       },
-      { "interpret": "No Angels", "title": "Now … Us!", "duration": "2 Wochen (8. Juli – 21. Juli)" },
-      { "interpret": "Red Hot Chili Peppers", "title": "By the Way", "duration": "3 Wochen (22. Juli – 11. August)" },
-      { "interpret": "Bruce Springsteen", "title": "The Rising", "duration": "4 Wochen (12. August – 8. September)" },
       {
         "interpret": "Coldplay",
         "title": "A Rush of Blood to the Head",
-        "duration": "1 Woche (9. September – 15. September)"
+        "duration": "9. September 2002 – 15. September 2002\n1 Woche"
       },
       {
         "interpret": "Herbert Grönemeyer",
         "title": "Mensch",
-        "duration": "9 Wochen (16. September – 17. November, insgesamt 12 Wochen)"
+        "duration": "16. September 2002 – 17. November 2002\n9 Wochen"
       },
-      { "interpret": "Westernhagen", "title": "In den Wahnsinn", "duration": "1 Woche (18. November – 24. November)" },
+      {
+        "interpret": "Westernhagen",
+        "title": "In den Wahnsinn",
+        "duration": "18. November 2002 – 24. November 2002\n1 Woche"
+      },
       {
         "interpret": "Herbert Grönemeyer",
         "title": "Mensch",
-        "duration": "1 Woche (25. November – 1. Dezember, insgesamt 12 Wochen; → 2003)"
+        "duration": "25. November 2002 – 1. Dezember 2002\n1 Woche"
       },
       {
         "interpret": "Robbie Williams",
         "title": "Escapology",
-        "duration": "2 Wochen (2. Dezember – 15. Dezember, insgesamt 6 Wochen; → 2003)"
+        "duration": "2. Dezember 2002 – 15. Dezember 2002\n2 Wochen"
       },
       {
         "interpret": "Herbert Grönemeyer",
         "title": "Mensch",
-        "duration": "1 Woche (16. Dezember – 22. Dezember, insgesamt 12 Wochen)"
+        "duration": "16. Dezember 2002 – 22. Dezember 2002\n1 Woche"
       },
       {
         "interpret": "Robbie Williams",
         "title": "Escapology",
-        "duration": "2 Wochen (23. Dezember 2002 – 5. Januar 2003, insgesamt 6 Wochen)"
+        "duration": "23. Dezember 2002 – 5. Januar 2003\n2 Wochen"
       }
     ]
   },
@@ -557,283 +455,228 @@
     "singles": [
       {
         "interpret": "Die Gerd Show",
-        "title": "Der Steuersong (Las Kanzlern)",
-        "duration": "7 Wochen (25. November 2002 – 12. Januar 2003)"
+        "title": "Der Steuersong (Las Kanzlern)\nFrancisco Manuel Ruiz Gomez; deutscher Text: Peter Burtz, Elmar Brandt, Michael Kernbach",
+        "duration": "25. November 2002 – 12. Januar 2003\n7 Wochen"
       },
       {
         "interpret": "Deutschland sucht den Superstar",
-        "title": "We Have a Dream",
-        "duration": "6 Wochen (13. Januar – 23. Februar)"
-      },
-      { "interpret": "t.A.T.u.", "title": "All the Things She Said", "duration": "5 Wochen (24. Februar – 30. März)" },
-      {
-        "interpret": "Alexander",
-        "title": "Take Me Tonight",
-        "duration": "2 Wochen (31. März – 13. April, insgesamt 3 Wochen)"
+        "title": "We Have a Dream\nDieter Bohlen",
+        "duration": "13. Januar 2003 – 23. Februar 2003\n6 Wochen"
       },
       {
-        "interpret": "Daniel K.",
-        "title": "You Drive Me Crazy",
-        "duration": "1 Woche (14. April – 20. April, insgesamt 2 Wochen)"
+        "interpret": "t.A.T.u.",
+        "title": "All the Things She Said\nSergey Galoyan, Ivan Nikolaevich Shapovalov, Trevor Charles Horn, Martin Kierszenbaum, Elena Vladimirovna Kiper, Valerij Valentinovich Polienko",
+        "duration": "24. Februar 2003 – 20. März 2003\n3 Wochen"
       },
       {
         "interpret": "Alexander",
-        "title": "Take Me Tonight",
-        "duration": "1 Woche (21. April – 27. April, insgesamt 3 Wochen)"
+        "title": "Take Me Tonight\nDieter Bohlen",
+        "duration": "31. März 2003 – 13. April 2003\n2 Wochen"
       },
       {
         "interpret": "Daniel K.",
-        "title": "You Drive Me Crazy",
-        "duration": "1 Woche (28. April – 4. Mai, insgesamt 2 Wochen)"
+        "title": "You Drive Me Crazy\nDieter Bohlen",
+        "duration": "14. April 2003 – 20. April 2003\n1 Woche"
+      },
+      {
+        "interpret": "Alexander",
+        "title": "Take Me Tonight\nDieter Bohlen",
+        "duration": "21. April 2003 – 27. April 2003\n1 Woche"
+      },
+      {
+        "interpret": "Daniel K.",
+        "title": "You Drive Me Crazy\nDieter Bohlen",
+        "duration": "28. April 2003 – 4. Mai 2003\n1 Woche"
       },
       {
         "interpret": "No Angels",
-        "title": "No Angel (It’s All in Your Mind) / Venus",
-        "duration": "1 Woche (5. Mai – 11. Mai)"
+        "title": "No Angel (It’s All in Your Mind) / Venus\nTim Hawes, Pete Kirtley, Liz Winstanley, Robbie van Leeuwen",
+        "duration": "5. Mai 2003 – 11. Mai 2003\n1 Woche"
       },
-      { "interpret": "50 Cent", "title": "In da Club", "duration": "1 Woche (12. Mai – 18. Mai)" },
-      { "interpret": "Yvonne Catterfeld", "title": "Für dich", "duration": "6 Wochen (19. Mai – 29. Juni)" },
       {
-        "interpret": "RZA",
-        "title": "Ich kenne nichts (das so schön ist wie du)",
-        "duration": "1 Woche (30. Juni – 6. Juli)"
+        "interpret": "50 Cent",
+        "title": "In da Club\nMichael A. Elizondo Jr., André Romell Young, Curtis James Jackson",
+        "duration": "12. Mai 2003 – 18. Mai 2003\n1 Woche"
       },
-      { "interpret": "Outlandish", "title": "Aïcha", "duration": "5 Wochen (7. Juli – 10. August)" },
-      { "interpret": "The Rasmus", "title": "In the Shadows", "duration": "1 Woche (11. August – 17. August)" },
-      { "interpret": "Pur", "title": "Ich denk an dich", "duration": "1 Woche (18. August – 24. August)" },
+      {
+        "interpret": "Yvonne Catterfeld",
+        "title": "Für dich (GZSZ-Lovesong)\nDieter Bohlen; zusätzlicher Text: Klaus Hirschburger, Lucas Hilbert",
+        "duration": "19. Mai 2003 – 29. Juni 2003\n6 Wochen"
+      },
+      {
+        "interpret": "RZA feat. Xavier Naidoo",
+        "title": "Ich kenne nichts (das so schön ist wie du)\nRobert Diggs, Xavier Naidoo, Michael Herberger",
+        "duration": "30. Juni 2003 – 6. Juli 2003\n1 Woche"
+      },
+      {
+        "interpret": "Outlandish",
+        "title": "Aïcha\nMusik: Jean-Jacques Goldman; Text: Jean-Jacques Goldman, Khaled Hadj Brahim",
+        "duration": "7. Juli 2003 – 10. August 2003\n5 Wochen"
+      },
+      {
+        "interpret": "The Rasmus",
+        "title": "In the Shadows\nMusik: Lauri Johannes Ylönen, Eero Aleksi Heinonen, Pauli Antero Rantasalmi, Aki Markus Juhani Hakala; Text: Lauri Johannes Ylönen",
+        "duration": "11. August 2003 – 17. August 2003\n1 Woche"
+      },
+      {
+        "interpret": "Pur",
+        "title": "Ich denk an dich\nIngo Reidl, Hartmut Engler",
+        "duration": "18. August 2003 – 24. August 2003\n1 Woche"
+      },
       {
         "interpret": "DJ Ötzi feat. Eric Dikeb",
-        "title": "Burger Dance",
-        "duration": "1 Woche (25. August – 31. August)"
+        "title": "Burger Dance\nEric Hoogerheide, Gerhard Friedle, Martin Neumayer",
+        "duration": "25. August 2003 – 31. August 2003\n1 Woche"
       },
       {
         "interpret": "Lumidee feat. Busta Rhymes & Fabolous",
-        "title": "Never Leave You (Uh Oooh)",
-        "duration": "1 Woche (1. September und 7. September, insgesamt 2 Wochen)"
+        "title": "Never Leave You (Uh Oooh)\nSteven Michael Marsden, Edwin Z. Perez, Lumidee Cedeño, Teddy Rafael Mendez",
+        "duration": "1. September 2003 – 7. September 2003\n1 Woche"
       },
       {
         "interpret": "Martin Kesici",
-        "title": "Angel of Berlin",
-        "duration": "1 Woche (8. September – 14. September, insgesamt 2 Wochen)"
+        "title": "Angel of Berlin\nRobin Grubert",
+        "duration": "8. September 2003 – 14. September 2003\n1 Woche"
       },
       {
-        "interpret": "Lumidee",
-        "title": "Never Leave You (Uh Oooh)",
-        "duration": "1 Woche (15. September – 21. September, insgesamt 2 Wochen)"
+        "interpret": "Lumidee feat. Busta Rhymes & Fabolous",
+        "title": "Never Leave You (Uh Oooh)\nSteven Michael Marsden, Edwin Z. Perez, Lumidee Cedeño, Teddy Rafael Mendez",
+        "duration": "15. September 2003 – 21. September 2003\n1 Woche"
       },
       {
         "interpret": "Martin Kesici",
-        "title": "Angel of Berlin",
-        "duration": "1 Woche (22. September – 28. September, insgesamt 2 Wochen)"
-      },
-      { "interpret": "Die Ärzte", "title": "Unrockbar", "duration": "1 Woche (29. September – 5. Oktober)" },
-      { "interpret": "Dido", "title": "White Flag", "duration": "1 Woche (6. Oktober – 12. Oktober)" },
-      {
-        "interpret": "The Black Eyed Peas",
-        "title": "Where Is the Love?",
-        "duration": "4 Wochen (13. Oktober – 9. November)"
-      },
-      { "interpret": "Alexander", "title": "Free Like the Wind", "duration": "2 Wochen (10. November – 23. November)" },
-      {
-        "interpret": "Overground",
-        "title": "Schick mir ’nen Engel",
-        "duration": "1 Woche (24. November – 30. November, insgesamt 2 Wochen)"
-      },
-      { "interpret": "Preluders", "title": "Everyday Girl", "duration": "1 Woche (1. Dezember – 7. Dezember)" },
-      {
-        "interpret": "Overground",
-        "title": "Schick mir ’nen Engel",
-        "duration": "1 Woche (8. Dezember – 14. Dezember, insgesamt 2 Wochen)"
-      },
-      { "interpret": "Sarah Connor", "title": "Music Is the Key", "duration": "1 Woche (15. Dezember – 21. Dezember)" },
-      {
-        "interpret": "The Black Eyed Peas",
-        "title": "Shut Up",
-        "duration": "5 Wochen (22. Dezember 2003 – 25. Januar 2004, insgesamt 6 Wochen; → 2004)"
+        "title": "Angel of Berlin\nRobin Grubert",
+        "duration": "22. September 2003 – 28. September 2003\n1 Woche"
       },
       {
-        "interpret": "Robbie Williams",
-        "title": "Escapology",
-        "duration": "2 Wochen (23. Dezember 2002 – 5. Januar 2003, insgesamt 6 Wochen; → 2002)"
-      },
-      {
-        "interpret": "Herbert Grönemeyer",
-        "title": "Mensch",
-        "duration": "1 Woche (6. Januar – 12. Januar, insgesamt 12 Wochen; → 2002)"
-      },
-      {
-        "interpret": "Robbie Williams",
-        "title": "Escapology",
-        "duration": "2 Wochen (13. Januar – 27. Januar, insgesamt 6 Wochen)"
-      },
-      { "interpret": "N/A", "title": "8 Mile", "duration": "3 Wochen (28. Januar – 16. Februar)" },
-      {
-        "interpret": "Guano Apes",
-        "title": "Walking on a Thin Line",
-        "duration": "1 Woche (17. Februar – 23. Februar)"
-      },
-      {
-        "interpret": "Deutschland sucht den Superstar",
-        "title": "United",
-        "duration": "6 Wochen (24. Februar – 6. April)"
-      },
-      { "interpret": "Linkin Park", "title": "Meteora", "duration": "2 Wochen (7. April – 20. April)" },
-      { "interpret": "Wolfsheim", "title": "Casting Shadows", "duration": "1 Woche (21. April – 27. April)" },
-      { "interpret": "HIM", "title": "Love Metal", "duration": "1 Woche (28. April – 4. Mai)" },
-      {
-        "interpret": "Madonna",
-        "title": "American Life",
-        "duration": "1 Woche (5. Mai – 11. Mai, insgesamt 2 Wochen)"
-      },
-      { "interpret": "Alexander", "title": "Take Your Chance", "duration": "1 Woche (12. Mai – 18. Mai)" },
-      {
-        "interpret": "Madonna",
-        "title": "American Life",
-        "duration": "1 Woche (19. Mai – 25. Mai, insgesamt 2 Wochen)"
-      },
-      {
-        "interpret": "Marilyn Manson",
-        "title": "The Golden Age of Grotesque",
-        "duration": "1 Woche (26. Mai – 1. Juni)"
-      },
-      { "interpret": "Andrea Berg", "title": "Machtlos", "duration": "1 Woche (2. Juni – 8. Juni)" },
-      { "interpret": "Yvonne Catterfeld", "title": "Meine Welt", "duration": "1 Woche (9. Juni – 15. Juni)" },
-      { "interpret": "Metallica", "title": "St. Anger", "duration": "6 Wochen (16. Juni – 27. Juli)" },
-      { "interpret": "Beyoncé", "title": "Dangerously in Love", "duration": "3 Wochen (28. Juli – 17. August)" },
-      {
-        "interpret": "Kraftwerk",
-        "title": "Tour de France Soundtracks",
-        "duration": "1 Woche (18. August – 24. August)"
-      },
-      { "interpret": "The Rasmus", "title": "Dead Letters", "duration": "1 Woche (25. August – 31. August)" },
-      { "interpret": "Shania Twain", "title": "Up", "duration": "1 Woche (1. September – 7. September)" },
-      { "interpret": "No Angels", "title": "Pure", "duration": "1 Woche (8. September – 14. September)" },
-      {
-        "interpret": "Beginner",
-        "title": "Blast Action Heroes",
-        "duration": "1 Woche (15. September – 21. September)"
-      },
-      { "interpret": "Pur", "title": "Was ist passiert?", "duration": "2 Wochen (22. September – 5. Oktober)" },
-      { "interpret": "Limp Bizkit", "title": "Results May Vary", "duration": "1 Woche (6. Oktober – 12. Oktober)" },
-      { "interpret": "Die Ärzte", "title": "Geräusch", "duration": "1 Woche (13. Oktober – 19. Oktober)" },
-      {
-        "interpret": "Dido",
-        "title": "Life for Rent",
-        "duration": "3 Wochen (20. Oktober – 9. November, insgesamt 4 Wochen)"
-      },
-      {
-        "interpret": "R.E.M.",
-        "title": "In Time – The Best of R.E.M. 1988 – 2003",
-        "duration": "1 Woche (10. November – 16. November)"
+        "interpret": "Die Ärzte",
+        "title": "Unrockbar\nFarin Urlaub",
+        "duration": "29. September 2003 – 5. Oktober 2003\n1 Woche"
       },
       {
         "interpret": "Dido",
-        "title": "Life for Rent",
-        "duration": "1 Woche (17. November – 23. November, insgesamt 4 Wochen)"
+        "title": "White Flag\nDido Armstrong, Richard W. Nowels Jr., Rollo Armstrong",
+        "duration": "6. Oktober 2003 – 12. Oktober 2003\n1 Woche"
       },
       {
-        "interpret": "Herbert Grönemeyer",
-        "title": "Mensch Live (DVD)",
-        "duration": "1 Woche (24. November – 30. November)"
+        "interpret": "The Black Eyed Peas",
+        "title": "Where Is the Love?\nWill Adams, Allan Apll Pineda, Priese Prince Lamont Board, Mike Fratantuno, Justin R. Timberlake, Jaime Luis Gomez, George Pajon",
+        "duration": "13. Oktober 2003 – 9. November 2003\n4 Wochen"
       },
-      { "interpret": "Overground", "title": "It’s Done", "duration": "1 Woche (1. Dezember – 7. Dezember)" },
       {
-        "interpret": "Robbie Williams",
-        "title": "Live Summer 2003",
-        "duration": "7 Wochen (8. Dezember 2003 – 25. Januar 2004)"
+        "interpret": "Alexander",
+        "title": "Free like the Wind\nDieter Bohlen",
+        "duration": "10. November 2003 – 23. November 2003\n2 Wochen"
+      },
+      {
+        "interpret": "Overground",
+        "title": "Schick mir ’nen Engel\nMike Michaels, Mark Dollar, Mark Tabak, Sammy Naja, Tariq Jay Khan, O. K. An, Aldjoumma Sissoko",
+        "duration": "24. November 2003 – 30. November 2003\n1 Woche"
+      },
+      {
+        "interpret": "Preluders",
+        "title": "Everyday Girl\nFredrik Anders Christer Björk, Per Eklund",
+        "duration": "1. Dezember 2003 – 7. Dezember 2003\n1 Woche"
+      },
+      {
+        "interpret": "Overground",
+        "title": "Schick mir ’nen Engel\nMike Michaels, Mark Dollar, Mark Tabak, Sammy Naja, Tariq Jay Khan, O. K. An, Aldjoumma Sissoko",
+        "duration": "8. Dezember 2003 – 14. Dezember 2003\n1 Woche"
+      },
+      {
+        "interpret": "Sarah Connor feat. Naturally 7",
+        "title": "Music Is the Key\nRob Tyger, Kay Denar",
+        "duration": "15. Dezember 2003 – 21. Dezember 2003\n1 Woche"
+      },
+      {
+        "interpret": "The Black Eyed Peas",
+        "title": "Shut Up\nJaime Luis Gomez, William Adams, George Pajon",
+        "duration": "22. Dezember 2003 – 25. Januar 2004\n5 Wochen"
       }
     ],
     "albums": [
       {
         "interpret": "Robbie Williams",
         "title": "Escapology",
-        "duration": "2 Wochen (23. Dezember 2002 – 5. Januar 2003, insgesamt 6 Wochen; → 2002)"
+        "duration": "23. Dezember 2002 – 5. Januar 2003\n2 Wochen"
       },
-      {
-        "interpret": "Herbert Grönemeyer",
-        "title": "Mensch",
-        "duration": "1 Woche (6. Januar – 12. Januar, insgesamt 12 Wochen; → 2002)"
-      },
+      { "interpret": "Herbert Grönemeyer", "title": "Mensch", "duration": "6. Januar 2003 – 12. Januar 2003\n1 Woche" },
       {
         "interpret": "Robbie Williams",
         "title": "Escapology",
-        "duration": "2 Wochen (13. Januar – 27. Januar, insgesamt 6 Wochen)"
+        "duration": "13. Januar 2003 – 27. Januar 2003\n2 Wochen"
       },
-      { "interpret": "N/A", "title": "8 Mile", "duration": "3 Wochen (28. Januar – 16. Februar)" },
+      { "interpret": "(Soundtrack)", "title": "8 Mile", "duration": "28. Januar 2003 – 16. Februar 2003\n3 Wochen" },
       {
         "interpret": "Guano Apes",
         "title": "Walking on a Thin Line",
-        "duration": "1 Woche (17. Februar – 23. Februar)"
+        "duration": "17. Februar 2003 – 23. Februar 2003\n1 Woche"
       },
       {
         "interpret": "Deutschland sucht den Superstar",
         "title": "United",
-        "duration": "6 Wochen (24. Februar – 6. April)"
+        "duration": "24. Februar 2003 – 6. April 2003\n6 Wochen"
       },
-      { "interpret": "Linkin Park", "title": "Meteora", "duration": "2 Wochen (7. April – 20. April)" },
-      { "interpret": "Wolfsheim", "title": "Casting Shadows", "duration": "1 Woche (21. April – 27. April)" },
-      { "interpret": "HIM", "title": "Love Metal", "duration": "1 Woche (28. April – 4. Mai)" },
-      {
-        "interpret": "Madonna",
-        "title": "American Life",
-        "duration": "1 Woche (5. Mai – 11. Mai, insgesamt 2 Wochen)"
-      },
-      { "interpret": "Alexander", "title": "Take Your Chance", "duration": "1 Woche (12. Mai – 18. Mai)" },
-      {
-        "interpret": "Madonna",
-        "title": "American Life",
-        "duration": "1 Woche (19. Mai – 25. Mai, insgesamt 2 Wochen)"
-      },
+      { "interpret": "Linkin Park", "title": "Meteora", "duration": "7. April 2003 – 20. April 2003\n2 Wochen" },
+      { "interpret": "Wolfsheim", "title": "Casting Shadows", "duration": "21. April 2003 – 27. April 2003\n1 Woche" },
+      { "interpret": "HIM", "title": "Love Metal", "duration": "28. April 2003 – 4. Mai 2003\n1 Woche" },
+      { "interpret": "Madonna", "title": "American Life", "duration": "5. Mai 2003 – 11. Mai 2003\n1 Woche" },
+      { "interpret": "Alexander", "title": "Take Your Chance", "duration": "12. Mai 2003 – 18. Mai 2003\n1 Woche" },
+      { "interpret": "Madonna", "title": "American Life", "duration": "19. Mai 2003 – 25. Mai 2003\n1 Woche" },
       {
         "interpret": "Marilyn Manson",
         "title": "The Golden Age of Grotesque",
-        "duration": "1 Woche (26. Mai – 1. Juni)"
+        "duration": "26. Mai 2003 – 1. Juni 2003\n1 Woche"
       },
-      { "interpret": "Andrea Berg", "title": "Machtlos", "duration": "1 Woche (2. Juni – 8. Juni)" },
-      { "interpret": "Yvonne Catterfeld", "title": "Meine Welt", "duration": "1 Woche (9. Juni – 15. Juni)" },
-      { "interpret": "Metallica", "title": "St. Anger", "duration": "6 Wochen (16. Juni – 27. Juli)" },
-      { "interpret": "Beyoncé", "title": "Dangerously in Love", "duration": "3 Wochen (28. Juli – 17. August)" },
+      { "interpret": "Andrea Berg", "title": "Machtlos", "duration": "2. Juni 2003 – 8. Juni 2003\n1 Woche" },
+      { "interpret": "Yvonne Catterfeld", "title": "Meine Welt", "duration": "9. Juni 2003 – 15. Juni 2003\n1 Woche" },
+      { "interpret": "Metallica", "title": "St. Anger", "duration": "16. Juni 2003 – 27. Juli 2003\n6 Wochen" },
+      {
+        "interpret": "Beyoncé",
+        "title": "Dangerously in Love",
+        "duration": "28. Juli 2003 – 17. August 2003\n3 Wochen"
+      },
       {
         "interpret": "Kraftwerk",
         "title": "Tour de France Soundtracks",
-        "duration": "1 Woche (18. August – 24. August)"
+        "duration": "18. August 2003 – 24. August 2003\n1 Woche"
       },
-      { "interpret": "The Rasmus", "title": "Dead Letters", "duration": "1 Woche (25. August – 31. August)" },
-      { "interpret": "Shania Twain", "title": "Up", "duration": "1 Woche (1. September – 7. September)" },
-      { "interpret": "No Angels", "title": "Pure", "duration": "1 Woche (8. September – 14. September)" },
+      { "interpret": "The Rasmus", "title": "Dead Letters", "duration": "25. August 2003 – 31. August 2003\n1 Woche" },
+      { "interpret": "Shania Twain", "title": "Up!", "duration": "1. September 2003 – 7. September 2003\n1 Woche" },
+      { "interpret": "No Angels", "title": "Pure", "duration": "8. September 2003 – 14. September 2003\n1 Woche" },
       {
         "interpret": "Beginner",
         "title": "Blast Action Heroes",
-        "duration": "1 Woche (15. September – 21. September)"
+        "duration": "15. September 2003 – 21. September 2003\n1 Woche"
       },
-      { "interpret": "Pur", "title": "Was ist passiert?", "duration": "2 Wochen (22. September – 5. Oktober)" },
-      { "interpret": "Limp Bizkit", "title": "Results May Vary", "duration": "1 Woche (6. Oktober – 12. Oktober)" },
-      { "interpret": "Die Ärzte", "title": "Geräusch", "duration": "1 Woche (13. Oktober – 19. Oktober)" },
       {
-        "interpret": "Dido",
-        "title": "Life for Rent",
-        "duration": "3 Wochen (20. Oktober – 9. November, insgesamt 4 Wochen)"
+        "interpret": "Pur",
+        "title": "Was ist passiert?",
+        "duration": "22. September 2003 – 5. Oktober 2003\n2 Wochen"
       },
+      {
+        "interpret": "Limp Bizkit",
+        "title": "Results May Vary",
+        "duration": "6. Oktober 2003 – 12. Oktober 2003\n1 Woche"
+      },
+      { "interpret": "Die Ärzte", "title": "Geräusch", "duration": "13. Oktober 2003 – 19. Oktober 2003\n1 Woche" },
+      { "interpret": "Dido", "title": "Life for Rent", "duration": "20. Oktober 2003 – 9. November 2003\n3 Wochen" },
       {
         "interpret": "R.E.M.",
         "title": "In Time – The Best of R.E.M. 1988 – 2003",
-        "duration": "1 Woche (10. November – 16. November)"
+        "duration": "10. November 2003 – 16. November 2003\n1 Woche"
       },
-      {
-        "interpret": "Dido",
-        "title": "Life for Rent",
-        "duration": "1 Woche (17. November – 23. November, insgesamt 4 Wochen)"
-      },
+      { "interpret": "Dido", "title": "Life for Rent", "duration": "17. November 2003 – 23. November 2003\n1 Woche" },
       {
         "interpret": "Herbert Grönemeyer",
-        "title": "Mensch Live (DVD)",
-        "duration": "1 Woche (24. November – 30. November)"
+        "title": "Mensch Live [DVD]",
+        "duration": "24. November 2003 – 30. November 2003\n1 Woche"
       },
-      { "interpret": "Overground", "title": "It’s Done", "duration": "1 Woche (1. Dezember – 7. Dezember)" },
+      { "interpret": "Overground", "title": "It’s Done", "duration": "1. Dezember 2003 – 7. Dezember 2003\n1 Woche" },
       {
         "interpret": "Robbie Williams",
         "title": "Live Summer 2003",
-        "duration": "7 Wochen (8. Dezember 2003 – 25. Januar 2004)"
+        "duration": "8. Dezember 2003 – 25. Januar 2004\n7 Wochen"
       }
     ]
   },
@@ -841,211 +684,153 @@
     "singles": [
       {
         "interpret": "The Black Eyed Peas",
-        "title": "Shut Up",
-        "duration": "5 Wochen (22. Dezember 2003 – 25. Januar 2004, insgesamt 6 Wochen; → 2003)"
+        "title": "Shut Up\nJaime Luis Gomez, William Adams, George Pajon",
+        "duration": "22. Dezember 2003 – 25. Januar 2004\n5 Wochen"
       },
       {
         "interpret": "Yvonne Catterfeld",
-        "title": "Du hast mein Herz gebrochen",
-        "duration": "1 Woche (26. Januar – 1. Februar)"
+        "title": "Du hast mein Herz gebrochen\nDieter Bohlen",
+        "duration": "26. Januar 2004 – 1. Februar 2004\n1 Woche"
       },
       {
         "interpret": "The Black Eyed Peas",
-        "title": "Shut Up",
-        "duration": "1 Woche (2. Februar – 8. Februar, insgesamt 6 Wochen)"
+        "title": "Shut Up\nJaime Luis Gomez, William Adams, George Pajon",
+        "duration": "2. Februar 2004 – 8. Februar 2004\n1 Woche"
       },
-      { "interpret": "Oomph!", "title": "Augen auf", "duration": "5 Wochen (9. Februar – 14. März)" },
+      {
+        "interpret": "Oomph!",
+        "title": "Augen auf\nMusik: Maik Straatmann, Marek Vejvoda, Rene Bachmann, Thomas Döppner, Stephan Musiol; Text: Rene Bachmann, Thomas Döppner, Dero Goi, Oliver Woidt",
+        "duration": "9. Februar 2004 – 14. März 2004\n5 Wochen"
+      },
       {
         "interpret": "Sarah Connor feat. Natural",
-        "title": "Just One Last Dance",
-        "duration": "1 Woche (15. März – 21. März)"
+        "title": "Just One Last Dance\nKay Denar, Rob Tyger",
+        "duration": "15. März 2004 – 21. März 2004\n1 Woche"
       },
-      { "interpret": "Max", "title": "Can’t Wait Until Tonight", "duration": "3 Wochen (22. März – 11. April)" },
-      { "interpret": "Usher feat. Ludacris und Lil Jon", "title": "Yeah", "duration": "4 Wochen (12. April – 9. Mai)" },
+      {
+        "interpret": "Max",
+        "title": "Can’t Wait Until Tonight\nStefan Raab",
+        "duration": "22. März 2004 – 11. April 2004\n3 Wochen"
+      },
+      {
+        "interpret": "Usher feat. Ludacris & Lil Jon",
+        "title": "Yeah!\nJames Elbert Phillips, LaMarquis Jefferson, Jonathan H. Smith, Patrick Michael Smith, Christopher Brian Bridges, Sean Garrett",
+        "duration": "12. April 2004 – 9. Mai 2004\n4 Wochen"
+      },
       {
         "interpret": "Mario Winans feat. Enya und P. Diddy",
-        "title": "I Don’t Wanna Know",
-        "duration": "1 Woche (10. Mai – 16. Mai)"
+        "title": "I Don’t Wanna Know\nMichael Carlos Jones, Chauncey Lamont Hawkins, Erick S. Sermon, Parrish Joseff Smith, Nicky Ryan, Roma Shane Ryan, Mario Winans, Eithne Pádraigín Ní Bhraonáin",
+        "duration": "10. Mai 2004 – 16. Mai 2004\n1 Woche"
       },
-      { "interpret": "Eamon", "title": "F**k It (I Don’t Want You Back)", "duration": "3 Wochen (17. Mai – 6. Juni)" },
-      { "interpret": "O-Zone", "title": "Dragostea din tei", "duration": "14 Wochen (7. Juni – 12. September)" },
-      { "interpret": "Aventura", "title": "Obsesión", "duration": "7 Wochen (13. September – 31. Oktober)" },
-      { "interpret": "Eric Prydz", "title": "Call On Me", "duration": "6 Wochen (3. November – 12. Dezember)" },
+      {
+        "interpret": "Eamon",
+        "title": "F**k It (I Don’t Want You Back)\nJonathan Eamon Doyle, Mark Passy, Kirk S. Robinson",
+        "duration": "17. Mai 2004 – 6. Juni 2004\n3 Wochen"
+      },
+      {
+        "interpret": "O-Zone",
+        "title": "Dragostea din tei\nDan Mihai Bălan",
+        "duration": "7. Juni 2004 – 12. September 2004\n14 Wochen"
+      },
+      {
+        "interpret": "Aventura",
+        "title": "Obsesión\nAnthony Santos",
+        "duration": "13. September 2004 – 31. Oktober 2004\n7 Wochen"
+      },
+      {
+        "interpret": "Eric Prydz",
+        "title": "Call on Me\nEric Sheridan Prydz, Steve Winwood, Will Jennings",
+        "duration": "3. November 2004 – 12. Dezember 2004\n6 Wochen"
+      },
       {
         "interpret": "Sarah Connor",
-        "title": "Living to Love You",
-        "duration": "2 Wochen (13. Dezember – 26. Dezember)"
+        "title": "Living to Love You\nKay Denar, Rob Tyger",
+        "duration": "13. Dezember 2004 – 26. Dezember 2004\n2 Wochen"
       },
       {
         "interpret": "Nu Pagadi",
-        "title": "Sweetest Poison",
-        "duration": "1 Woche (27. Dezember 2004 – 2. Januar 2005)"
-      },
-      {
-        "interpret": "Robbie Williams",
-        "title": "Live Summer 2003",
-        "duration": "7 Wochen (8. Dezember 2003 – 25. Januar 2004)"
-      },
-      {
-        "interpret": "Dick Brave & the Backbeats",
-        "title": "Dick This!",
-        "duration": "1 Woche (26. Januar – 2. Februar, insgesamt 3 Wochen)"
-      },
-      { "interpret": "Laith Al-Deen", "title": "Für alle", "duration": "1 Woche (3. Februar – 8. Februar)" },
-      {
-        "interpret": "Dick Brave & The Backbeats",
-        "title": "Dick This!",
-        "duration": "2 Wochen (9. Februar – 22. Februar, insgesamt 3 Wochen)"
-      },
-      { "interpret": "Norah Jones", "title": "Feels Like Home", "duration": "5 Wochen (23. Februar – 28. März)" },
-      { "interpret": "George Michael", "title": "Patience", "duration": "1 Woche (29. März – 4. April)" },
-      { "interpret": "Rosenstolz", "title": "Herz", "duration": "1 Woche (5. April – 11. April)" },
-      {
-        "interpret": "Anastacia",
-        "title": "Anastacia",
-        "duration": "7 Wochen (12. April – 30. Mai, insgesamt 9 Wochen)"
-      },
-      { "interpret": "Alanis Morissette", "title": "So-Called Chaos", "duration": "1 Woche (31. Mai – 6. Juni)" },
-      { "interpret": "Avril Lavigne", "title": "Under My Skin", "duration": "2 Wochen (7. Juni – 20. Juni)" },
-      { "interpret": "Nightwish", "title": "Once", "duration": "1 Woche (21. Juni – 27. Juni, insgesamt 2 Wochen)" },
-      {
-        "interpret": "Söhne Mannheims",
-        "title": "Noiz",
-        "duration": "1 Woche (28. Juni – 4. Juli, insgesamt 2 Wochen)"
-      },
-      { "interpret": "Nightwish", "title": "Once", "duration": "1 Woche (5. Juli – 11. Juli, insgesamt 2 Wochen)" },
-      {
-        "interpret": "Söhne Mannheims",
-        "title": "Noiz",
-        "duration": "1 Woche (12. Juli – 18. Juli, insgesamt 2 Wochen)"
-      },
-      { "interpret": "Andrea Berg", "title": "Du", "duration": "1 Woche (19. Juli – 25. Juli)" },
-      { "interpret": "Alexander", "title": "Here I Am", "duration": "1 Woche (26. Juli – 1. August)" },
-      {
-        "interpret": "Anastacia",
-        "title": "Anastacia",
-        "duration": "1 Woche (2. August – 8. August, insgesamt 9 Wochen)"
-      },
-      { "interpret": "Böhse Onkelz", "title": "Adios", "duration": "3 Wochen (9. August – 29. August)" },
-      {
-        "interpret": "Anastacia",
-        "title": "Anastacia",
-        "duration": "1 Woche (30. August – 5. September, insgesamt 9 Wochen)"
-      },
-      {
-        "interpret": "Die Ärzte",
-        "title": "Die Band, die sie Pferd nannten (DVD)",
-        "duration": "1 Woche (6. September – 12. September)"
-      },
-      { "interpret": "Gentleman", "title": "Confidence", "duration": "2 Wochen (13. September – 26. September)" },
-      { "interpret": "Max Herre", "title": "Max Herre", "duration": "1 Woche (27. September – 3. Oktober)" },
-      { "interpret": "Bryan Adams", "title": "Room Service", "duration": "1 Woche (4. Oktober – 10. Oktober)" },
-      { "interpret": "Rammstein", "title": "Reise, Reise", "duration": "1 Woche (11. Oktober – 17. Oktober)" },
-      { "interpret": "R.E.M.", "title": "Around the Sun", "duration": "1 Woche (18. Oktober – 24. Oktober)" },
-      {
-        "interpret": "Die Toten Hosen",
-        "title": "Zurück zum Glück",
-        "duration": "1 Woche (25. Oktober – 31. Oktober)"
-      },
-      {
-        "interpret": "Robbie Williams",
-        "title": "Greatest Hits",
-        "duration": "4 Wochen (1. November – 28. November, insgesamt 9 Wochen)"
-      },
-      { "interpret": "Eminem", "title": "Encore", "duration": "1 Woche (29. November – 5. Dezember)" },
-      {
-        "interpret": "U2",
-        "title": "How to Dismantle an Atomic Bomb",
-        "duration": "1 Woche (6. Dezember – 12. Dezember)"
-      },
-      {
-        "interpret": "Robbie Williams",
-        "title": "Greatest Hits",
-        "duration": "5 Wochen (13. Dezember 2004 – 16. Januar 2005, insgesamt 9 Wochen)"
+        "title": "Sweetest Poison\nMusik: Lucas Hilbert, Jörn-Uwe Fahrenkrog-Petersen; Text: Lucas Hilbert, Raymond Michael Garvey, Carlo Karges",
+        "duration": "27. Dezember 2004 – 2. Januar 2005\n1 Woche"
       }
     ],
     "albums": [
       {
         "interpret": "Robbie Williams",
         "title": "Live Summer 2003",
-        "duration": "7 Wochen (8. Dezember 2003 – 25. Januar 2004)"
+        "duration": "8. Dezember 2003 – 25. Januar 2004\n7 Wochen"
       },
       {
-        "interpret": "Dick Brave & the Backbeats",
+        "interpret": "Dick Brave and the Backbeats",
         "title": "Dick This!",
-        "duration": "1 Woche (26. Januar – 2. Februar, insgesamt 3 Wochen)"
+        "duration": "26. Januar 2004 – 2. Februar 2004\n1 Woche"
       },
-      { "interpret": "Laith Al-Deen", "title": "Für alle", "duration": "1 Woche (3. Februar – 8. Februar)" },
+      { "interpret": "Laith Al-Deen", "title": "Für alle", "duration": "3. Februar 2004 – 8. Februar 2004\n1 Woche" },
       {
-        "interpret": "Dick Brave & The Backbeats",
+        "interpret": "Dick Brave and the Backbeats",
         "title": "Dick This!",
-        "duration": "2 Wochen (9. Februar – 22. Februar, insgesamt 3 Wochen)"
+        "duration": "9. Februar 2004 – 22. Februar 2004\n2 Wochen"
       },
-      { "interpret": "Norah Jones", "title": "Feels Like Home", "duration": "5 Wochen (23. Februar – 28. März)" },
-      { "interpret": "George Michael", "title": "Patience", "duration": "1 Woche (29. März – 4. April)" },
-      { "interpret": "Rosenstolz", "title": "Herz", "duration": "1 Woche (5. April – 11. April)" },
       {
-        "interpret": "Anastacia",
-        "title": "Anastacia",
-        "duration": "7 Wochen (12. April – 30. Mai, insgesamt 9 Wochen)"
+        "interpret": "Norah Jones",
+        "title": "Feels like Home",
+        "duration": "23. Februar 2004 – 28. März 2004\n5 Wochen"
       },
-      { "interpret": "Alanis Morissette", "title": "So-Called Chaos", "duration": "1 Woche (31. Mai – 6. Juni)" },
-      { "interpret": "Avril Lavigne", "title": "Under My Skin", "duration": "2 Wochen (7. Juni – 20. Juni)" },
-      { "interpret": "Nightwish", "title": "Once", "duration": "1 Woche (21. Juni – 27. Juni, insgesamt 2 Wochen)" },
+      { "interpret": "George Michael", "title": "Patience", "duration": "29. März 2004 – 4. April 2004\n1 Woche" },
+      { "interpret": "Rosenstolz", "title": "Herz", "duration": "5. April 2004 – 11. April 2004\n1 Woche" },
+      { "interpret": "Anastacia", "title": "Anastacia", "duration": "12. April 2004 – 30. Mai 2004\n7 Wochen" },
       {
-        "interpret": "Söhne Mannheims",
-        "title": "Noiz",
-        "duration": "1 Woche (28. Juni – 4. Juli, insgesamt 2 Wochen)"
+        "interpret": "Alanis Morissette",
+        "title": "So-Called Chaos",
+        "duration": "31. Mai 2004 – 6. Juni 2004\n1 Woche"
       },
-      { "interpret": "Nightwish", "title": "Once", "duration": "1 Woche (5. Juli – 11. Juli, insgesamt 2 Wochen)" },
-      {
-        "interpret": "Söhne Mannheims",
-        "title": "Noiz",
-        "duration": "1 Woche (12. Juli – 18. Juli, insgesamt 2 Wochen)"
-      },
-      { "interpret": "Andrea Berg", "title": "Du", "duration": "1 Woche (19. Juli – 25. Juli)" },
-      { "interpret": "Alexander", "title": "Here I Am", "duration": "1 Woche (26. Juli – 1. August)" },
-      {
-        "interpret": "Anastacia",
-        "title": "Anastacia",
-        "duration": "1 Woche (2. August – 8. August, insgesamt 9 Wochen)"
-      },
-      { "interpret": "Böhse Onkelz", "title": "Adios", "duration": "3 Wochen (9. August – 29. August)" },
-      {
-        "interpret": "Anastacia",
-        "title": "Anastacia",
-        "duration": "1 Woche (30. August – 5. September, insgesamt 9 Wochen)"
-      },
+      { "interpret": "Avril Lavigne", "title": "Under My Skin", "duration": "7. Juni 2004 – 20. Juni 2004\n2 Wochen" },
+      { "interpret": "Nightwish", "title": "Once", "duration": "21. Juni 2004 – 27. Juni 2004\n1 Woche" },
+      { "interpret": "Söhne Mannheims", "title": "Noiz", "duration": "28. Juni 2004 – 4. Juli 2004\n1 Woche" },
+      { "interpret": "Nightwish", "title": "Once", "duration": "5. Juli 2004 – 11. Juli 2004\n1 Woche" },
+      { "interpret": "Söhne Mannheims", "title": "Noiz", "duration": "12. Juli 2004 – 18. Juli 2004\n1 Woche" },
+      { "interpret": "Andrea Berg", "title": "Du", "duration": "19. Juli 2004 – 25. Juli 2004\n1 Woche" },
+      { "interpret": "Alexander", "title": "Here I Am", "duration": "26. Juli 2004 – 1. August 2004\n1 Woche" },
+      { "interpret": "Anastacia", "title": "Anastacia", "duration": "2. August 2004 – 8. August 2004\n1 Woche" },
+      { "interpret": "Böhse Onkelz", "title": "Adios", "duration": "9. August 2004 – 29. August 2004\n3 Wochen" },
+      { "interpret": "Anastacia", "title": "Anastacia", "duration": "30. August 2004 – 5. September 2004\n1 Woche" },
       {
         "interpret": "Die Ärzte",
-        "title": "Die Band, die sie Pferd nannten (DVD)",
-        "duration": "1 Woche (6. September – 12. September)"
+        "title": "Die Band, die sie Pferd nannten [DVD]",
+        "duration": "6. September 2004 – 12. September 2004\n1 Woche"
       },
-      { "interpret": "Gentleman", "title": "Confidence", "duration": "2 Wochen (13. September – 26. September)" },
-      { "interpret": "Max Herre", "title": "Max Herre", "duration": "1 Woche (27. September – 3. Oktober)" },
-      { "interpret": "Bryan Adams", "title": "Room Service", "duration": "1 Woche (4. Oktober – 10. Oktober)" },
-      { "interpret": "Rammstein", "title": "Reise, Reise", "duration": "1 Woche (11. Oktober – 17. Oktober)" },
-      { "interpret": "R.E.M.", "title": "Around the Sun", "duration": "1 Woche (18. Oktober – 24. Oktober)" },
+      {
+        "interpret": "Gentleman",
+        "title": "Confidence",
+        "duration": "13. September 2004 – 26. September 2004\n2 Wochen"
+      },
+      { "interpret": "Max Herre", "title": "Max Herre", "duration": "27. September 2004 – 3. Oktober 2004\n1 Woche" },
+      {
+        "interpret": "Bryan Adams",
+        "title": "Room Service",
+        "duration": "4. Oktober 2004 – 10. Oktober 2004\n1 Woche"
+      },
+      { "interpret": "Rammstein", "title": "Reise, Reise", "duration": "11. Oktober 2004 – 17. Oktober 2004\n1 Woche" },
+      { "interpret": "R.E.M.", "title": "Around the Sun", "duration": "18. Oktober 2004 – 24. Oktober 2004\n1 Woche" },
       {
         "interpret": "Die Toten Hosen",
         "title": "Zurück zum Glück",
-        "duration": "1 Woche (25. Oktober – 31. Oktober)"
+        "duration": "25. Oktober 2004 – 31. Oktober 2004\n1 Woche"
       },
       {
         "interpret": "Robbie Williams",
         "title": "Greatest Hits",
-        "duration": "4 Wochen (1. November – 28. November, insgesamt 9 Wochen)"
+        "duration": "1. November 2004 – 28. November 2004\n4 Wochen"
       },
-      { "interpret": "Eminem", "title": "Encore", "duration": "1 Woche (29. November – 5. Dezember)" },
+      { "interpret": "Eminem", "title": "Encore", "duration": "29. November 2004 – 5. Dezember 2004\n1 Woche" },
       {
         "interpret": "U2",
         "title": "How to Dismantle an Atomic Bomb",
-        "duration": "1 Woche (6. Dezember – 12. Dezember)"
+        "duration": "6. Dezember 2004 – 12. Dezember 2004\n1 Woche"
       },
       {
         "interpret": "Robbie Williams",
         "title": "Greatest Hits",
-        "duration": "5 Wochen (13. Dezember 2004 – 16. Januar 2005, insgesamt 9 Wochen)"
+        "duration": "13. Dezember 2004 – 16. Januar 2005\n5 Wochen"
       }
     ]
   },
@@ -1053,1114 +838,975 @@
     "singles": [
       {
         "interpret": "Nu Pagadi",
-        "title": "Sweetest Poison",
-        "duration": "1 Woche (27. Dezember 2004 – 2. Januar 2005)"
+        "title": "Sweetest Poison\nMusik: Lucas Hilbert, Jörn-Uwe Fahrenkrog-Petersen; Text: Lucas Hilbert, Raymond Michael Garvey, Carlo Karges",
+        "duration": "27. Dezember 2004 – 2. Januar 2005\n1 Woche"
       },
       {
         "interpret": "Schnappi, das kleine Krokodil",
-        "title": "Schnappi",
-        "duration": "10 Wochen (3. Januar – 13. März 2005)"
+        "title": "Schnappi\nMusik: Iris Gruttmann; Text: Rosita Blissenbach, Iris Gruttmann",
+        "duration": "3. Januar 2005 – 13. März 2005\n10 Wochen"
       },
-      { "interpret": "Nena", "title": "Liebe ist", "duration": "1 Woche (14. März – 20. März, insgesamt 2 Wochen)" },
+      {
+        "interpret": "Nena",
+        "title": "Liebe ist\nMusik: Nena Kerner, Jörn-Uwe Fahrenkrog-Petersen; Text: Nena Kerner",
+        "duration": "14. März 2005 – 20. März 2005\n1 Woche"
+      },
       {
         "interpret": "Sarah Connor",
-        "title": "From Zero to Hero",
-        "duration": "1 Woche (21. März – 27. März, insgesamt 3 Wochen)"
+        "title": "From Zero to Hero\nBob Tyger, Kay Denar",
+        "duration": "21. März 2005 – 27. März 2005\n1 Woche"
       },
-      { "interpret": "Nena", "title": "Liebe ist", "duration": "1 Woche (28. März – 3. April, insgesamt 2 Wochen)" },
+      {
+        "interpret": "Nena",
+        "title": "Liebe ist\nMusik: Nena Kerner, Jörn-Uwe Fahrenkrog-Petersen; Text: Nena Kerner",
+        "duration": "28. März 2005 – 3. April 2005\n1 Woche"
+      },
       {
         "interpret": "Sarah Connor",
-        "title": "From Zero to Hero",
-        "duration": "2 Wochen (4. April – 17. April, insgesamt 3 Wochen)"
+        "title": "From Zero to Hero\nBob Tyger, Kay Denar",
+        "duration": "4. April 2005 – 17. April 2005\n2 Wochen"
       },
-      { "interpret": "Mario", "title": "Let Me Love You", "duration": "1 Woche (18. April – 24. April)" },
-      { "interpret": "50 Cent", "title": "Candy Shop", "duration": "3 Wochen (25. April – 15. Mai)" },
-      { "interpret": "Ch!pz", "title": "Cowboy", "duration": "2 Wochen (16. Mai – 29. Mai)" },
-      { "interpret": "Akon", "title": "Lonely", "duration": "8 Wochen (30. Mai – 24. Juli)" },
-      { "interpret": "US5", "title": "Maria", "duration": "4 Wochen (25. Juli – 21. August)" },
-      { "interpret": "Juanes", "title": "La camisa negra", "duration": "1 Woche (22. August – 28. August)" },
-      { "interpret": "Tokio Hotel", "title": "Durch den Monsun", "duration": "5 Wochen (29. August – 2. Oktober)" },
-      { "interpret": "Pussycat Dolls", "title": "Don’t Cha", "duration": "2 Wochen (3. Oktober – 16. Oktober)" },
-      { "interpret": "Robbie Williams", "title": "Tripping", "duration": "3 Wochen (17. Oktober – 3. November)" },
       {
-        "interpret": "Melanie C",
-        "title": "First Day of My Life",
-        "duration": "2 Wochen (4. November – 17. November)"
+        "interpret": "Mario",
+        "title": "Let Me Love You\nScott Spencer Storch, Kameron Houff, Shaffer Smith",
+        "duration": "18. April 2005 – 24. April 2005\n1 Woche"
       },
-      { "interpret": "Madonna", "title": "Hung Up", "duration": "9 Wochen (18. November 2005 – 19. Januar 2006)" },
       {
-        "interpret": "Robbie Williams",
-        "title": "Greatest Hits",
-        "duration": "5 Wochen (13. Dezember 2004 – 16. Januar 2005, insgesamt 9 Wochen; → 2004)"
+        "interpret": "50 Cent feat. Olivia",
+        "title": "Candy Shop\nScott Spencer Storch, Curtis James Jackson",
+        "duration": "25. April 2005 – 15. Mai 2005\n3 Wochen"
       },
-      { "interpret": "Nu Pagadi", "title": "Your Dark Side", "duration": "1 Woche (17. Januar – 23. Januar)" },
-      { "interpret": "Max Mutzke", "title": "Max Mutzke", "duration": "1 Woche (24. Januar – 30. Januar)" },
       {
-        "interpret": "Söhne Mannheims",
-        "title": "Noiz",
-        "duration": "2 Wochen (31. Januar – 13. Februar, insgesamt 4 Wochen)"
+        "interpret": "Ch!pz",
+        "title": "Cowboy\nRoel Esseboom, Johan Struik",
+        "duration": "16. Mai 2005 – 29. Mai 2005\n2 Wochen"
       },
-      { "interpret": "Peter Maffay", "title": "Laut & leise", "duration": "3 Wochen (14. Februar – 6. März)" },
-      { "interpret": "Westernhagen", "title": "Nahaufnahme", "duration": "2 Wochen (7. März – 20. März)" },
-      { "interpret": "50 Cent", "title": "The Massacre", "duration": "1 Woche (21. März – 27. März)" },
-      { "interpret": "Yvonne Catterfeld", "title": "Unterwegs", "duration": "1 Woche (28. März – 3. April)" },
-      { "interpret": "Sarah Connor", "title": "Naughty but Nice", "duration": "1 Woche (4. April – 10. April)" },
-      { "interpret": "Farin Urlaub", "title": "Am Ende der Sonne", "duration": "1 Woche (11. April – 17. April)" },
       {
-        "interpret": "Wir sind Helden",
-        "title": "Von hier an blind",
-        "duration": "1 Woche (18. April – 24. April, insgesamt 3 Wochen)"
+        "interpret": "Akon",
+        "title": "Lonely\nGene Allen, Bobby Vinton",
+        "duration": "30. Mai 2005 – 24. Juli 2005\n8 Wochen"
       },
-      { "interpret": "Böhse Onkelz", "title": "Live in Hamburg", "duration": "1 Woche (25. April – 1. Mai)" },
       {
-        "interpret": "Wir sind Helden",
-        "title": "Von hier an blind",
-        "duration": "1 Woche (2. Mai – 8. Mai, insgesamt 3 Wochen)"
+        "interpret": "US5",
+        "title": "Maria\nMike Michaels, Mark Dollar, Sammy Naja, Tariq Jay Khan",
+        "duration": "25. Juli 2005 – 21. August 2005\n4 Wochen"
       },
-      { "interpret": "Bruce Springsteen", "title": "Devils & Dust", "duration": "2 Wochen (9. Mai – 22. Mai)" },
       {
-        "interpret": "Wir sind Helden",
-        "title": "Von hier an blind",
-        "duration": "1 Woche (23. Mai – 29. Mai, insgesamt 3 Wochen)"
+        "interpret": "Juanes",
+        "title": "La camisa negra\nJuan Esteban Aristizábal Vázquez",
+        "duration": "22. August 2005 – 28. August 2005\n1 Woche"
       },
-      { "interpret": "System of a Down", "title": "Mezmerize", "duration": "2 Wochen (30. Mai – 12. Juni)" },
-      { "interpret": "The Black Eyed Peas", "title": "Monkey Business", "duration": "1 Woche (13. Juni – 19. Juni)" },
-      { "interpret": "Coldplay", "title": "X&Y", "duration": "1 Woche (20. Juni – 26. Juni, insgesamt 4 Wochen)" },
-      { "interpret": "Backstreet Boys", "title": "Never Gone", "duration": "1 Woche (27. Juni – 3. Juli)" },
-      {
-        "interpret": "Böhse Onkelz",
-        "title": "La Ultima / Live in Berlin",
-        "duration": "1 Woche (4. Juli – 10. Juli)"
-      },
-      { "interpret": "Coldplay", "title": "X&Y", "duration": "3 Wochen (11. Juli – 31. Juli, insgesamt 4 Wochen)" },
-      { "interpret": "Shakira", "title": "Fijación oral vol. 1", "duration": "1 Woche (1. August – 7. August)" },
-      {
-        "interpret": "Söhne Mannheims",
-        "title": "Power of the Sound",
-        "duration": "1 Woche (8. August – 14. August, insgesamt 2 Wochen)"
-      },
-      { "interpret": "Banaroo", "title": "Banaroo’s World", "duration": "1 Woche (15. August – 21. August)" },
-      {
-        "interpret": "Söhne Mannheims",
-        "title": "Power of the Sound",
-        "duration": "1 Woche (22. August – 28. August, insgesamt 2 Wochen)"
-      },
-      { "interpret": "Juanes", "title": "Mi sangre", "duration": "3 Wochen (29. August – 18. September)" },
-      {
-        "interpret": "The Rolling Stones",
-        "title": "A Bigger Bang",
-        "duration": "2 Wochen (19. September – 2. Oktober)"
-      },
-      { "interpret": "Bon Jovi", "title": "Have a Nice Day", "duration": "3 Wochen (3. Oktober – 23. Oktober)" },
       {
         "interpret": "Tokio Hotel",
-        "title": "Schrei",
-        "duration": "1 Woche (24. Oktober – 30. Oktober, insgesamt 2 Wochen; → 2006)"
+        "title": "Durch den Monsun\nPatrick Benzner, Dave Roth, David Jost, Peter Hoffmann, Bill Kaulitz",
+        "duration": "29. August 2005 – 2. Oktober 2005\n5 Wochen"
       },
-      { "interpret": "Depeche Mode", "title": "Playing the Angel", "duration": "1 Woche (31. Oktober – 3. November)" },
+      {
+        "interpret": "Pussycat Dolls feat. Busta Rhymes",
+        "title": "Don’t Cha\nThomas DeCarlo Callaway, Ray Anthony",
+        "duration": "3. Oktober 2005 – 16. Oktober 2005\n2 Wochen"
+      },
       {
         "interpret": "Robbie Williams",
-        "title": "Intensive Care",
-        "duration": "1 Woche (4. November – 10. November, insgesamt 4 Wochen)"
+        "title": "Tripping\nRobert Peter Williams, Stephen Anthony James Duffy",
+        "duration": "17. Oktober 2005 – 3. November 2005\n2 Wochen"
       },
-      { "interpret": "Rammstein", "title": "Rosenrot", "duration": "1 Woche (11. November – 17. November)" },
       {
-        "interpret": "Robbie Williams",
-        "title": "Intensive Care",
-        "duration": "1 Woche (18. November – 24. November, insgesamt 4 Wochen)"
+        "interpret": "Melanie C",
+        "title": "First Day of My Life\nEnrique M. Iglesias, Guy Antony Chambers",
+        "duration": "2. November 2005 – 17. November 2005\n2 Wochen"
       },
       {
         "interpret": "Madonna",
-        "title": "Confessions on a Dance Floor",
-        "duration": "2 Wochen (25. November – 8. Dezember)"
-      },
-      { "interpret": "Xavier Naidoo", "title": "Telegramm für X", "duration": "3 Wochen (9. Dezember – 29. Dezember)" },
-      {
-        "interpret": "Robbie Williams",
-        "title": "Intensive Care",
-        "duration": "2 Wochen (30. Dezember 2005 – 12. Januar 2006, insgesamt 4 Wochen)"
+        "title": "Hung Up\nBjörn K. Ulvaeus, Benny Goran Bror Andersson, Stuart David Price, Madonna L. Ciccone",
+        "duration": "18. November 2005 – 19. Januar 2006\n9 Wochen"
       }
     ],
     "albums": [
       {
         "interpret": "Robbie Williams",
         "title": "Greatest Hits",
-        "duration": "5 Wochen (13. Dezember 2004 – 16. Januar 2005, insgesamt 9 Wochen; → 2004)"
+        "duration": "13. Dezember 2004 – 16. Januar 2005\n5 Wochen"
       },
-      { "interpret": "Nu Pagadi", "title": "Your Dark Side", "duration": "1 Woche (17. Januar – 23. Januar)" },
-      { "interpret": "Max Mutzke", "title": "Max Mutzke", "duration": "1 Woche (24. Januar – 30. Januar)" },
+      { "interpret": "Nu Pagadi", "title": "Your Dark Side", "duration": "17. Januar 2005 – 23. Januar 2005\n1 Woche" },
+      { "interpret": "Max Mutzke", "title": "Max Mutzke", "duration": "24. Januar 2005 – 30. Januar 2005\n1 Woche" },
+      { "interpret": "Söhne Mannheims", "title": "Noiz", "duration": "31. Januar 2005 – 13. Februar 2005\n2 Wochen" },
+      { "interpret": "Peter Maffay", "title": "Laut & leise", "duration": "14. Februar 2005 – 6. März 2005\n3 Wochen" },
+      { "interpret": "Westernhagen", "title": "Nahaufnahme", "duration": "7. März 2005 – 20. März 2005\n2 Wochen" },
+      { "interpret": "50 Cent", "title": "The Massacre", "duration": "21. März 2005 – 27. März 2005\n1 Woche" },
+      { "interpret": "Yvonne Catterfeld", "title": "Unterwegs", "duration": "28. März 2005 – 3. April 2005\n1 Woche" },
       {
-        "interpret": "Söhne Mannheims",
-        "title": "Noiz",
-        "duration": "2 Wochen (31. Januar – 13. Februar, insgesamt 4 Wochen)"
+        "interpret": "Sarah Connor",
+        "title": "Naughty but Nice",
+        "duration": "4. April 2005 – 10. April 2005\n1 Woche"
       },
-      { "interpret": "Peter Maffay", "title": "Laut & leise", "duration": "3 Wochen (14. Februar – 6. März)" },
-      { "interpret": "Westernhagen", "title": "Nahaufnahme", "duration": "2 Wochen (7. März – 20. März)" },
-      { "interpret": "50 Cent", "title": "The Massacre", "duration": "1 Woche (21. März – 27. März)" },
-      { "interpret": "Yvonne Catterfeld", "title": "Unterwegs", "duration": "1 Woche (28. März – 3. April)" },
-      { "interpret": "Sarah Connor", "title": "Naughty but Nice", "duration": "1 Woche (4. April – 10. April)" },
-      { "interpret": "Farin Urlaub", "title": "Am Ende der Sonne", "duration": "1 Woche (11. April – 17. April)" },
       {
-        "interpret": "Wir sind Helden",
-        "title": "Von hier an blind",
-        "duration": "1 Woche (18. April – 24. April, insgesamt 3 Wochen)"
+        "interpret": "Farin Urlaub",
+        "title": "Am Ende der Sonne",
+        "duration": "11. April 2005 – 17. April 2005\n1 Woche"
       },
-      { "interpret": "Böhse Onkelz", "title": "Live in Hamburg", "duration": "1 Woche (25. April – 1. Mai)" },
       {
         "interpret": "Wir sind Helden",
         "title": "Von hier an blind",
-        "duration": "1 Woche (2. Mai – 8. Mai, insgesamt 3 Wochen)"
+        "duration": "18. April 2005 – 24. April 2005\n1 Woche"
       },
-      { "interpret": "Bruce Springsteen", "title": "Devils & Dust", "duration": "2 Wochen (9. Mai – 22. Mai)" },
+      { "interpret": "Böhse Onkelz", "title": "Live in Hamburg", "duration": "25. April 2005 – 1. Mai 2005\n1 Woche" },
       {
         "interpret": "Wir sind Helden",
         "title": "Von hier an blind",
-        "duration": "1 Woche (23. Mai – 29. Mai, insgesamt 3 Wochen)"
+        "duration": "2. Mai 2005 – 8. Mai 2005\n1 Woche"
       },
-      { "interpret": "System of a Down", "title": "Mezmerize", "duration": "2 Wochen (30. Mai – 12. Juni)" },
-      { "interpret": "The Black Eyed Peas", "title": "Monkey Business", "duration": "1 Woche (13. Juni – 19. Juni)" },
-      { "interpret": "Coldplay", "title": "X&Y", "duration": "1 Woche (20. Juni – 26. Juni, insgesamt 4 Wochen)" },
-      { "interpret": "Backstreet Boys", "title": "Never Gone", "duration": "1 Woche (27. Juni – 3. Juli)" },
+      {
+        "interpret": "Bruce Springsteen",
+        "title": "Devils & Dust",
+        "duration": "9. Mai 2005 – 22. Mai 2005\n2 Wochen"
+      },
+      {
+        "interpret": "Wir sind Helden",
+        "title": "Von hier an blind",
+        "duration": "23. Mai 2005 – 29. Mai 2005\n1 Woche"
+      },
+      { "interpret": "System of a Down", "title": "Mezmerize", "duration": "30. Mai 2005 – 12. Juni 2005\n2 Wochen" },
+      {
+        "interpret": "The Black Eyed Peas",
+        "title": "Monkey Business",
+        "duration": "13. Juni 2005 – 19. Juni 2005\n1 Woche"
+      },
+      { "interpret": "Coldplay", "title": "X&Y", "duration": "20. Juni 2005 – 26. Juni 2005\n1 Woche" },
+      { "interpret": "Backstreet Boys", "title": "Never Gone", "duration": "27. Juni 2005 – 3. Juli 2005\n1 Woche" },
       {
         "interpret": "Böhse Onkelz",
-        "title": "La Ultima / Live in Berlin",
-        "duration": "1 Woche (4. Juli – 10. Juli)"
+        "title": "La Ultima / Live in Berlin [DVD]",
+        "duration": "4. Juli 2005 – 10. Juli 2005\n1 Woche"
       },
-      { "interpret": "Coldplay", "title": "X&Y", "duration": "3 Wochen (11. Juli – 31. Juli, insgesamt 4 Wochen)" },
-      { "interpret": "Shakira", "title": "Fijación oral vol. 1", "duration": "1 Woche (1. August – 7. August)" },
+      { "interpret": "Coldplay", "title": "X&Y", "duration": "11. Juli 2005 – 31. Juli 2005\n3 Wochen" },
+      {
+        "interpret": "Shakira",
+        "title": "Fijación oral vol. 1",
+        "duration": "1. August 2005 – 7. August 2005\n1 Woche"
+      },
       {
         "interpret": "Söhne Mannheims",
         "title": "Power of the Sound",
-        "duration": "1 Woche (8. August – 14. August, insgesamt 2 Wochen)"
+        "duration": "4. August 2005 – 14. August 2005\n2 Wochen"
       },
-      { "interpret": "Banaroo", "title": "Banaroo’s World", "duration": "1 Woche (15. August – 21. August)" },
+      { "interpret": "Banaroo", "title": "Banaroo’s World", "duration": "15. August 2005 – 21. August 2005\n1 Woche" },
       {
         "interpret": "Söhne Mannheims",
         "title": "Power of the Sound",
-        "duration": "1 Woche (22. August – 28. August, insgesamt 2 Wochen)"
+        "duration": "22. August 2005 – 28. August 2005\n1 Woche"
       },
-      { "interpret": "Juanes", "title": "Mi sangre", "duration": "3 Wochen (29. August – 18. September)" },
+      { "interpret": "Juanes", "title": "Mi sangre", "duration": "29. August 2005 – 18. September 2005\n3 Wochen" },
       {
         "interpret": "The Rolling Stones",
         "title": "A Bigger Bang",
-        "duration": "2 Wochen (19. September – 2. Oktober)"
+        "duration": "19. September 2005 – 2. Oktober 2005\n2 Wochen"
       },
-      { "interpret": "Bon Jovi", "title": "Have a Nice Day", "duration": "3 Wochen (3. Oktober – 23. Oktober)" },
       {
-        "interpret": "Tokio Hotel",
-        "title": "Schrei",
-        "duration": "1 Woche (24. Oktober – 30. Oktober, insgesamt 2 Wochen; → 2006)"
+        "interpret": "Bon Jovi",
+        "title": "Have a Nice Day",
+        "duration": "3. Oktober 2005 – 23. Oktober 2005\n3 Wochen"
       },
-      { "interpret": "Depeche Mode", "title": "Playing the Angel", "duration": "1 Woche (31. Oktober – 3. November)" },
+      { "interpret": "Tokio Hotel", "title": "Schrei", "duration": "24. Oktober 2005 – 30. Oktober 2005\n1 Woche" },
       {
-        "interpret": "Robbie Williams",
-        "title": "Intensive Care",
-        "duration": "1 Woche (4. November – 10. November, insgesamt 4 Wochen)"
+        "interpret": "Depeche Mode",
+        "title": "Playing the Angel",
+        "duration": "31. Oktober 2005 – 3. November 2005\n1 Woche"
       },
-      { "interpret": "Rammstein", "title": "Rosenrot", "duration": "1 Woche (11. November – 17. November)" },
       {
         "interpret": "Robbie Williams",
         "title": "Intensive Care",
-        "duration": "1 Woche (18. November – 24. November, insgesamt 4 Wochen)"
+        "duration": "4. November 2005 – 10. November 2005\n1 Woche"
+      },
+      { "interpret": "Rammstein", "title": "Rosenrot", "duration": "11. November 2005 – 17. November 2005\n1 Woche" },
+      {
+        "interpret": "Robbie Williams",
+        "title": "Intensive Care",
+        "duration": "18. November 2005 – 24. November 2005\n1 Woche"
       },
       {
         "interpret": "Madonna",
         "title": "Confessions on a Dance Floor",
-        "duration": "2 Wochen (25. November – 8. Dezember)"
+        "duration": "25. November 2005 – 8. Dezember 2005\n2 Wochen"
       },
-      { "interpret": "Xavier Naidoo", "title": "Telegramm für X", "duration": "3 Wochen (9. Dezember – 29. Dezember)" },
+      {
+        "interpret": "Xavier Naidoo",
+        "title": "Telegramm für X",
+        "duration": "9. Dezember 2005 – 29. Dezember 2005\n3 Wochen"
+      },
       {
         "interpret": "Robbie Williams",
         "title": "Intensive Care",
-        "duration": "2 Wochen (30. Dezember 2005 – 12. Januar 2006, insgesamt 4 Wochen)"
+        "duration": "30. Dezember 2005 – 12. Januar 2006\n2 Wochen"
       }
     ]
   },
   "2006": {
     "singles": [
-      { "interpret": "Madonna", "title": "Hung Up", "duration": "9 Wochen (18. November 2005 – 19. Januar 2006)" },
-      { "interpret": "Mattafix", "title": "Big City Life", "duration": "3 Wochen (20. Januar – 9. Februar)" },
       {
-        "interpret": "Eros Ramazzotti",
-        "title": "I Belong to You (Il ritmo della passione)",
-        "duration": "1 Woche (10. Februar – 16. Februar, insgesamt 2 Wochen)"
+        "interpret": "Madonna",
+        "title": "Hung Up\nBjörn K. Ulvaeus, Benny Goran Bror Andersson, Stuart David Price, Madonna L. Ciccone",
+        "duration": "18. November 2005 – 19. Januar 2006\n9 Wochen"
       },
       {
-        "interpret": "Bob Sinclar",
-        "title": "Love Generation",
-        "duration": "1 Woche (17. Februar – 23. Februar, insgesamt 5 Wochen)"
+        "interpret": "Mattafix",
+        "title": "Big City Life\nPreetesh Hirji, Marlon Roudette",
+        "duration": "20. Januar 2006 – 9. Februar 2006\n3 Wochen"
       },
       {
-        "interpret": "Eros Ramazzotti",
-        "title": "I Belong to You (Il ritmo della passione)",
-        "duration": "1 Woche (24. Februar – 2. März, insgesamt 2 Wochen)"
+        "interpret": "Eros Ramazzotti & Anastacia",
+        "title": "I Belong to You (Il ritmo della passione)\nEros Ramazzotti, Claudio Guidetti, Kara DioGuardi, Giuseppe Rinaldi, Anastacia L. Newkirk",
+        "duration": "10. Februar 2006 – 16. Februar 2006\n1 Woche"
       },
       {
-        "interpret": "Bob Sinclar",
-        "title": "Love Generation",
-        "duration": "3 Wochen (3. März – 23. März, insgesamt 5 Wochen)"
+        "interpret": "Bob Sinclar presents Goleo VI feat. Gary „Nesta“ Pine",
+        "title": "Love Generation\nMusik: Christophe Le Friant, Alain Wisniak, Jean-Guy Georges Schreiner; Text: Gary D. Pine, Duane Charles Harden",
+        "duration": "17. Februar 2006 – 23. Februar 2006\n1 Woche"
       },
-      { "interpret": "Tokio Hotel", "title": "Rette mich", "duration": "1 Woche (24. März – 30. März)" },
       {
-        "interpret": "Bob Sinclar",
-        "title": "Love Generation",
-        "duration": "1 Woche (31. März – 6. April, insgesamt 5 Wochen)"
+        "interpret": "Eros Ramazzotti & Anastacia",
+        "title": "I Belong to You (Il ritmo della passione)\nEros Ramazzotti, Claudio Guidetti, Kara DioGuardi, Giuseppe Rinaldi, Anastacia L. Newkirk",
+        "duration": "24. Februar 2006 – 2. März 2006\n1 Woche"
       },
-      { "interpret": "Tobias Regner", "title": "I Still Burn", "duration": "4 Wochen (7. April – 4. Mai)" },
+      {
+        "interpret": "Bob Sinclar presents Goleo VI feat. Gary „Nesta“ Pine",
+        "title": "Love Generation\nMusik: Christophe Le Friant, Alain Wisniak, Jean-Guy Georges Schreiner; Text: Gary D. Pine, Duane Charles Harden",
+        "duration": "3. März 2006 – 23. März 2006\n3 Wochen"
+      },
+      {
+        "interpret": "Tokio Hotel",
+        "title": "Rette mich\nDave Roth, Patrick Benzner, David Jost, Olaf Weitzl",
+        "duration": "24. März 2006 – 30. März 2006\n1 Woche"
+      },
+      {
+        "interpret": "Bob Sinclar presents Goleo VI feat. Gary „Nesta“ Pine",
+        "title": "Love Generation\nMusik: Christophe Le Friant, Alain Wisniak, Jean-Guy Georges Schreiner; Text: Gary D. Pine, Duane Charles Harden",
+        "duration": "31. März 2006 – 6. April 2006\n1 Woche"
+      },
+      {
+        "interpret": "Tobias Regner",
+        "title": "I Still Burn\nPeter John Wright, Jess Clayton Cates",
+        "duration": "7. April 2006 – 4. Mai 2006\n4 Wochen"
+      },
       {
         "interpret": "Mike Leon Grosch",
-        "title": "Don’t Let It Get You Down",
-        "duration": "1 Woche (5. Mai – 11. Mai)"
+        "title": "Don’t Let It Get You Down\nMichelle Leonard, Christoph Masbaum, Henrik Kersten, Jens Rodenberg, Sean Conlon",
+        "duration": "5. Mai 2006 – 11. Mai 2006\n1 Woche"
       },
       {
         "interpret": "Texas Lightning",
-        "title": "No No Never",
-        "duration": "1 Woche (12. Mai – 18. Mai, insgesamt 3 Wochen)"
+        "title": "No No Never\nJane Comerford-Grosser",
+        "duration": "12. Mai 2006 – 18. Mai 2006\n1 Woche"
       },
       {
-        "interpret": "Shakira",
-        "title": "Hips Don’t Lie",
-        "duration": "1 Woche (19. Mai – 25. Mai, insgesamt 3 Wochen)"
+        "interpret": "Shakira feat. Wyclef Jean",
+        "title": "Hips Don’t Lie\nOmar Alfanno, Jerry Duplessis, Wyclef Jean, Shakira Isabel Mebarak, Latavia Chufon Parker, Luis Diaz",
+        "duration": "19. Mai 2006 – 25. Mai 2006\n1 Woche"
       },
       {
         "interpret": "Texas Lightning",
-        "title": "No No Never",
-        "duration": "2 Wochen (26. Mai – 8. Juni, insgesamt 3 Wochen)"
+        "title": "No No Never\nJane Comerford-Grosser",
+        "duration": "26. Mai 2006 – 8. Juni 2006\n2 Wochen"
       },
       {
-        "interpret": "Shakira",
-        "title": "Hips Don’t Lie",
-        "duration": "2 Wochen (9. Juni – 22. Juni, insgesamt 3 Wochen)"
+        "interpret": "Shakira feat. Wyclef Jean",
+        "title": "Hips Don’t Lie\nOmar Alfanno, Jerry Duplessis, Wyclef Jean, Shakira Isabel Mebarak, Latavia Chufon Parker, Luis Diaz",
+        "duration": "9. Juni 2006 – 22. Juni 2006\n2 Wochen"
       },
       {
-        "interpret": "Herbert Grönemeyer",
-        "title": "Zeit, dass sich was dreht",
-        "duration": "2 Wochen (23. Juni – 6. Juli, insgesamt 3 Wochen)"
-      },
-      {
-        "interpret": "Sportfreunde Stiller",
-        "title": "’54, ’74, ’90, 2006",
-        "duration": "2 Wochen (7. Juli – 20. Juli, insgesamt 3 Wochen)"
-      },
-      {
-        "interpret": "Herbert Grönemeyer",
-        "title": "Zeit, dass sich was dreht",
-        "duration": "1 Woche (21. Juli – 27. Juli, insgesamt 3 Wochen)"
+        "interpret": "Herbert Grönemeyer feat. Amadou & Mariam",
+        "title": "Zeit, dass sich was dreht\nMusik: Herbert Arthur Grönemeyer, Nadir Khayat, Bilal Hajji; Text: Herbert Arthur Grönemeyer, Amadou Bagayoko, Miriam Doumbia",
+        "duration": "23. Juni 2006 – 6. Juli 2006\n2 Wochen"
       },
       {
         "interpret": "Sportfreunde Stiller",
-        "title": "’54, ’74, ’90, 2006",
-        "duration": "1 Woche (28. Juli – 3. August, insgesamt 3 Wochen)"
-      },
-      { "interpret": "Xavier Naidoo", "title": "Danke", "duration": "5 Wochen (4. August – 7. September)" },
-      { "interpret": "Tokio Hotel", "title": "Der letzte Tag", "duration": "1 Woche (8. September – 14. September)" },
-      { "interpret": "Robbie Williams", "title": "Rudebox", "duration": "1 Woche (15. September – 21. September)" },
-      { "interpret": "Justin Timberlake", "title": "SexyBack", "duration": "3 Wochen (22. September – 12. Oktober)" },
-      {
-        "interpret": "Scissor Sisters",
-        "title": "I Don’t Feel Like Dancin’",
-        "duration": "1 Woche (13. Oktober – 19. Oktober)"
+        "title": "’54, ’74, ’90, 2006\nPeter Stephan Brugger, Florian Weber, Rüdiger Linhof",
+        "duration": "7. Juli 2006 – 20. Juli 2006\n2 Wochen"
       },
       {
-        "interpret": "Silbermond",
-        "title": "Das Beste",
-        "duration": "6 Wochen (20. Oktober – 30. November, insgesamt 7 Wochen)"
+        "interpret": "Herbert Grönemeyer feat. Amadou & Mariam",
+        "title": "Zeit, dass sich was dreht\nMusik: Herbert Arthur Grönemeyer, Nadir Khayat, Bilal Hajji; Text: Herbert Arthur Grönemeyer, Amadou Bagayoko, Miriam Doumbia",
+        "duration": "21. Juli 2006 – 27. Juli 2006\n1 Woche"
       },
-      { "interpret": "Take That", "title": "Patience", "duration": "1 Woche (1. Dezember – 7. Dezember)" },
       {
-        "interpret": "Silbermond",
-        "title": "Das Beste",
-        "duration": "1 Woche (8. Dezember – 14. Dezember, insgesamt 7 Wochen)"
+        "interpret": "Sportfreunde Stiller",
+        "title": "’54, ’74, ’90, 2006\nPeter Stephan Brugger, Florian Weber, Rüdiger Linhof",
+        "duration": "28. Juli 2006 – 3. August 2006\n1 Woche"
       },
-      { "interpret": "Monrose", "title": "Shame", "duration": "2 Wochen (15. Dezember – 28. Dezember)" },
       {
-        "interpret": "Nelly Furtado",
-        "title": "All Good Things (Come to an End)",
-        "duration": "6 Wochen (29. Dezember 2006 – 8. Februar 2007)"
+        "interpret": "Xavier Naidoo",
+        "title": "Danke\nMusik: Michael Herberger, Xavier Naidoo; Text: Xavier Naidoo",
+        "duration": "4. August 2006 – 7. September 2006\n5 Wochen"
+      },
+      {
+        "interpret": "Tokio Hotel",
+        "title": "Der letzte Tag\nDave Roth, Patrick Benzner, David Jost",
+        "duration": "8. September 2006 – 14. September 2006\n1 Woche"
       },
       {
         "interpret": "Robbie Williams",
-        "title": "Intensive Care",
-        "duration": "2 Wochen (30. Dezember 2005 – 12. Januar 2006)"
-      },
-      { "interpret": "Xavier Naidoo", "title": "Telegramm für X", "duration": "4 Wochen (13. Januar – 9. Februar)" },
-      { "interpret": "James Blunt", "title": "Back to Bedlam", "duration": "1 Woche (10. Februar – 16. Februar)" },
-      {
-        "interpret": "Farin Urlaub Racing Team",
-        "title": "Livealbum of Death",
-        "duration": "1 Woche (17. Februar – 23. Februar)"
+        "title": "Rudebox\nWilliam Earl Collins, Bill O. Laswell, Robert Warren Dale Shakespeare, Edmund Carl Aiken Jr., Daniel Spencer Mould, Kelvin Andrews, Sly Dunbar, Robert Peter Williams",
+        "duration": "15. September 2006 – 21. September 2006\n1 Woche"
       },
       {
-        "interpret": "Deutschland sucht den Superstar",
-        "title": "Love Songs",
-        "duration": "3 Wochen (24. Februar – 16. März)"
+        "interpret": "Justin Timberlake",
+        "title": "SexyBack\nMelissa A. Elliott, Floyd Nathaniel Hills, Timothy Z. Mosley, Tim Peter Stahl, John Guldberg, Justin R. Timberlake",
+        "duration": "22. September 2006 – 12. Oktober 2006\n3 Wochen"
       },
       {
-        "interpret": "Rosenstolz",
-        "title": "Das große Leben",
-        "duration": "4 Wochen (17. März – 13. April, insgesamt 5 Wochen)"
-      },
-      { "interpret": "P!nk", "title": "I’m Not Dead", "duration": "1 Woche (14. April – 20. April)" },
-      { "interpret": "Andrea Berg", "title": "Splitternackt", "duration": "1 Woche (21. April – 27. April)" },
-      {
-        "interpret": "Tokio Hotel",
-        "title": "Schrei",
-        "duration": "1 Woche (28. April – 4. Mai, insgesamt 2 Wochen; → 2005)"
-      },
-      { "interpret": "Silbermond", "title": "Laut gedacht", "duration": "1 Woche (5. Mai – 11. Mai)" },
-      { "interpret": "Tobias Regner", "title": "Straight", "duration": "1 Woche (12. Mai – 18. Mai)" },
-      {
-        "interpret": "Red Hot Chili Peppers",
-        "title": "Stadium Arcadium",
-        "duration": "5 Wochen (19. Mai – 22. Juni)"
+        "interpret": "Scissor Sisters",
+        "title": "I Don’t Feel Like Dancin’\nScott David Hoffman, Jason Sellards, Elton John",
+        "duration": "13. Oktober 2006 – 19. Oktober 2006\n1 Woche"
       },
       {
-        "interpret": "Nelly Furtado",
-        "title": "Loose",
-        "duration": "2 Wochen (23. Juni – 6. Juli, insgesamt 8 Wochen; → 2007)"
+        "interpret": "Silbermond",
+        "title": "Das Beste\nStefanie Kloß, Thomas Stolle, Johannes Stolle, Andreas Jan Nowak",
+        "duration": "20. Oktober 2006 – 30. November 2006\n6 Wochen"
       },
-      { "interpret": "Billy Talent", "title": "Billy Talent II", "duration": "1 Woche (7. Juli – 13. Juli)" },
-      { "interpret": "LaFee", "title": "LaFee", "duration": "1 Woche (14. Juli – 20. Juli)" },
-      { "interpret": "Pink Floyd", "title": "Pulse", "duration": "1 Woche (21. Juli – 27. Juli)" },
-      { "interpret": "Semino Rossi", "title": "Ich denk an Dich", "duration": "3 Wochen (28. Juli – 17. August)" },
-      { "interpret": "Jan Delay", "title": "Mercedes-Dance", "duration": "1 Woche (18. August – 24. August)" },
-      { "interpret": "Christina Aguilera", "title": "Back to Basics", "duration": "1 Woche (25. August – 31. August)" },
+      {
+        "interpret": "Take That",
+        "title": "Patience\nGary Barlow, Mark Anthony Owen, Howard Paul Donald, Jason Thomas Orange, John Shanks",
+        "duration": "1. Dezember 2006 – 7. Dezember 2006\n1 Woche"
+      },
+      {
+        "interpret": "Silbermond",
+        "title": "Das Beste\nStefanie Kloß, Thomas Stolle, Johannes Stolle, Andreas Jan Nowak",
+        "duration": "8. Dezember 2006 – 14. Dezember 2006\n1 Woche"
+      },
+      {
+        "interpret": "Monrose",
+        "title": "Shame\nChristian Ballard, Andrew Ian Murray, Pete Kirtley, Timothy Hawes",
+        "duration": "15. Dezember 2006 – 28. Dezember 2006\n2 Wochen"
+      },
       {
         "interpret": "Nelly Furtado",
-        "title": "Loose",
-        "duration": "1 Woche (1. September – 7. September, insgesamt 8 Wochen)"
-      },
-      {
-        "interpret": "Iron Maiden",
-        "title": "A Matter of Life and Death",
-        "duration": "1 Woche (8. September – 14. September)"
-      },
-      { "interpret": "Pur", "title": "Es ist wie es ist", "duration": "1 Woche (15. September – 21. September)" },
-      {
-        "interpret": "Rosenstolz",
-        "title": "Das große Leben live",
-        "duration": "1 Woche (22. September – 28. September, insgesamt 5 Wochen)"
-      },
-      {
-        "interpret": "Christina Stürmer",
-        "title": "Lebe lauter",
-        "duration": "2 Wochen (29. September – 12. Oktober)"
-      },
-      { "interpret": "Evanescence", "title": "The Open Door", "duration": "1 Woche (13. Oktober – 19. Oktober)" },
-      { "interpret": "Die Ärzte", "title": "Bäst of", "duration": "1 Woche (20. Oktober – 26. Oktober)" },
-      { "interpret": "Juli", "title": "Ein neuer Tag", "duration": "1 Woche (27. Oktober – 2. November)" },
-      { "interpret": "Robbie Williams", "title": "Rudebox", "duration": "3 Wochen (3. November – 23. November)" },
-      {
-        "interpret": "Depeche Mode",
-        "title": "The Best Of, Volume 1",
-        "duration": "1 Woche (24. November – 30. November)"
-      },
-      { "interpret": "Rammstein", "title": "Völkerball", "duration": "3 Wochen (1. Dezember – 21. Dezember)" },
-      { "interpret": "Monrose", "title": "Temptation", "duration": "3 Wochen (22. Dezember 2006 – 11. Januar 2007)" }
+        "title": "All Good Things (Come to an End)\nNelly Kim Furtado, Timothy Z. Mosley, Floyd Nathaniel Hills, Christopher Anthony John Martin",
+        "duration": "29. Dezember 2006 – 8. Februar 2007\n6 Wochen"
+      }
     ],
     "albums": [
       {
         "interpret": "Robbie Williams",
         "title": "Intensive Care",
-        "duration": "2 Wochen (30. Dezember 2005 – 12. Januar 2006)"
+        "duration": "30. Dezember 2005 – 12. Januar 2006\n2 Wochen"
       },
-      { "interpret": "Xavier Naidoo", "title": "Telegramm für X", "duration": "4 Wochen (13. Januar – 9. Februar)" },
-      { "interpret": "James Blunt", "title": "Back to Bedlam", "duration": "1 Woche (10. Februar – 16. Februar)" },
+      {
+        "interpret": "Xavier Naidoo",
+        "title": "Telegramm für X",
+        "duration": "13. Januar 2006 – 9. Februar 2006\n4 Wochen"
+      },
+      {
+        "interpret": "James Blunt",
+        "title": "Back to Bedlam",
+        "duration": "10. Februar 2006 – 16. Februar 2006\n1 Woche"
+      },
       {
         "interpret": "Farin Urlaub Racing Team",
         "title": "Livealbum of Death",
-        "duration": "1 Woche (17. Februar – 23. Februar)"
+        "duration": "17. Februar 2006 – 23. Februar 2006\n1 Woche"
       },
       {
         "interpret": "Deutschland sucht den Superstar",
         "title": "Love Songs",
-        "duration": "3 Wochen (24. Februar – 16. März)"
+        "duration": "24. Februar 2006 – 16. März 2006\n3 Wochen"
       },
-      {
-        "interpret": "Rosenstolz",
-        "title": "Das große Leben",
-        "duration": "4 Wochen (17. März – 13. April, insgesamt 5 Wochen)"
-      },
-      { "interpret": "P!nk", "title": "I’m Not Dead", "duration": "1 Woche (14. April – 20. April)" },
-      { "interpret": "Andrea Berg", "title": "Splitternackt", "duration": "1 Woche (21. April – 27. April)" },
-      {
-        "interpret": "Tokio Hotel",
-        "title": "Schrei",
-        "duration": "1 Woche (28. April – 4. Mai, insgesamt 2 Wochen; → 2005)"
-      },
-      { "interpret": "Silbermond", "title": "Laut gedacht", "duration": "1 Woche (5. Mai – 11. Mai)" },
-      { "interpret": "Tobias Regner", "title": "Straight", "duration": "1 Woche (12. Mai – 18. Mai)" },
+      { "interpret": "Rosenstolz", "title": "Das große Leben", "duration": "17. März 2006 – 13. April 2006\n4 Wochen" },
+      { "interpret": "P!nk", "title": "I’m Not Dead", "duration": "14. April 2006 – 20. April 2006\n1 Woche" },
+      { "interpret": "Andrea Berg", "title": "Splitternackt", "duration": "21. April 2006 – 27. April 2006\n1 Woche" },
+      { "interpret": "Tokio Hotel", "title": "Schrei", "duration": "28. April 2006 – 4. Mai 2006\n1 Woche" },
+      { "interpret": "Silbermond", "title": "Laut gedacht", "duration": "5. Mai 2006 – 11. Mai 2006\n1 Woche" },
+      { "interpret": "Tobias Regner", "title": "Straight", "duration": "12. Mai 2006 – 18. Mai 2006\n1 Woche" },
       {
         "interpret": "Red Hot Chili Peppers",
         "title": "Stadium Arcadium",
-        "duration": "5 Wochen (19. Mai – 22. Juni)"
+        "duration": "19. Mai 2006 – 22. Juni 2006\n5 Wochen"
       },
+      { "interpret": "Nelly Furtado", "title": "Loose", "duration": "23. Juni 2006 – 6. Juli 2006\n2 Wochen" },
+      { "interpret": "Billy Talent", "title": "Billy Talent II", "duration": "7. Juli 2006 – 13. Juli 2006\n1 Woche" },
+      { "interpret": "LaFee", "title": "LaFee", "duration": "14. Juli 2006 – 20. Juli 2006\n1 Woche" },
+      { "interpret": "Pink Floyd", "title": "Pulse [DVD]", "duration": "21. Juli 2006 – 27. Juli 2006\n1 Woche" },
       {
-        "interpret": "Nelly Furtado",
-        "title": "Loose",
-        "duration": "2 Wochen (23. Juni – 6. Juli, insgesamt 8 Wochen; → 2007)"
+        "interpret": "Semino Rossi",
+        "title": "Ich denk an Dich",
+        "duration": "28. Juli 2006 – 17. August 2006\n3 Wochen"
       },
-      { "interpret": "Billy Talent", "title": "Billy Talent II", "duration": "1 Woche (7. Juli – 13. Juli)" },
-      { "interpret": "LaFee", "title": "LaFee", "duration": "1 Woche (14. Juli – 20. Juli)" },
-      { "interpret": "Pink Floyd", "title": "Pulse", "duration": "1 Woche (21. Juli – 27. Juli)" },
-      { "interpret": "Semino Rossi", "title": "Ich denk an Dich", "duration": "3 Wochen (28. Juli – 17. August)" },
-      { "interpret": "Jan Delay", "title": "Mercedes-Dance", "duration": "1 Woche (18. August – 24. August)" },
-      { "interpret": "Christina Aguilera", "title": "Back to Basics", "duration": "1 Woche (25. August – 31. August)" },
+      { "interpret": "Jan Delay", "title": "Mercedes-Dance", "duration": "18. August 2006 – 24. August 2006\n1 Woche" },
       {
-        "interpret": "Nelly Furtado",
-        "title": "Loose",
-        "duration": "1 Woche (1. September – 7. September, insgesamt 8 Wochen)"
+        "interpret": "Christina Aguilera",
+        "title": "Back to Basics",
+        "duration": "25. August 2006 – 31. August 2006\n1 Woche"
       },
+      { "interpret": "Nelly Furtado", "title": "Loose", "duration": "1. September 2006 – 7. September 2006\n1 Woche" },
       {
         "interpret": "Iron Maiden",
         "title": "A Matter of Life and Death",
-        "duration": "1 Woche (8. September – 14. September)"
+        "duration": "8. September 2006 – 14. September 2006\n1 Woche"
       },
-      { "interpret": "Pur", "title": "Es ist wie es ist", "duration": "1 Woche (15. September – 21. September)" },
+      {
+        "interpret": "Pur",
+        "title": "Es ist wie es ist",
+        "duration": "15. September 2006 – 21. September 2006\n1 Woche"
+      },
       {
         "interpret": "Rosenstolz",
         "title": "Das große Leben live",
-        "duration": "1 Woche (22. September – 28. September, insgesamt 5 Wochen)"
+        "duration": "22. September 2006 – 28. September 2006\n1 Woche"
       },
       {
         "interpret": "Christina Stürmer",
         "title": "Lebe lauter",
-        "duration": "2 Wochen (29. September – 12. Oktober)"
+        "duration": "29. September 2006 – 12. Oktober 2006\n2 Wochen"
       },
-      { "interpret": "Evanescence", "title": "The Open Door", "duration": "1 Woche (13. Oktober – 19. Oktober)" },
-      { "interpret": "Die Ärzte", "title": "Bäst of", "duration": "1 Woche (20. Oktober – 26. Oktober)" },
-      { "interpret": "Juli", "title": "Ein neuer Tag", "duration": "1 Woche (27. Oktober – 2. November)" },
-      { "interpret": "Robbie Williams", "title": "Rudebox", "duration": "3 Wochen (3. November – 23. November)" },
+      {
+        "interpret": "Evanescence",
+        "title": "The Open Door",
+        "duration": "13. Oktober 2006 – 19. Oktober 2006\n1 Woche"
+      },
+      { "interpret": "Die Ärzte", "title": "Bäst of", "duration": "20. Oktober 2006 – 26. Oktober 2006\n1 Woche" },
+      { "interpret": "Juli", "title": "Ein neuer Tag", "duration": "27. Oktober 2006 – 2. November 2006\n1 Woche" },
+      {
+        "interpret": "Robbie Williams",
+        "title": "Rudebox",
+        "duration": "3. November 2006 – 23. November 2006\n3 Wochen"
+      },
       {
         "interpret": "Depeche Mode",
         "title": "The Best Of, Volume 1",
-        "duration": "1 Woche (24. November – 30. November)"
+        "duration": "24. November 2006 – 30. November 2006\n1 Woche"
       },
-      { "interpret": "Rammstein", "title": "Völkerball", "duration": "3 Wochen (1. Dezember – 21. Dezember)" },
-      { "interpret": "Monrose", "title": "Temptation", "duration": "3 Wochen (22. Dezember 2006 – 11. Januar 2007)" }
+      {
+        "interpret": "Rammstein",
+        "title": "Völkerball [CD/DVD]",
+        "duration": "1. Dezember 2006 – 21. Dezember 2006\n3 Wochen"
+      },
+      { "interpret": "Monrose", "title": "Temptation", "duration": "22. Dezember 2006 – 11. Januar 2007\n3 Wochen" }
     ]
   },
   "2007": {
     "singles": [
       {
         "interpret": "Nelly Furtado",
-        "title": "All Good Things (Come to an End)",
-        "duration": "6 Wochen (29. Dezember 2006 – 8. Februar 2007)"
+        "title": "All Good Things (Come to an End)\nNelly Kim Furtado, Timothy Z. Mosley, Floyd Nathaniel Hills, Christopher Anthony John Martin",
+        "duration": "29. Dezember 2006 – 8. Februar 2007\n6 Wochen"
       },
-      { "interpret": "Tokio Hotel", "title": "Übers Ende der Welt", "duration": "1 Woche (9. Februar – 15. Februar)" },
+      {
+        "interpret": "Tokio Hotel",
+        "title": "Übers Ende der Welt\nDave Roth, Patrick Benzner, David Jost, Peter Hoffmann",
+        "duration": "9. Februar 2007 – 15. Februar 2007\n1 Woche"
+      },
       {
         "interpret": "Herbert Grönemeyer",
-        "title": "Lied 1 – Stück vom Himmel",
-        "duration": "1 Woche (16. Februar – 22. Februar)"
+        "title": "Lied 1 – Stück vom Himmel\nHerbert Arthur Grönemeyer",
+        "duration": "16. Februar 2007 – 22. Februar 2007\n1 Woche"
       },
-      { "interpret": "Höhner", "title": "Wenn nicht jetzt, wann dann?", "duration": "1 Woche (23. Februar – 1. März)" },
       {
-        "interpret": "DJ Ötzi",
-        "title": "Ein Stern (… der deinen Namen trägt)",
-        "duration": "9 Wochen (2. März – 3. Mai, insgesamt 11 Wochen)"
+        "interpret": "Höhner",
+        "title": "Wenn nicht jetzt, wann dann?\nJan-Peter Fröhlich, Peter Werner Jates, Ralf Rudnik, Henning Krautmacher, Hannes Schöner, Jens Streifling, Norbert Böll",
+        "duration": "23. Februar 2007 – 1. März 2007\n1 Woche"
       },
-      { "interpret": "Beyoncé", "title": "Beautiful Liar", "duration": "1 Woche (4. Mai – 10. Mai)" },
       {
-        "interpret": "DJ Ötzi",
-        "title": "Ein Stern (...der deinen Namen trägt)",
-        "duration": "2 Wochen (11. Mai – 24. Mai, insgesamt 11 Wochen)"
+        "interpret": "DJ Ötzi & Nik P.",
+        "title": "Ein Stern (… der deinen Namen trägt)\nNikolaus Presnik",
+        "duration": "2. März 2007 – 3. Mai 2007\n9 Wochen"
       },
-      { "interpret": "Mark Medlock", "title": "Now or Never", "duration": "2 Wochen (25. Mai – 7. Juni)" },
-      { "interpret": "Rihanna", "title": "Umbrella", "duration": "5 Wochen (8. Juni – 12. Juli)" },
+      {
+        "interpret": "Beyoncé & Shakira",
+        "title": "Beautiful Liar\nAmanda Ghost, Ian Alec Harvey Dench, Beyoncé Gisselle Knowles, Mikkel Storleer Eriksen, Tor Erik Hermansen",
+        "duration": "4. Mai 2007 – 10. Mai 2007\n1 Woche"
+      },
+      {
+        "interpret": "DJ Ötzi & Nik P.",
+        "title": "Ein Stern (… der deinen Namen trägt)\nNikolaus Presnik",
+        "duration": "11. Mai 2007 – 24. Mai 2007\n2 Wochen"
+      },
       {
         "interpret": "Mark Medlock",
-        "title": "You Can Get It",
-        "duration": "1 Woche (13. Juli – 19. Juli, insgesamt 4 Wochen)"
-      },
-      { "interpret": "Monrose", "title": "Hot Summer", "duration": "1 Woche (20. Juli – 26. Juli)" },
-      {
-        "interpret": "Mark Medlock",
-        "title": "You Can Get It",
-        "duration": "3 Wochen (27. Juli – 16. August, insgesamt 4 Wochen)"
+        "title": "Now or Never\nDieter Bohlen",
+        "duration": "25. Mai 2007 – 7. Juni 2007\n2 Wochen"
       },
       {
-        "interpret": "Azad",
-        "title": "Prison Break Anthem (Ich glaub’ an dich)",
-        "duration": "1 Woche (17. August – 23. August)"
-      },
-      { "interpret": "Culcha Candela", "title": "Hamma!", "duration": "6 Wochen (24. August – 4. Oktober)" },
-      { "interpret": "Rihanna", "title": "Don’t Stop the Music", "duration": "2 Wochen (5. Oktober – 18. Oktober)" },
-      { "interpret": "Die Ärzte", "title": "Junge", "duration": "1 Woche (19. Oktober – 25. Oktober)" },
-      {
-        "interpret": "Plain White T’s",
-        "title": "Hey There Delilah",
-        "duration": "3 Wochen (26. Oktober – 15. November)"
+        "interpret": "Rihanna feat. Jay-Z",
+        "title": "Umbrella\nThaddis Laphonia Harrell Jr., Shawn C. Carter, Christopher A. Stewart, Terius Youngdell Nash",
+        "duration": "8. Juni 2007 – 12. Juli 2007\n5 Wochen"
       },
       {
-        "interpret": "Alex C.",
-        "title": "Du hast den schönsten Arsch der Welt",
-        "duration": "1 Woche (16. November – 22. November)"
-      },
-      { "interpret": "Timbaland", "title": "Apologize", "duration": "9 Wochen (23. November 2007 – 24. Januar 2008)" },
-      { "interpret": "Monrose", "title": "Temptation", "duration": "3 Wochen (22. Dezember 2006 – 11. Januar 2007)" },
-      {
-        "interpret": "Nelly Furtado",
-        "title": "Loose",
-        "duration": "4 Wochen (12. Januar – 8. Februar, insgesamt 8 Wochen; → 2006)"
-      },
-      { "interpret": "Norah Jones", "title": "Not Too Late", "duration": "3 Wochen (9. Februar – 1. März)" },
-      { "interpret": "Böhse Onkelz", "title": "Vaya con Tioz", "duration": "1 Woche (2. März – 8. März)" },
-      { "interpret": "Tokio Hotel", "title": "Zimmer 483", "duration": "1 Woche (9. März – 15. März)" },
-      { "interpret": "Herbert Grönemeyer", "title": "12", "duration": "5 Wochen (16. März – 19. April)" },
-      { "interpret": "Die Fantastischen Vier", "title": "Fornika", "duration": "1 Woche (20. April – 26. April)" },
-      { "interpret": "Avril Lavigne", "title": "The Best Damn Thing", "duration": "1 Woche (27. April – 3. Mai)" },
-      { "interpret": "Nelly Furtado", "title": "Loose", "duration": "1 Woche (4. Mai – 10. Mai, insgesamt 8 Wochen)" },
-      { "interpret": "Michael Bublé", "title": "Call Me Irresponsible", "duration": "1 Woche (11. Mai – 17. Mai)" },
-      { "interpret": "Reinhard Mey", "title": "Bunter Hund", "duration": "1 Woche (18. Mai – 24. Mai)" },
-      { "interpret": "Linkin Park", "title": "Minutes to Midnight", "duration": "4 Wochen (25. Mai – 21. Juni)" },
-      { "interpret": "Bon Jovi", "title": "Lost Highway", "duration": "1 Woche (22. Juni – 28. Juni)" },
-      {
-        "interpret": "Mark Medlock",
-        "title": "Mr. Lonely",
-        "duration": "3 Wochen (29. Juni – 19. Juli, insgesamt 4 Wochen)"
-      },
-      { "interpret": "LaFee", "title": "Jetzt erst recht", "duration": "1 Woche (20. Juli – 26. Juli)" },
-      {
-        "interpret": "Mark Medlock",
-        "title": "Mr. Lonely",
-        "duration": "1 Woche (27. Juli – 2. August, insgesamt 4 Wochen)"
+        "interpret": "Mark Medlock & Dieter Bohlen",
+        "title": "You Can Get It\nDieter Bohlen",
+        "duration": "13. Juli 2007 – 19. Juli 2007\n1 Woche"
       },
       {
-        "interpret": "beFour",
-        "title": "All 4 One",
-        "duration": "1 Woche (3. August – 9. August, insgesamt 2 Wochen)"
+        "interpret": "Monrose",
+        "title": "Hot Summer\nMikkel R. Sigvardt, Thomas Skov Troelsen",
+        "duration": "20. Juli 2007 – 26. Juli 2007\n1 Woche"
       },
       {
-        "interpret": "The Rolling Stones",
-        "title": "The Biggest Bang",
-        "duration": "1 Woche (10. August – 16. August)"
+        "interpret": "Mark Medlock & Dieter Bohlen",
+        "title": "You Can Get It\nDieter Bohlen",
+        "duration": "27. Juli 2007 – 16. August 2007\n3 Wochen"
       },
-      { "interpret": "Sportfreunde Stiller", "title": "La Bum", "duration": "1 Woche (17. August – 23. August)" },
       {
-        "interpret": "beFour",
-        "title": "All 4 One",
-        "duration": "1 Woche (24. August – 30. August, insgesamt 2 Wochen)"
+        "interpret": "Azad feat. Adel Tawil",
+        "title": "Prison Break Anthem (Ich glaub’ an dich)\nAdel El Tawil, Florian Fischer, Hamid Chizari, Navid Chizari, Azad Azadpour",
+        "duration": "17. August 2007 – 23. August 2007\n1 Woche"
       },
-      { "interpret": "Elvis Presley", "title": "The King", "duration": "1 Woche (31. August – 6. September)" },
       {
-        "interpret": "Die Amigos",
-        "title": "Der helle Wahnsinn",
-        "duration": "1 Woche (7. September – 13. September)"
+        "interpret": "Culcha Candela",
+        "title": "Hamma!\nAndreas Herbig, Hanno Graf, Don Cali, Chino con Estilo, Lars Barragán De Luyz, Mateo Jasik, John Magiriba Lwanga, Osman Fernando Perdomo",
+        "duration": "24. August 2007 – 4. Oktober 2007\n6 Wochen"
       },
-      { "interpret": "Bushido", "title": "7", "duration": "2 Wochen (14. September – 27. September)" },
       {
-        "interpret": "James Blunt",
-        "title": "All the Lost Souls",
-        "duration": "2 Wochen (28. September – 11. Oktober)"
-      },
-      { "interpret": "Nightwish", "title": "Dark Passion Play", "duration": "1 Woche (12. Oktober – 18. Oktober)" },
-      {
-        "interpret": "Mario Barth",
-        "title": "Männer sind primitiv, aber glücklich!",
-        "duration": "4 Wochen (19. Oktober – 15. November)"
+        "interpret": "Rihanna",
+        "title": "Don’t Stop the Music\nMichael J. Jackson, Frankie Storm, Tor Erik Hermansen, Mikkel Storleer Eriksen",
+        "duration": "5. Oktober 2007 – 18. Oktober 2007\n2 Wochen"
       },
       {
         "interpret": "Die Ärzte",
-        "title": "Jazz ist anders",
-        "duration": "8 Wochen (16. November 2007 – 10. Januar 2008)"
+        "title": "Junge\nFarin Urlaub",
+        "duration": "19. Oktober 2007 – 25. Oktober 2007\n1 Woche"
+      },
+      {
+        "interpret": "Plain White T’s",
+        "title": "Hey There Delilah\nTom Higgenson",
+        "duration": "26. Oktober 2007 – 15. November 2007\n3 Wochen"
+      },
+      {
+        "interpret": "Alex C. feat. Y-ass",
+        "title": "Du hast den schönsten Arsch der Welt\nMusik: Filippo Andrea Carmeni, Gianni Fontana, Maurizio Molella, Roberto Santini; Text: Alex Jörg Christensen, Peter Könemann",
+        "duration": "16. November 2007 – 22. November 2007\n1 Woche"
+      },
+      {
+        "interpret": "Timbaland presents OneRepublic",
+        "title": "Apologize\nRyan B. Tedder",
+        "duration": "23. November 2007 – 24. Januar 2008\n9 Wochen"
       }
     ],
     "albums": [
-      { "interpret": "Monrose", "title": "Temptation", "duration": "3 Wochen (22. Dezember 2006 – 11. Januar 2007)" },
+      { "interpret": "Monrose", "title": "Temptation", "duration": "22. Dezember 2006 – 11. Januar 2007\n3 Wochen" },
+      { "interpret": "Nelly Furtado", "title": "Loose", "duration": "12. Januar 2007 – 8. Februar 2007\n4 Wochen" },
+      { "interpret": "Norah Jones", "title": "Not Too Late", "duration": "9. Februar 2007 – 1. März 2007\n3 Wochen" },
       {
-        "interpret": "Nelly Furtado",
-        "title": "Loose",
-        "duration": "4 Wochen (12. Januar – 8. Februar, insgesamt 8 Wochen; → 2006)"
+        "interpret": "Böhse Onkelz",
+        "title": "Vaya con Tioz [DVD]",
+        "duration": "2. März 2007 – 8. März 2007\n1 Woche"
       },
-      { "interpret": "Norah Jones", "title": "Not Too Late", "duration": "3 Wochen (9. Februar – 1. März)" },
-      { "interpret": "Böhse Onkelz", "title": "Vaya con Tioz", "duration": "1 Woche (2. März – 8. März)" },
-      { "interpret": "Tokio Hotel", "title": "Zimmer 483", "duration": "1 Woche (9. März – 15. März)" },
-      { "interpret": "Herbert Grönemeyer", "title": "12", "duration": "5 Wochen (16. März – 19. April)" },
-      { "interpret": "Die Fantastischen Vier", "title": "Fornika", "duration": "1 Woche (20. April – 26. April)" },
-      { "interpret": "Avril Lavigne", "title": "The Best Damn Thing", "duration": "1 Woche (27. April – 3. Mai)" },
-      { "interpret": "Nelly Furtado", "title": "Loose", "duration": "1 Woche (4. Mai – 10. Mai, insgesamt 8 Wochen)" },
-      { "interpret": "Michael Bublé", "title": "Call Me Irresponsible", "duration": "1 Woche (11. Mai – 17. Mai)" },
-      { "interpret": "Reinhard Mey", "title": "Bunter Hund", "duration": "1 Woche (18. Mai – 24. Mai)" },
-      { "interpret": "Linkin Park", "title": "Minutes to Midnight", "duration": "4 Wochen (25. Mai – 21. Juni)" },
-      { "interpret": "Bon Jovi", "title": "Lost Highway", "duration": "1 Woche (22. Juni – 28. Juni)" },
+      { "interpret": "Tokio Hotel", "title": "Zimmer 483", "duration": "9. März 2007 – 15. März 2007\n1 Woche" },
+      { "interpret": "Herbert Grönemeyer", "title": "12", "duration": "16. März 2007 – 19. April 2007\n5 Wochen" },
       {
-        "interpret": "Mark Medlock",
-        "title": "Mr. Lonely",
-        "duration": "3 Wochen (29. Juni – 19. Juli, insgesamt 4 Wochen)"
-      },
-      { "interpret": "LaFee", "title": "Jetzt erst recht", "duration": "1 Woche (20. Juli – 26. Juli)" },
-      {
-        "interpret": "Mark Medlock",
-        "title": "Mr. Lonely",
-        "duration": "1 Woche (27. Juli – 2. August, insgesamt 4 Wochen)"
+        "interpret": "Die Fantastischen Vier",
+        "title": "Fornika",
+        "duration": "20. April 2007 – 26. April 2007\n1 Woche"
       },
       {
-        "interpret": "beFour",
-        "title": "All 4 One",
-        "duration": "1 Woche (3. August – 9. August, insgesamt 2 Wochen)"
+        "interpret": "Avril Lavigne",
+        "title": "The Best Damn Thing",
+        "duration": "27. April 2007 – 3. Mai 2007\n1 Woche"
       },
+      { "interpret": "Nelly Furtado", "title": "Loose", "duration": "4. Mai 2007 – 10. Mai 2007\n1 Woche" },
+      {
+        "interpret": "Michael Bublé",
+        "title": "Call Me Irresponsible",
+        "duration": "11. Mai 2007 – 17. Mai 2007\n1 Woche"
+      },
+      { "interpret": "Reinhard Mey", "title": "Bunter Hund", "duration": "18. Mai 2007 – 24. Mai 2007\n1 Woche" },
+      {
+        "interpret": "Linkin Park",
+        "title": "Minutes to Midnight",
+        "duration": "25. Mai 2007 – 21. Juni 2007\n4 Wochen"
+      },
+      { "interpret": "Bon Jovi", "title": "Lost Highway", "duration": "22. Juni 2007 – 28. Juni 2007\n1 Woche" },
+      { "interpret": "Mark Medlock", "title": "Mr. Lonely", "duration": "29. Juni 2007 – 19. Juli 2007\n3 Wochen" },
+      { "interpret": "LaFee", "title": "Jetzt erst recht", "duration": "20. Juli 2007 – 26. Juli 2007\n1 Woche" },
+      { "interpret": "Mark Medlock", "title": "Mr. Lonely", "duration": "27. Juli 2007 – 2. August 2007\n1 Woche" },
+      { "interpret": "beFour", "title": "All 4 One", "duration": "3. August 2007 – 9. August 2007\n1 Woche" },
       {
         "interpret": "The Rolling Stones",
-        "title": "The Biggest Bang",
-        "duration": "1 Woche (10. August – 16. August)"
+        "title": "The Biggest Bang [DVD]",
+        "duration": "10. August 2007 – 16. August 2007\n1 Woche"
       },
-      { "interpret": "Sportfreunde Stiller", "title": "La Bum", "duration": "1 Woche (17. August – 23. August)" },
       {
-        "interpret": "beFour",
-        "title": "All 4 One",
-        "duration": "1 Woche (24. August – 30. August, insgesamt 2 Wochen)"
+        "interpret": "Sportfreunde Stiller",
+        "title": "La Bum",
+        "duration": "17. August 2007 – 23. August 2007\n1 Woche"
       },
-      { "interpret": "Elvis Presley", "title": "The King", "duration": "1 Woche (31. August – 6. September)" },
+      { "interpret": "beFour", "title": "All 4 One", "duration": "24. August 2007 – 30. August 2007\n1 Woche" },
+      { "interpret": "Elvis Presley", "title": "The King", "duration": "31. August 2007 – 6. September 2007\n1 Woche" },
       {
         "interpret": "Die Amigos",
         "title": "Der helle Wahnsinn",
-        "duration": "1 Woche (7. September – 13. September)"
+        "duration": "7. September 2007 – 13. September 2007\n1 Woche"
       },
-      { "interpret": "Bushido", "title": "7", "duration": "2 Wochen (14. September – 27. September)" },
+      { "interpret": "Bushido", "title": "7", "duration": "14. September 2007 – 27. September 2007\n2 Wochen" },
       {
         "interpret": "James Blunt",
         "title": "All the Lost Souls",
-        "duration": "2 Wochen (28. September – 11. Oktober)"
+        "duration": "28. September 2007 – 11. Oktober 2007\n2 Wochen"
       },
-      { "interpret": "Nightwish", "title": "Dark Passion Play", "duration": "1 Woche (12. Oktober – 18. Oktober)" },
+      {
+        "interpret": "Nightwish",
+        "title": "Dark Passion Play",
+        "duration": "12. Oktober 2007 – 18. Oktober 2007\n1 Woche"
+      },
       {
         "interpret": "Mario Barth",
-        "title": "Männer sind primitiv, aber glücklich!",
-        "duration": "4 Wochen (19. Oktober – 15. November)"
+        "title": "Männer sind primitiv, aber glücklich! [CD/DVD]",
+        "duration": "19. Oktober 2007 – 15. November 2007\n4 Wochen"
       },
       {
         "interpret": "Die Ärzte",
         "title": "Jazz ist anders",
-        "duration": "8 Wochen (16. November 2007 – 10. Januar 2008)"
+        "duration": "16. November 2007 – 10. Januar 2008\n8 Wochen"
       }
     ]
   },
   "2008": {
     "singles": [
-      { "interpret": "Timbaland", "title": "Apologize", "duration": "9 Wochen (23. November 2007 – 24. Januar 2008)" },
-      { "interpret": "Leona Lewis", "title": "Bleeding Love", "duration": "4 Wochen (25. Januar – 21. Februar)" },
-      { "interpret": "Schnuffel", "title": "Kuschel Song", "duration": "8 Wochen (22. Februar – 17. April)" },
-      { "interpret": "Duffy", "title": "Mercy", "duration": "1 Woche (18. April – 24. April)" },
-      { "interpret": "Madonna", "title": "4 Minutes", "duration": "3 Wochen (25. April – 15. Mai)" },
-      { "interpret": "Mark Medlock", "title": "Summer Love", "duration": "3 Wochen (16. Mai – 5. Juni)" },
-      { "interpret": "Thomas Godoj", "title": "Love Is You", "duration": "2 Wochen (6. Juni – 19. Juni)" },
-      { "interpret": "Shaggy", "title": "Feel the Rush (Mascots Song)", "duration": "1 Woche (20. Juni – 26. Juni)" },
-      { "interpret": "Kid Rock", "title": "All Summer Long", "duration": "8 Wochen (27. Juni – 21. August)" },
+      {
+        "interpret": "Timbaland presents OneRepublic",
+        "title": "Apologize\nRyan B. Tedder",
+        "duration": "23. November 2007 – 24. Januar 2008\n9 Wochen"
+      },
+      {
+        "interpret": "Leona Lewis",
+        "title": "Bleeding Love\nRyan B. Tedder, Jesse McCartney",
+        "duration": "25. Januar 2008 – 21. Februar 2008\n4 Wochen"
+      },
+      {
+        "interpret": "Schnuffel",
+        "title": "Kuschel Song\nMusik: Markus Kreschmer, Tamara Erika Lücke; Text: Sebastian Nußbaum, Andreas Wendorf",
+        "duration": "22. Februar 2008 – 17. April 2008\n8 Wochen"
+      },
+      {
+        "interpret": "Duffy",
+        "title": "Mercy\nStephen Andrew Booker, Aimee Ann Duffy",
+        "duration": "18. April 2008 – 24. April 2008\n1 Woche"
+      },
+      {
+        "interpret": "Madonna feat. Justin Timberlake & Timbaland",
+        "title": "4 Minutes\nFloyd Nathaniel Hills, Madonna Louise Ciccone, Timothy Z. Mosley, Justin R. Timberlake",
+        "duration": "25. April 2008 – 15. Mai 2008\n3 Wochen"
+      },
+      {
+        "interpret": "Mark Medlock",
+        "title": "Summer Love\nDieter Bohlen",
+        "duration": "16. Mai 2008 – 5. Juni 2008\n3 Wochen"
+      },
+      {
+        "interpret": "Thomas Godoj",
+        "title": "Love Is You\nChristoph Masbaum, Will Simms, Michelle Leonard, Roland Meyer de Voltaire",
+        "duration": "6. Juni 2008 – 19. Juni 2008\n2 Wochen"
+      },
+      {
+        "interpret": "Shaggy feat. Trix & Flix",
+        "title": "Feel the Rush (Mascots Song)\nKonrad Freiherr von Löhneysen, Orville Burrell, Samim Winiger, Luis Enrique Martínez Argote, Esteban Montaño Polo, Andres Paz Barros, Marc Fritsch, Andreas Litterscheidt, Reinhard Raith, Andre Oneil Fennell",
+        "duration": "20. Juni 2008 – 26. Juni 2008\n1 Woche"
+      },
+      {
+        "interpret": "Kid Rock",
+        "title": "All Summer Long\nEdward C. King, Gary Robert Rossington, Ronnie Van Zant, Warren William Zevon, Robert T. Wachtel, Matthew L. Shafer, Robert J. Ritchie, Leroy P. Marinell",
+        "duration": "27. Juni 2008 – 21. August 2008\n8 Wochen"
+      },
       {
         "interpret": "Söhne Mannheims",
-        "title": "Das hat die Welt noch nicht gesehen",
-        "duration": "1 Woche (22. August – 28. August)"
+        "title": "Das hat die Welt noch nicht gesehen\nMusik: Xavier Naidoo, Michael Herberger; Text: Xavier Naidoo, Tino Öchsler, James Marlon, Henning Wehland",
+        "duration": "22. August 2008 – 28. August 2008\n1 Woche"
       },
       {
         "interpret": "Katy Perry",
-        "title": "I Kissed a Girl",
-        "duration": "2 Wochen (29. August – 11. September, insgesamt 5 Wochen)"
-      },
-      { "interpret": "Rosenstolz", "title": "Gib mir Sonne", "duration": "1 Woche (12. September – 18. September)" },
-      {
-        "interpret": "Katy Perry",
-        "title": "I Kissed a Girl",
-        "duration": "3 Wochen (19. September – 9. Oktober, insgesamt 5 Wochen)"
-      },
-      { "interpret": "P!nk", "title": "So What", "duration": "3 Wochen (10. Oktober – 30. Oktober)" },
-      { "interpret": "Polarkreis 18", "title": "Allein Allein", "duration": "5 Wochen (31. Oktober – 4. Dezember)" },
-      { "interpret": "Katy Perry", "title": "Hot n Cold", "duration": "8 Wochen (5. Dezember 2008 – 29. Januar 2009)" },
-      {
-        "interpret": "Die Ärzte",
-        "title": "Jazz ist anders",
-        "duration": "8 Wochen (16. November 2007 – 10. Januar 2008)"
-      },
-      {
-        "interpret": "Amy Winehouse",
-        "title": "Back to Black",
-        "duration": "4 Wochen (11. Januar – 7. Februar, insgesamt 12; → 2011)"
-      },
-      { "interpret": "Leona Lewis", "title": "Spirit", "duration": "1 Woche (8. Februar – 14. Februar)" },
-      {
-        "interpret": "Amy Winehouse",
-        "title": "Back to Black",
-        "duration": "3 Wochen (15. Februar – 6. März, insgesamt 12)"
-      },
-      { "interpret": "Schiller", "title": "Sehnsucht", "duration": "1 Woche (7. März – 13. März)" },
-      {
-        "interpret": "Amy Winehouse",
-        "title": "Back to Black",
-        "duration": "4 Wochen (14. März – 10. April, insgesamt 12)"
-      },
-      { "interpret": "Udo Lindenberg", "title": "Stark wie zwei", "duration": "4 Wochen (11. April – 8. Mai)" },
-      { "interpret": "Madonna", "title": "Hard Candy", "duration": "2 Wochen (9. Mai – 22. Mai)" },
-      { "interpret": "In Extremo", "title": "Sængerkrieg", "duration": "1 Woche (23. Mai – 29. Mai)" },
-      { "interpret": "BAP", "title": "Radio Pandora", "duration": "1 Woche (30. Mai – 5. Juni)" },
-      { "interpret": "Genesis", "title": "Live over Europe 2007", "duration": "1 Woche (6. Juni – 12. Juni)" },
-      { "interpret": "Sido", "title": "Ich und meine Maske", "duration": "1 Woche (13. Juni – 19. Juni)" },
-      { "interpret": "Ich + Ich", "title": "Vom selben Stern", "duration": "1 Woche (20. Juni – 26. Juni)" },
-      {
-        "interpret": "Coldplay",
-        "title": "Viva la Vida or Death and All His Friends",
-        "duration": "3 Wochen (27. Juni – 17. Juli, insgesamt 4 Wochen)"
-      },
-      { "interpret": "Thomas Godoj", "title": "Plan A!", "duration": "1 Woche (18. Juli – 24. Juli)" },
-      {
-        "interpret": "Coldplay",
-        "title": "Viva la Vida or Death and All His Friends",
-        "duration": "1 Woche (25. Juli – 31. Juli, insgesamt 4 Wochen)"
-      },
-      {
-        "interpret": "Paul Potts",
-        "title": "One Chance",
-        "duration": "6 Wochen (1. August – 11. September, insgesamt 7 Wochen)"
-      },
-      { "interpret": "Peter Maffay", "title": "Ewig", "duration": "1 Woche (12. September – 18. September)" },
-      {
-        "interpret": "Paul Potts",
-        "title": "One Chance",
-        "duration": "1 Woche (19. September – 25. September, insgesamt 7 Wochen)"
-      },
-      { "interpret": "Metallica", "title": "Death Magnetic", "duration": "1 Woche (26. September – 2. Oktober)" },
-      {
-        "interpret": "Söhne Mannheims",
-        "title": "Wettsingen in Schwetzingen – MTV Unplugged",
-        "duration": "1 Woche (3. Oktober – 9. Oktober)"
+        "title": "I Kissed a Girl\nMax Martin, Lukasz Gottwald, Katy Perry, Cathy Dennis",
+        "duration": "29. August 2008 – 11. September 2008\n2 Wochen"
       },
       {
         "interpret": "Rosenstolz",
-        "title": "Die Suche geht weiter",
-        "duration": "2 Wochen (10. Oktober – 23. Oktober)"
-      },
-      { "interpret": "Bushido", "title": "Heavy Metal Payback", "duration": "1 Woche (24. Oktober – 30. Oktober)" },
-      { "interpret": "AC/DC", "title": "Black Ice", "duration": "4 Wochen (31. Oktober – 27. November)" },
-      {
-        "interpret": "Die Toten Hosen",
-        "title": "In aller Stille",
-        "duration": "1 Woche (28. November – 4. Dezember)"
+        "title": "Gib mir Sonne\nPeter Plate, Ulf Leo Sommer",
+        "duration": "12. September 2008 – 18. September 2008\n1 Woche"
       },
       {
-        "interpret": "Herbert Grönemeyer",
-        "title": "Was muss muss – Best of",
-        "duration": "2 Wochen (5. Dezember – 18. Dezember, insgesamt 6 Wochen)"
+        "interpret": "Katy Perry",
+        "title": "I Kissed a Girl\nMax Martin, Lukasz Gottwald, Katy Perry, Cathy Dennis",
+        "duration": "19. September 2008 – 9. Oktober 2008\n3 Wochen"
       },
       {
-        "interpret": "Michael Hirte",
-        "title": "Der Mann mit der Mundharmonika",
-        "duration": "1 Woche (19. Dezember – 25. Dezember)"
+        "interpret": "P!nk",
+        "title": "So What\nAlecia B. Moore, Max Martin, Johan Karl Schuster",
+        "duration": "10. Oktober 2008 – 30. Oktober 2008\n3 Wochen"
       },
       {
-        "interpret": "Herbert Grönemeyer",
-        "title": "Was muss muss – Best of",
-        "duration": "4 Wochen (26. Dezember 2008 – 22. Januar 2009, insgesamt 6 Wochen)"
+        "interpret": "Polarkreis 18",
+        "title": "Allein Allein\nChristian Grochau, Philipp Makolies, Uwe Pasora, Felix Räuber, Bernhard Silvester Wenzel, Ludwig Bauer",
+        "duration": "31. Oktober 2008 – 4. Dezember 2008\n5 Wochen"
+      },
+      {
+        "interpret": "Katy Perry",
+        "title": "Hot n Cold\nKaty Perry, Lukasz Gottwald, Max Martin",
+        "duration": "5. Dezember 2008 – 29. Januar 2009\n8 Wochen"
       }
     ],
     "albums": [
       {
         "interpret": "Die Ärzte",
         "title": "Jazz ist anders",
-        "duration": "8 Wochen (16. November 2007 – 10. Januar 2008)"
+        "duration": "16. November 2007 – 10. Januar 2008\n8 Wochen"
       },
       {
         "interpret": "Amy Winehouse",
         "title": "Back to Black",
-        "duration": "4 Wochen (11. Januar – 7. Februar, insgesamt 12; → 2011)"
+        "duration": "11. Januar 2008 – 7. Februar 2008\n4 Wochen"
       },
-      { "interpret": "Leona Lewis", "title": "Spirit", "duration": "1 Woche (8. Februar – 14. Februar)" },
+      { "interpret": "Leona Lewis", "title": "Spirit", "duration": "8. Februar 2008 – 14. Februar 2008\n1 Woche" },
       {
         "interpret": "Amy Winehouse",
         "title": "Back to Black",
-        "duration": "3 Wochen (15. Februar – 6. März, insgesamt 12)"
+        "duration": "15. Februar 2008 – 6. März 2008\n3 Wochen"
       },
-      { "interpret": "Schiller", "title": "Sehnsucht", "duration": "1 Woche (7. März – 13. März)" },
+      { "interpret": "Schiller", "title": "Sehnsucht", "duration": "7. März 2008 – 13. März 2008\n1 Woche" },
       {
         "interpret": "Amy Winehouse",
         "title": "Back to Black",
-        "duration": "4 Wochen (14. März – 10. April, insgesamt 12)"
+        "duration": "14. März 2008 – 10. April 2008\n4 Wochen"
       },
-      { "interpret": "Udo Lindenberg", "title": "Stark wie zwei", "duration": "4 Wochen (11. April – 8. Mai)" },
-      { "interpret": "Madonna", "title": "Hard Candy", "duration": "2 Wochen (9. Mai – 22. Mai)" },
-      { "interpret": "In Extremo", "title": "Sængerkrieg", "duration": "1 Woche (23. Mai – 29. Mai)" },
-      { "interpret": "BAP", "title": "Radio Pandora", "duration": "1 Woche (30. Mai – 5. Juni)" },
-      { "interpret": "Genesis", "title": "Live over Europe 2007", "duration": "1 Woche (6. Juni – 12. Juni)" },
-      { "interpret": "Sido", "title": "Ich und meine Maske", "duration": "1 Woche (13. Juni – 19. Juni)" },
-      { "interpret": "Ich + Ich", "title": "Vom selben Stern", "duration": "1 Woche (20. Juni – 26. Juni)" },
+      {
+        "interpret": "Udo Lindenberg",
+        "title": "Stark wie zwei",
+        "duration": "11. April 2008 – 8. Mai 2008\n4 Wochen"
+      },
+      { "interpret": "Madonna", "title": "Hard Candy", "duration": "9. Mai 2008 – 22. Mai 2008\n2 Wochen" },
+      { "interpret": "In Extremo", "title": "Sængerkrieg", "duration": "23. Mai 2008 – 29. Mai 2008\n1 Woche" },
+      { "interpret": "BAP", "title": "Radio Pandora", "duration": "30. Mai 2008 – 5. Juni 2008\n1 Woche" },
+      { "interpret": "Genesis", "title": "Live over Europe 2007", "duration": "6. Juni 2008 – 12. Juni 2008\n1 Woche" },
+      { "interpret": "Sido", "title": "Ich und meine Maske", "duration": "13. Juni 2008 – 19. Juni 2008\n1 Woche" },
+      { "interpret": "Ich + Ich", "title": "Vom selben Stern", "duration": "20. Juni 2008 – 26. Juni 2008\n1 Woche" },
       {
         "interpret": "Coldplay",
         "title": "Viva la Vida or Death and All His Friends",
-        "duration": "3 Wochen (27. Juni – 17. Juli, insgesamt 4 Wochen)"
+        "duration": "27. Juni 2008 – 17. Juli 2008\n3 Wochen"
       },
-      { "interpret": "Thomas Godoj", "title": "Plan A!", "duration": "1 Woche (18. Juli – 24. Juli)" },
+      { "interpret": "Thomas Godoj", "title": "Plan A!", "duration": "18. Juli 2008 – 24. Juli 2008\n1 Woche" },
       {
         "interpret": "Coldplay",
         "title": "Viva la Vida or Death and All His Friends",
-        "duration": "1 Woche (25. Juli – 31. Juli, insgesamt 4 Wochen)"
+        "duration": "25. Juli 2008 – 31. Juli 2008\n1 Woche"
       },
+      { "interpret": "Paul Potts", "title": "One Chance", "duration": "1. August 2008 – 11. September 2008\n6 Wochen" },
+      { "interpret": "Peter Maffay", "title": "Ewig", "duration": "12. September 2008 – 18. September 2008\n1 Woche" },
       {
         "interpret": "Paul Potts",
         "title": "One Chance",
-        "duration": "6 Wochen (1. August – 11. September, insgesamt 7 Wochen)"
+        "duration": "19. September 2008 – 25. September 2008\n1 Woche"
       },
-      { "interpret": "Peter Maffay", "title": "Ewig", "duration": "1 Woche (12. September – 18. September)" },
       {
-        "interpret": "Paul Potts",
-        "title": "One Chance",
-        "duration": "1 Woche (19. September – 25. September, insgesamt 7 Wochen)"
+        "interpret": "Metallica",
+        "title": "Death Magnetic",
+        "duration": "26. September 2008 – 2. Oktober 2008\n1 Woche"
       },
-      { "interpret": "Metallica", "title": "Death Magnetic", "duration": "1 Woche (26. September – 2. Oktober)" },
       {
-        "interpret": "Söhne Mannheims",
+        "interpret": "Söhne Mannheims vs. Xavier Naidoo",
         "title": "Wettsingen in Schwetzingen – MTV Unplugged",
-        "duration": "1 Woche (3. Oktober – 9. Oktober)"
+        "duration": "3. Oktober 2008 – 9. Oktober 2008\n1 Woche"
       },
       {
         "interpret": "Rosenstolz",
         "title": "Die Suche geht weiter",
-        "duration": "2 Wochen (10. Oktober – 23. Oktober)"
+        "duration": "10. Oktober 2008 – 23. Oktober 2008\n2 Wochen"
       },
-      { "interpret": "Bushido", "title": "Heavy Metal Payback", "duration": "1 Woche (24. Oktober – 30. Oktober)" },
-      { "interpret": "AC/DC", "title": "Black Ice", "duration": "4 Wochen (31. Oktober – 27. November)" },
+      {
+        "interpret": "Bushido",
+        "title": "Heavy Metal Payback",
+        "duration": "24. Oktober 2008 – 30. Oktober 2008\n1 Woche"
+      },
+      { "interpret": "AC/DC", "title": "Black Ice", "duration": "31. Oktober 2008 – 27. November 2008\n4 Wochen" },
       {
         "interpret": "Die Toten Hosen",
         "title": "In aller Stille",
-        "duration": "1 Woche (28. November – 4. Dezember)"
+        "duration": "28. November 2008 – 4. Dezember 2008\n1 Woche"
       },
       {
         "interpret": "Herbert Grönemeyer",
         "title": "Was muss muss – Best of",
-        "duration": "2 Wochen (5. Dezember – 18. Dezember, insgesamt 6 Wochen)"
+        "duration": "5. Dezember 2008 – 18. Dezember 2008\n2 Wochen"
       },
       {
         "interpret": "Michael Hirte",
         "title": "Der Mann mit der Mundharmonika",
-        "duration": "1 Woche (19. Dezember – 25. Dezember)"
+        "duration": "19. Dezember 2008 – 25. Dezember 2008\n1 Woche"
       },
       {
         "interpret": "Herbert Grönemeyer",
         "title": "Was muss muss – Best of",
-        "duration": "4 Wochen (26. Dezember 2008 – 22. Januar 2009, insgesamt 6 Wochen)"
+        "duration": "26. Dezember 2008 – 22. Januar 2009\n4 Wochen"
       }
     ]
   },
   "2009": {
     "singles": [
-      { "interpret": "Katy Perry", "title": "Hot n Cold", "duration": "8 Wochen (5. Dezember 2008 – 29. Januar 2009)" },
-      { "interpret": "James Morrison", "title": "Broken Strings", "duration": "5 Wochen (30. Januar – 5. März)" },
-      { "interpret": "Silbermond", "title": "Irgendwas bleibt", "duration": "1 Woche (6. März – 12. März)" },
+      {
+        "interpret": "Katy Perry",
+        "title": "Hot n Cold\nKaty Perry, Lukasz Gottwald, Max Martin",
+        "duration": "5. Dezember 2008 – 29. Januar 2009\n8 Wochen"
+      },
+      {
+        "interpret": "James Morrison feat. Nelly Furtado",
+        "title": "Broken Strings\nFraser Lance Thorneycroft Smith, James Morrison, Nina Sofia Marie Woodford",
+        "duration": "30. Januar 2009 – 5. März 2009\n5 Wochen"
+      },
+      {
+        "interpret": "Silbermond",
+        "title": "Irgendwas bleibt\nThomas Stolle, Johannes Stolle, Stefanie Kloß, Andreas Jan Nowak",
+        "duration": "6. März 2009 – 12. März 2009\n1 Woche"
+      },
       {
         "interpret": "Lady Gaga",
-        "title": "Poker Face",
-        "duration": "11 Wochen (13. März – 28. Mai, insgesamt 13 Wochen)"
+        "title": "Poker Face\nStefani Germanotta, Nadir Khayat",
+        "duration": "13. März 2009 – 28. Mai 2009\n11 Wochen"
       },
-      { "interpret": "Daniel Schuhmacher", "title": "Anything but Love", "duration": "3 Wochen (29. Mai – 18. Juni)" },
+      {
+        "interpret": "Daniel Schuhmacher",
+        "title": "Anything but Love\nDieter Bohlen",
+        "duration": "29. Mai 2009 – 18. Juni 2009\n3 Wochen"
+      },
       {
         "interpret": "Lady Gaga",
-        "title": "Poker Face",
-        "duration": "2 Wochen (19. Juni – 2. Juli, insgesamt 13 Wochen)"
+        "title": "Poker Face\nStefani Germanotta, Nadir Khayat",
+        "duration": "19. Juni 2009 – 2. Juli 2009\n2 Wochen"
       },
-      { "interpret": "Emilíana Torrini", "title": "Jungle Drum", "duration": "8 Wochen (3. Juli – 27. August)" },
+      {
+        "interpret": "Emilíana Torrini",
+        "title": "Jungle Drum\nDaniel de Mussenden Carey, Emilíana Torrini",
+        "duration": "3. Juli 2009 – 27. August 2009\n8 Wochen"
+      },
       {
         "interpret": "Marit Larsen",
-        "title": "If a Song Could Get Me You",
-        "duration": "5 Wochen (28. August – 1. Oktober)"
-      },
-      { "interpret": "Rammstein", "title": "Pussy", "duration": "1 Woche (2. Oktober – 8. Oktober)" },
-      { "interpret": "David Guetta", "title": "Sexy Bitch", "duration": "1 Woche (9. Oktober – 15. Oktober)" },
-      { "interpret": "Lady Gaga", "title": "Paparazzi", "duration": "1 Woche (16. Oktober – 22. Oktober)" },
-      {
-        "interpret": "Robbie Williams",
-        "title": "Bodies",
-        "duration": "3 Wochen (23. Oktober – 12. November, insgesamt 4 Wochen)"
-      },
-      {
-        "interpret": "Ich + Ich",
-        "title": "Pflaster",
-        "duration": "1 Woche (13. November – 19. November, insgesamt 3 Wochen)"
-      },
-      {
-        "interpret": "Robbie Williams",
-        "title": "Bodies",
-        "duration": "1 Woche (20. November – 26. November, insgesamt 4 Wochen)"
-      },
-      {
-        "interpret": "Ich + Ich",
-        "title": "Pflaster",
-        "duration": "2 Wochen (27. November – 10. Dezember, insgesamt 3 Wochen)"
-      },
-      {
-        "interpret": "The Black Eyed Peas",
-        "title": "Meet Me Halfway",
-        "duration": "1 Woche (11. Dezember – 17. Dezember)"
-      },
-      {
-        "interpret": "Aura Dione",
-        "title": "I Will Love You Monday (365)",
-        "duration": "1 Woche (18. Dezember – 24. Dezember, insgesamt 2 Wochen; → 2010)"
-      },
-      {
-        "interpret": "Keri Hilson",
-        "title": "I Like",
-        "duration": "1 Woche (25. Dezember – 31. Dezember, insgesamt 3 Wochen; → 2010)"
-      },
-      {
-        "interpret": "Herbert Grönemeyer",
-        "title": "Was muss muss – Best of",
-        "duration": "4 Wochen (26. Dezember 2008 – 22. Januar 2009, insgesamt 6 Wochen; → 2008)"
-      },
-      { "interpret": "Adoro", "title": "Adoro", "duration": "2 Wochen (23. Januar – 5. Februar)" },
-      {
-        "interpret": "Bruce Springsteen",
-        "title": "Working on a Dream",
-        "duration": "2 Wochen (6. Februar – 19. Februar)"
-      },
-      {
-        "interpret": "Peter Fox",
-        "title": "Stadtaffe",
-        "duration": "1 Woche (20. Februar – 26. Februar, insgesamt 4 Wochen)"
-      },
-      { "interpret": "Mando Diao", "title": "Give Me Fire!", "duration": "1 Woche (27. Februar – 5. März)" },
-      {
-        "interpret": "Peter Fox",
-        "title": "Stadtaffe",
-        "duration": "1 Woche (6. März – 12. März, insgesamt 4 Wochen)"
-      },
-      { "interpret": "U2", "title": "No Line on the Horizon", "duration": "1 Woche (13. März – 19. März)" },
-      {
-        "interpret": "Peter Fox",
-        "title": "Stadtaffe",
-        "duration": "2 Wochen (20. März – 2. April, insgesamt 4 Wochen)"
-      },
-      {
-        "interpret": "Silbermond",
-        "title": "Nichts passiert",
-        "duration": "2 Wochen (3. April – 16. April, insgesamt 3 Wochen)"
-      },
-      { "interpret": "Andrea Berg", "title": "Zwischen Himmel & Erde", "duration": "1 Woche (17. April – 23. April)" },
-      {
-        "interpret": "Silbermond",
-        "title": "Nichts passiert",
-        "duration": "1 Woche (24. April – 30. April, insgesamt 3 Wochen)"
-      },
-      { "interpret": "Depeche Mode", "title": "Sounds of the Universe", "duration": "4 Wochen (1. Mai – 28. Mai)" },
-      { "interpret": "Green Day", "title": "21st Century Breakdown", "duration": "1 Woche (29. Mai – 4. Juni)" },
-      {
-        "interpret": "Sportfreunde Stiller",
-        "title": "MTV Unplugged in New York",
-        "duration": "2 Wochen (5. Juni – 18. Juni)"
-      },
-      { "interpret": "Placebo", "title": "Battle for the Sun", "duration": "1 Woche (19. Juni – 25. Juni)" },
-      { "interpret": "a-ha", "title": "Foot of the Mountain", "duration": "1 Woche (26. Juni – 2. Juli)" },
-      { "interpret": "Daniel Schuhmacher", "title": "The Album", "duration": "1 Woche (3. Juli – 9. Juli)" },
-      { "interpret": "Michael Jackson", "title": "King of Pop", "duration": "7 Wochen (10. Juli – 27. August)" },
-      {
-        "interpret": "Jan Delay",
-        "title": "Wir Kinder vom Bahnhof Soul",
-        "duration": "2 Wochen (28. August – 10. September)"
-      },
-      {
-        "interpret": "Whitney Houston",
-        "title": "I Look to You",
-        "duration": "1 Woche (11. September – 17. September)"
-      },
-      { "interpret": "Pur", "title": "Wünsche", "duration": "1 Woche (18. September – 24. September)" },
-      { "interpret": "Muse", "title": "The Resistance", "duration": "1 Woche (25. September – 1. Oktober)" },
-      { "interpret": "Madonna", "title": "Celebration", "duration": "2 Wochen (2. Oktober – 15. Oktober)" },
-      { "interpret": "Tokio Hotel", "title": "Humanoid", "duration": "1 Woche (16. Oktober – 22. Oktober)" },
-      {
-        "interpret": "Xavier Naidoo",
-        "title": "Alles kann besser werden",
-        "duration": "1 Woche (23. Oktober – 29. Oktober)"
+        "title": "If a Song Could Get Me You\nMarit Elisabeth Larsen, Kåre Christoffer Vestrheim",
+        "duration": "28. August 2009 – 1. Oktober 2009\n5 Wochen"
       },
       {
         "interpret": "Rammstein",
-        "title": "Liebe ist für alle da",
-        "duration": "2 Wochen (30. Oktober – 12. November)"
+        "title": "Pussy\nRichard Z. Kruspe, Paul Landers, Christoph Schneider, Till Lindemann, Christian Lorenz, Oliver Riedel",
+        "duration": "2. Oktober 2009 – 8. Oktober 2009\n1 Woche"
       },
-      { "interpret": "Bon Jovi", "title": "The Circle", "duration": "1 Woche (13. November – 19. November)" },
+      {
+        "interpret": "David Guetta feat. Akon",
+        "title": "Sexy Bitch\nDavid Guetta, Jean-claude Sindres, Aliaune Thiam, Sandy Julien Wilhelm, Giorgio H. Tuinfort",
+        "duration": "9. Oktober 2009 – 15. Oktober 2009\n1 Woche"
+      },
+      {
+        "interpret": "Lady Gaga",
+        "title": "Paparazzi\nStefani Germanotta, Robert D. Fusari",
+        "duration": "16. Oktober 2009 – 22. Oktober 2009\n1 Woche"
+      },
       {
         "interpret": "Robbie Williams",
-        "title": "Reality Killed the Video Star",
-        "duration": "1 Woche (20. November – 26. November, insgesamt 2 Wochen; → 2010)"
+        "title": "Bodies\nCraig Adam Russo, Brandon Christy, Robert Peter Williams",
+        "duration": "23. Oktober 2009 – 12. November 2009\n3 Wochen"
       },
-      { "interpret": "Ich + Ich", "title": "Gute Reise", "duration": "5 Wochen (27. November – 31. Dezember)" }
+      {
+        "interpret": "Ich + Ich",
+        "title": "Pflaster\nAnnette Humpe, Stephan Düfel",
+        "duration": "13. November 2009 – 19. November 2009\n1 Woche"
+      },
+      {
+        "interpret": "Robbie Williams",
+        "title": "Bodies\nCraig Adam Russo, Brandon Christy, Robert Peter Williams",
+        "duration": "20. November 2009 – 26. November 2009\n1 Woche"
+      },
+      {
+        "interpret": "Ich + Ich",
+        "title": "Pflaster\nAnnette Humpe, Stephan Düfel",
+        "duration": "27. November 2009 – 10. Dezember 2009\n2 Wochen"
+      },
+      {
+        "interpret": "The Black Eyed Peas",
+        "title": "Meet Me Halfway\nSylvia Gordon, William Adams, Jean Baptiste Kouamé, Stacy Ferguson, Jaime Gomez, Keith Harris, Allan Apll Pineda, Printz Board, Karen Lee Orzolek, Nicholas Joseph Zinner, Brian Chase",
+        "duration": "11. Dezember 2009 – 17. Dezember 2009\n1 Woche"
+      },
+      {
+        "interpret": "Aura Dione",
+        "title": "I Will Love You Monday (365)\nDavid Karl Åström, Viktoria Magdalena Sandström, Patrik Jan Berggren, Aura Marie Dione, Kenneth Lundgaard Bager, Per Ebdrup",
+        "duration": "18. Dezember 2009 – 24. Dezember 2009\n1 Woche"
+      },
+      {
+        "interpret": "Keri Hilson",
+        "title": "I Like\nDavid Jost, Robin Grubert",
+        "duration": "25. Dezember 2009 – 31. Dezember 2009\n1 Woche"
+      }
     ],
     "albums": [
       {
         "interpret": "Herbert Grönemeyer",
         "title": "Was muss muss – Best of",
-        "duration": "4 Wochen (26. Dezember 2008 – 22. Januar 2009, insgesamt 6 Wochen; → 2008)"
+        "duration": "26. Dezember 2008 – 22. Januar 2009\n4 Wochen"
       },
-      { "interpret": "Adoro", "title": "Adoro", "duration": "2 Wochen (23. Januar – 5. Februar)" },
+      { "interpret": "Adoro", "title": "Adoro", "duration": "23. Januar 2009 – 5. Februar 2009\n2 Wochen" },
       {
         "interpret": "Bruce Springsteen",
         "title": "Working on a Dream",
-        "duration": "2 Wochen (6. Februar – 19. Februar)"
+        "duration": "6. Februar 2009 – 19. Februar 2009\n2 Wochen"
+      },
+      { "interpret": "Peter Fox", "title": "Stadtaffe", "duration": "20. Februar 2009 – 26. Februar 2009\n1 Woche" },
+      { "interpret": "Mando Diao", "title": "Give Me Fire!", "duration": "27. Februar 2009 – 5. März 2009\n1 Woche" },
+      { "interpret": "Peter Fox", "title": "Stadtaffe", "duration": "6. März 2009 – 12. März 2009\n1 Woche" },
+      { "interpret": "U2", "title": "No Line on the Horizon", "duration": "13. März 2009 – 19. März 2009\n1 Woche" },
+      { "interpret": "Peter Fox", "title": "Stadtaffe", "duration": "20. März 2009 – 2. April 2009\n2 Wochen" },
+      { "interpret": "Silbermond", "title": "Nichts passiert", "duration": "3. April 2009 – 16. April 2009\n2 Wochen" },
+      {
+        "interpret": "Andrea Berg",
+        "title": "Zwischen Himmel & Erde",
+        "duration": "17. April 2009 – 23. April 2009\n1 Woche"
+      },
+      { "interpret": "Silbermond", "title": "Nichts passiert", "duration": "24. April 2009 – 30. April 2009\n1 Woche" },
+      {
+        "interpret": "Depeche Mode",
+        "title": "Sounds of the Universe",
+        "duration": "1. Mai 2009 – 28. Mai 2009\n4 Wochen"
       },
       {
-        "interpret": "Peter Fox",
-        "title": "Stadtaffe",
-        "duration": "1 Woche (20. Februar – 26. Februar, insgesamt 4 Wochen)"
+        "interpret": "Green Day",
+        "title": "21st Century Breakdown",
+        "duration": "29. Mai 2009 – 4. Juni 2009\n1 Woche"
       },
-      { "interpret": "Mando Diao", "title": "Give Me Fire!", "duration": "1 Woche (27. Februar – 5. März)" },
-      {
-        "interpret": "Peter Fox",
-        "title": "Stadtaffe",
-        "duration": "1 Woche (6. März – 12. März, insgesamt 4 Wochen)"
-      },
-      { "interpret": "U2", "title": "No Line on the Horizon", "duration": "1 Woche (13. März – 19. März)" },
-      {
-        "interpret": "Peter Fox",
-        "title": "Stadtaffe",
-        "duration": "2 Wochen (20. März – 2. April, insgesamt 4 Wochen)"
-      },
-      {
-        "interpret": "Silbermond",
-        "title": "Nichts passiert",
-        "duration": "2 Wochen (3. April – 16. April, insgesamt 3 Wochen)"
-      },
-      { "interpret": "Andrea Berg", "title": "Zwischen Himmel & Erde", "duration": "1 Woche (17. April – 23. April)" },
-      {
-        "interpret": "Silbermond",
-        "title": "Nichts passiert",
-        "duration": "1 Woche (24. April – 30. April, insgesamt 3 Wochen)"
-      },
-      { "interpret": "Depeche Mode", "title": "Sounds of the Universe", "duration": "4 Wochen (1. Mai – 28. Mai)" },
-      { "interpret": "Green Day", "title": "21st Century Breakdown", "duration": "1 Woche (29. Mai – 4. Juni)" },
       {
         "interpret": "Sportfreunde Stiller",
         "title": "MTV Unplugged in New York",
-        "duration": "2 Wochen (5. Juni – 18. Juni)"
+        "duration": "5. Juni 2009 – 18. Juni 2009\n2 Wochen"
       },
-      { "interpret": "Placebo", "title": "Battle for the Sun", "duration": "1 Woche (19. Juni – 25. Juni)" },
-      { "interpret": "a-ha", "title": "Foot of the Mountain", "duration": "1 Woche (26. Juni – 2. Juli)" },
-      { "interpret": "Daniel Schuhmacher", "title": "The Album", "duration": "1 Woche (3. Juli – 9. Juli)" },
-      { "interpret": "Michael Jackson", "title": "King of Pop", "duration": "7 Wochen (10. Juli – 27. August)" },
+      { "interpret": "Placebo", "title": "Battle for the Sun", "duration": "19. Juni 2009 – 25. Juni 2009\n1 Woche" },
+      { "interpret": "a-ha", "title": "Foot of the Mountain", "duration": "26. Juni 2009 – 2. Juli 2009\n1 Woche" },
+      { "interpret": "Daniel Schuhmacher", "title": "The Album", "duration": "3. Juli 2009 – 9. Juli 2009\n1 Woche" },
+      {
+        "interpret": "Michael Jackson",
+        "title": "King of Pop",
+        "duration": "10. Juli 2009 – 27. August 2009\n7 Wochen"
+      },
       {
         "interpret": "Jan Delay",
         "title": "Wir Kinder vom Bahnhof Soul",
-        "duration": "2 Wochen (28. August – 10. September)"
+        "duration": "28. August 2009 – 10. September 2009\n2 Wochen"
       },
       {
         "interpret": "Whitney Houston",
         "title": "I Look to You",
-        "duration": "1 Woche (11. September – 17. September)"
+        "duration": "11. September 2009 – 17. September 2009\n1 Woche"
       },
-      { "interpret": "Pur", "title": "Wünsche", "duration": "1 Woche (18. September – 24. September)" },
-      { "interpret": "Muse", "title": "The Resistance", "duration": "1 Woche (25. September – 1. Oktober)" },
-      { "interpret": "Madonna", "title": "Celebration", "duration": "2 Wochen (2. Oktober – 15. Oktober)" },
-      { "interpret": "Tokio Hotel", "title": "Humanoid", "duration": "1 Woche (16. Oktober – 22. Oktober)" },
+      { "interpret": "Pur", "title": "Wünsche", "duration": "18. September 2009 – 24. September 2009\n1 Woche" },
+      { "interpret": "Muse", "title": "The Resistance", "duration": "25. September 2009 – 1. Oktober 2009\n1 Woche" },
+      { "interpret": "Madonna", "title": "Celebration", "duration": "2. Oktober 2009 – 15. Oktober 2009\n2 Wochen" },
+      { "interpret": "Tokio Hotel", "title": "Humanoid", "duration": "16. Oktober 2009 – 22. Oktober 2009\n1 Woche" },
       {
         "interpret": "Xavier Naidoo",
         "title": "Alles kann besser werden",
-        "duration": "1 Woche (23. Oktober – 29. Oktober)"
+        "duration": "23. Oktober 2009 – 29. Oktober 2009\n1 Woche"
       },
       {
         "interpret": "Rammstein",
         "title": "Liebe ist für alle da",
-        "duration": "2 Wochen (30. Oktober – 12. November)"
+        "duration": "30. Oktober 2009 – 12. November 2009\n2 Wochen"
       },
-      { "interpret": "Bon Jovi", "title": "The Circle", "duration": "1 Woche (13. November – 19. November)" },
+      { "interpret": "Bon Jovi", "title": "The Circle", "duration": "13. November 2009 – 19. November 2009\n1 Woche" },
       {
         "interpret": "Robbie Williams",
         "title": "Reality Killed the Video Star",
-        "duration": "1 Woche (20. November – 26. November, insgesamt 2 Wochen; → 2010)"
+        "duration": "20. November 2009 – 26. November 2009\n1 Woche"
       },
-      { "interpret": "Ich + Ich", "title": "Gute Reise", "duration": "5 Wochen (27. November – 31. Dezember)" }
+      { "interpret": "Ich + Ich", "title": "Gute Reise", "duration": "27. November 2009 – 31. Dezember 2009\n5 Wochen" }
     ]
   }
 }

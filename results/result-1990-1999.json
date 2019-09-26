@@ -88,373 +88,328 @@
     "singles": [
       {
         "interpret": "Enigma",
-        "title": "Sadeness (Part I)",
-        "duration": "11 Wochen (12. November 1990 – 27. Januar 1991)"
+        "title": "Sadeness (Part I)\nMusik: M. C. Curly, F. Gregorian; Text: M. C. Curly, David Fairstein",
+        "duration": "12. November 1990 – 27. Januar 1991\n11 Wochen"
       },
-      { "interpret": "Torfrock", "title": "Beinhart", "duration": "5 Wochen (28. Januar – 1. März)" },
+      {
+        "interpret": "Torfrock",
+        "title": "Beinhart\nKlaus Büchner, Raymond Voß",
+        "duration": "28. Januar 1991 – 1. März 1991\n4 Wochen"
+      },
       {
         "interpret": "C+C Music Factory feat. Freedom Williams",
-        "title": "Gonna Make You Sweat (Everybody Dance Now)",
-        "duration": "5 Wochen (4. März – 7. April)"
+        "title": "Gonna Make You Sweat (Everybody Dance Now)\nRobert Manuel Clivillés, Frederick Brandon Williams",
+        "duration": "4. März 1991 – 7. April 1991\n5 Wochen"
       },
-      { "interpret": "Roxette", "title": "Joyride", "duration": "8 Wochen (8. April – 2. Juni)" },
-      { "interpret": "Scorpions", "title": "Wind of Change", "duration": "11 Wochen (3. Juni – 18. August)" },
+      {
+        "interpret": "Roxette",
+        "title": "Joyride\nPer Håkan Gessle",
+        "duration": "8. April 1991 – 2. Juni 1991\n8 Wochen"
+      },
+      {
+        "interpret": "Scorpions",
+        "title": "Wind of Change\nKlaus Meine",
+        "duration": "3. Juni 1991 – 18. August 1991\n11 Wochen"
+      },
       {
         "interpret": "Kate Yanai",
-        "title": "Bacardi Feeling (Summer Dreamin')",
-        "duration": "8 Wochen (19. August – 13. Oktober)"
+        "title": "Bacardi Feeling (Summer Dreamin’)\nMusik: Olivier Bloch-Lainé; Text: Joseph King Hammer, Christina T. Trulio, Kate Markowitz",
+        "duration": "19. August 1991 – 13. Oktober 1991\n8 Wochen"
       },
       {
         "interpret": "Bryan Adams",
-        "title": "(Everything I Do) I Do It for You",
-        "duration": "5 Wochen (14. Oktober – 17. November)"
+        "title": "(Everything I Do) I Do It for You\nMichael Arnold Kamen, Bryan Guy Adams, Robert John Lange",
+        "duration": "14. Oktober 1991 – 17. November 1991\n5 Wochen"
       },
       {
         "interpret": "Salt ’n’ Pepa",
-        "title": "Let’s Talk About Sex",
-        "duration": "10 Wochen (18. November 1991 – 26. Januar 1992)"
-      },
-      {
-        "interpret": "Phil Collins",
-        "title": "Serious Hits...Live!",
-        "duration": "9 Wochen (3. Dezember 1990 – 3. Februar 1991)"
-      },
-      { "interpret": "Sting", "title": "The Soul Cages", "duration": "3 Wochen (4. Februar – 24. Februar)" },
-      { "interpret": "Queen", "title": "Innuendo", "duration": "6 Wochen (25. Februar – 7. April)" },
-      { "interpret": "Chris Rea", "title": "Auberge", "duration": "1 Woche (8. April – 14. April)" },
-      { "interpret": "Eurythmics", "title": "Greatest Hits", "duration": "1 Woche (15. April – 21. April)" },
-      { "interpret": "Roxette", "title": "Joyride", "duration": "13 Wochen (22. April – 21. Juli)" },
-      { "interpret": "Scorpions", "title": "Crazy World", "duration": "7 Wochen (22. Juli – 8. September)" },
-      { "interpret": "Metallica", "title": "Metallica", "duration": "2 Wochen (9. September – 22. September)" },
-      { "interpret": "Dire Straits", "title": "On Every Street", "duration": "4 Wochen (23. September – 20. Oktober)" },
-      {
-        "interpret": "Bryan Adams",
-        "title": "Waking Up the Neighbours",
-        "duration": "5 Wochen (21. Oktober – 24. November)"
-      },
-      {
-        "interpret": "Genesis",
-        "title": "We Can’t Dance",
-        "duration": "19 Wochen (25. November 1991 – 5. April 1992, insgesamt 25 Wochen; → 1992)"
+        "title": "Let’s Talk About Sex\nHerby E. Azor",
+        "duration": "18. November 1991 – 26. Januar 1992\n10 Wochen"
       }
     ],
     "albums": [
       {
         "interpret": "Phil Collins",
-        "title": "Serious Hits...Live!",
-        "duration": "9 Wochen (3. Dezember 1990 – 3. Februar 1991)"
+        "title": "Serious Hits ... Live!",
+        "duration": "3. Dezember 1990 – 3. Februar 1991\n9 Wochen"
       },
-      { "interpret": "Sting", "title": "The Soul Cages", "duration": "3 Wochen (4. Februar – 24. Februar)" },
-      { "interpret": "Queen", "title": "Innuendo", "duration": "6 Wochen (25. Februar – 7. April)" },
-      { "interpret": "Chris Rea", "title": "Auberge", "duration": "1 Woche (8. April – 14. April)" },
-      { "interpret": "Eurythmics", "title": "Greatest Hits", "duration": "1 Woche (15. April – 21. April)" },
-      { "interpret": "Roxette", "title": "Joyride", "duration": "13 Wochen (22. April – 21. Juli)" },
-      { "interpret": "Scorpions", "title": "Crazy World", "duration": "7 Wochen (22. Juli – 8. September)" },
-      { "interpret": "Metallica", "title": "Metallica", "duration": "2 Wochen (9. September – 22. September)" },
-      { "interpret": "Dire Straits", "title": "On Every Street", "duration": "4 Wochen (23. September – 20. Oktober)" },
+      { "interpret": "Sting", "title": "The Soul Cages", "duration": "4. Februar 1991 – 24. Februar 1991\n3 Wochen" },
+      { "interpret": "Queen", "title": "Innuendo", "duration": "25. Februar 1991 – 7. April 1991\n6 Wochen" },
+      { "interpret": "Chris Rea", "title": "Auberge", "duration": "8. April 1991 – 14. April 1991\n1 Woche" },
+      { "interpret": "Eurythmics", "title": "Greatest Hits", "duration": "15. April 1991 – 21. April 1991\n1 Woche" },
+      { "interpret": "Roxette", "title": "Joyride", "duration": "22. April 1991 – 21. Juli 1991\n13 Wochen" },
+      { "interpret": "Scorpions", "title": "Crazy World", "duration": "22. Juli 1991 – 8. September 1991\n7 Wochen" },
+      {
+        "interpret": "Metallica",
+        "title": "Metallica",
+        "duration": "9. September 1991 – 22. September 1991\n2 Wochen"
+      },
+      {
+        "interpret": "Dire Straits",
+        "title": "On Every Street",
+        "duration": "23. September 1991 – 20. Oktober 1991\n4 Wochen"
+      },
       {
         "interpret": "Bryan Adams",
         "title": "Waking Up the Neighbours",
-        "duration": "5 Wochen (21. Oktober – 24. November)"
+        "duration": "21. Oktober 1991 – 24. November 1991\n5 Wochen"
       },
-      {
-        "interpret": "Genesis",
-        "title": "We Can’t Dance",
-        "duration": "19 Wochen (25. November 1991 – 5. April 1992, insgesamt 25 Wochen; → 1992)"
-      }
+      { "interpret": "Genesis", "title": "We Can’t Dance", "duration": "25. November 1992 – 5. April 1992\n19 Wochen" }
     ]
   },
   "1992": {
     "singles": [
       {
         "interpret": "Salt ’n’ Pepa",
-        "title": "Let’s Talk About Sex",
-        "duration": "10 Wochen (18. November 1991 – 26. Januar 1992)"
+        "title": "Let’s Talk About Sex\nHerby E. Azor",
+        "duration": "18. November 1991 – 26. Januar 1992\n10 Wochen"
       },
-      { "interpret": "U 96", "title": "Das Boot", "duration": "13 Wochen (27. Januar – 26. April)" },
-      { "interpret": "Mr. Big", "title": "To Be with You", "duration": "4 Wochen (27. April – 24. Mai)" },
-      { "interpret": "Snap!", "title": "Rhythm Is a Dancer", "duration": "10 Wochen (25. Mai – 2. August)" },
-      { "interpret": "Dr. Alban", "title": "It’s My Life", "duration": "8 Wochen (3. August – 27. September)" },
+      {
+        "interpret": "U 96",
+        "title": "Das Boot\nKlaus Doldinger",
+        "duration": "27. Januar 1992 – 26. April 1992\n13 Wochen"
+      },
+      {
+        "interpret": "Mr. Big",
+        "title": "To Be with You\nDave Richard Grahame, Eric Lee Martin",
+        "duration": "27. April 1992 – 24. Mai 1992\n4 Wochen"
+      },
+      {
+        "interpret": "Snap!",
+        "title": "Rhythm Is a Dancer\nMusik: Benito Benites, John Virgo Garrett III; Text: Benito Benites, John Virgo Garrett III, Thea Austin",
+        "duration": "25. Mai 1992 – 2. August 1992\n10 Wochen"
+      },
+      {
+        "interpret": "Dr. Alban",
+        "title": "It’s My Life\nMusik: Dag Krister Volle; Text: Alban Nwapa",
+        "duration": "3. August 1992 – 27. September 1992\n8 Wochen"
+      },
       {
         "interpret": "Inner Circle",
-        "title": "Sweat (A La La La La Long)",
-        "duration": "12 Wochen (28. September – 20. Dezember)"
+        "title": "Sweat (A La La La La Long)\nRoger Lewis, Ian Lewis",
+        "duration": "28. September 1992 – 20. Dezember 1992\n12 Wochen"
       },
       {
         "interpret": "Captain Hollywood Project",
-        "title": "More and More",
-        "duration": "4 Wochen (21. Dezember 1992 – 17. Januar 1993)"
-      },
-      {
-        "interpret": "Genesis",
-        "title": "We Can’t Dance",
-        "duration": "19 Wochen (25. November 1991 – 5. April 1992, insgesamt 25 Wochen)"
-      },
-      {
-        "interpret": "Westernhagen",
-        "title": "Jaja",
-        "duration": "7 Wochen (6. April – 24. Mai, insgesamt 12 Wochen)"
-      },
-      { "interpret": "Chris de Burgh", "title": "Power of Ten", "duration": "2 Wochen (25. Mai – 7. Juni)" },
-      {
-        "interpret": "Westernhagen",
-        "title": "JaJa",
-        "duration": "5 Wochen (8. Juni – 12. Juli, insgesamt 12 Wochen)"
-      },
-      { "interpret": "Elton John", "title": "The One", "duration": "2 Wochen (13. Juli – 26. Juli)" },
-      {
-        "interpret": "Genesis",
-        "title": "We Can’t Dance",
-        "duration": "6 Wochen (27. Juli – 6. September, insgesamt 25 Wochen)"
-      },
-      { "interpret": "Michael Jackson", "title": "Dangerous", "duration": "1 Woche (7. September – 13. September)" },
-      { "interpret": "Roxette", "title": "Tourism", "duration": "5 Wochen (14. September – 18. Oktober)" },
-      { "interpret": "Peter Gabriel", "title": "Us", "duration": "2 Wochen (19. Oktober – 1. November)" },
-      { "interpret": "ABBA", "title": "Gold", "duration": "11 Wochen (2. November 1992 – 17. Januar 1993)" }
+        "title": "More and More\nMusik: Michael Eisele, Dietmar Stehle, Oliver Reinecke, Frank Schlingloff, Giora Schein, Nosie Katzmann, Benito Benites, John Virgo Garrett III; Text: Nosie Katzmann, Tony Harrison-Dawson, Benito Benites, John Virgo Garrett III, Thea Austin",
+        "duration": "21. Dezember 1992 – 17. Januar 1993\n4 Wochen"
+      }
     ],
     "albums": [
+      { "interpret": "Genesis", "title": "We Can’t Dance", "duration": "25. November 1992 – 5. April 1992\n19 Wochen" },
+      { "interpret": "Westernhagen", "title": "Jaja", "duration": "6. April 1992 – 24. Mai 1992\n7 Wochen" },
+      { "interpret": "Chris de Burgh", "title": "Power of Ten", "duration": "25. Mai 1992 – 7. Juni 1992\n2 Wochen" },
+      { "interpret": "Westernhagen", "title": "JaJa", "duration": "8. Juni 1992 – 12. Juli 1992\n5 Wochen" },
+      { "interpret": "Elton John", "title": "The One", "duration": "13. Juli 1992 – 26. Juli 1992\n2 Wochen" },
+      { "interpret": "Genesis", "title": "We Can’t Dance", "duration": "27. Juli 1992 – 6. September 1992\n6 Wochen" },
       {
-        "interpret": "Genesis",
-        "title": "We Can’t Dance",
-        "duration": "19 Wochen (25. November 1991 – 5. April 1992, insgesamt 25 Wochen)"
+        "interpret": "Michael Jackson",
+        "title": "Dangerous",
+        "duration": "7. September 1992 – 13. September 1992\n1 Woche"
       },
+      { "interpret": "Roxette", "title": "Tourism", "duration": "14. September 1992 – 18. Oktober 1992\n5 Wochen" },
+      { "interpret": "Peter Gabriel", "title": "Us", "duration": "19. Oktober 1992 – 1. November 1992\n2 Wochen" },
       {
-        "interpret": "Westernhagen",
-        "title": "Jaja",
-        "duration": "7 Wochen (6. April – 24. Mai, insgesamt 12 Wochen)"
-      },
-      { "interpret": "Chris de Burgh", "title": "Power of Ten", "duration": "2 Wochen (25. Mai – 7. Juni)" },
-      {
-        "interpret": "Westernhagen",
-        "title": "JaJa",
-        "duration": "5 Wochen (8. Juni – 12. Juli, insgesamt 12 Wochen)"
-      },
-      { "interpret": "Elton John", "title": "The One", "duration": "2 Wochen (13. Juli – 26. Juli)" },
-      {
-        "interpret": "Genesis",
-        "title": "We Can’t Dance",
-        "duration": "6 Wochen (27. Juli – 6. September, insgesamt 25 Wochen)"
-      },
-      { "interpret": "Michael Jackson", "title": "Dangerous", "duration": "1 Woche (7. September – 13. September)" },
-      { "interpret": "Roxette", "title": "Tourism", "duration": "5 Wochen (14. September – 18. Oktober)" },
-      { "interpret": "Peter Gabriel", "title": "Us", "duration": "2 Wochen (19. Oktober – 1. November)" },
-      { "interpret": "ABBA", "title": "Gold", "duration": "11 Wochen (2. November 1992 – 17. Januar 1993)" }
+        "interpret": "ABBA",
+        "title": "ABBA Gold – Greatest Hits",
+        "duration": "2. November 1992 – 17. Januar 1993\n11 Wochen"
+      }
     ]
   },
   "1993": {
     "singles": [
       {
         "interpret": "Captain Hollywood Project",
-        "title": "More and More",
-        "duration": "4 Wochen (21. Dezember 1992 – 17. Januar 1993)"
+        "title": "More and More\nMusik: Michael Eisele, Dietmar Stehle, Oliver Reinecke, Frank Schlingloff, Giora Schein, Nosie Katzmann, Benito Benites, John Virgo Garrett III; Text: Nosie Katzmann, Tony Harrison-Dawson, Benito Benites, John Virgo Garrett III, Thea Austin",
+        "duration": "21. Dezember 1992 – 17. Januar 1993\n4 Wochen"
       },
       {
         "interpret": "Charles & Eddie",
-        "title": "Would I Lie to You",
-        "duration": "1 Woche (18. Januar – 24. Januar)"
+        "title": "Would I Lie to You\nMick Leeson, Peter Benson Vale",
+        "duration": "18. Januar 1993 – 24. Januar 1993\n1 Woche"
       },
       {
         "interpret": "Whitney Houston",
-        "title": "I Will Always Love You",
-        "duration": "6 Wochen (25. Januar – 7. März)"
-      },
-      { "interpret": "Ace of Base", "title": "All That She Wants", "duration": "8 Wochen (8. März – 2. Mai)" },
-      { "interpret": "Snow", "title": "Informer", "duration": "7 Wochen (3. Mai – 20. Juni)" },
-      { "interpret": "Culture Beat", "title": "Mr. Vain", "duration": "9 Wochen (21. Juni – 22. August)" },
-      { "interpret": "4 Non Blondes", "title": "What’s Up", "duration": "10 Wochen (23. August – 31. Oktober)" },
-      { "interpret": "Pet Shop Boys", "title": "Go West", "duration": "3 Wochen (1. November – 21. November)" },
-      {
-        "interpret": "Meat Loaf",
-        "title": "I’d Do Anything for Love (But I Won’t Do That)",
-        "duration": "9 Wochen (22. November 1993 – 23. Januar 1994)"
-      },
-      {
-        "interpret": "ABBA",
-        "title": "ABBA Gold – Greatest Hits",
-        "duration": "11 Wochen (2. November 1992 – 17. Januar 1993)"
-      },
-      { "interpret": "N/A", "title": "The Bodyguard", "duration": "11 Wochen (18. Januar – 4. April)" },
-      {
-        "interpret": "Depeche Mode",
-        "title": "Songs of Faith and Devotion",
-        "duration": "6 Wochen (5. April – 16. Mai)"
+        "title": "I Will Always Love You\nDolly Parton",
+        "duration": "25. Januar 1993 – 7. März 1993\n6 Wochen"
       },
       {
         "interpret": "Ace of Base",
-        "title": "Happy Nation",
-        "duration": "2 Wochen (17. Mai – 30. Mai, insgesamt 3 Wochen)"
+        "title": "All That She Wants\nUlf Gunnar Ekberg, Malin Sofia Katarina Berggren, Jonas Petter Berggren, Jenny Cecilia Berggren",
+        "duration": "8. März 1993 – 2. Mai 1993\n8 Wochen"
       },
-      { "interpret": "Die Toten Hosen", "title": "Kauf MICH!", "duration": "1 Woche (31. Mai – 6. Juni)" },
-      { "interpret": "Herbert Grönemeyer", "title": "Chaos", "duration": "6 Wochen (7. Juni – 18. Juli)" },
-      { "interpret": "U2", "title": "Zooropa", "duration": "1 Woche (19. Juli – 25. Juli, insgesamt 3 Wochen)" },
       {
-        "interpret": "Ace of Base",
-        "title": "Happy Nation",
-        "duration": "1 Woche (26. Juli – 1. August, insgesamt 3 Wochen)"
+        "interpret": "Snow",
+        "title": "Informer\nShawn Leigh Moltke, Darrin Kenneth O’Brien, Edmond Daryll Leary, Michael L. Grier",
+        "duration": "3. Mai 1993 – 20. Juni 1993\n7 Wochen"
       },
-      { "interpret": "U2", "title": "Zooropa", "duration": "2 Wochen (2. August – 15. August, insgesamt 3 Wochen)" },
+      {
+        "interpret": "Culture Beat",
+        "title": "Mr. Vain\nMusik: Nosie Katzmann, Stephan Zick; Text: Nosie Katzmann, Jeff Carmichael",
+        "duration": "21. Juni 1993 – 22. August 1993\n9 Wochen"
+      },
       {
         "interpret": "4 Non Blondes",
-        "title": "Bigger, Better, Faster, More!",
-        "duration": "10 Wochen (16. August – 24. Oktober)"
+        "title": "What’s Up?\nLinda Perry",
+        "duration": "23. August 1993 – 31. Oktober 1993\n10 Wochen"
       },
-      { "interpret": "Pet Shop Boys", "title": "Very", "duration": "4 Wochen (25. Oktober – 21. November)" },
+      {
+        "interpret": "Pet Shop Boys",
+        "title": "Go West\nMusik: Jacques Morali; Text: Henri Belolo",
+        "duration": "1. November 1993 – 21. November 1993\n3 Wochen"
+      },
       {
         "interpret": "Meat Loaf",
-        "title": "Bat out of Hell II: Back Into Hell",
-        "duration": "2 Wochen (22. November – 5. Dezember)"
-      },
-      {
-        "interpret": "Phil Collins",
-        "title": "Both Sides",
-        "duration": "8 Wochen (6. Dezember 1993 – 30. Januar 1994)"
+        "title": "I’d Do Anything for Love (But I Won’t Do That)\nJim Steinman",
+        "duration": "22. November 1993 – 23. Januar 1994\n9 Wochen"
       }
     ],
     "albums": [
       {
         "interpret": "ABBA",
         "title": "ABBA Gold – Greatest Hits",
-        "duration": "11 Wochen (2. November 1992 – 17. Januar 1993)"
+        "duration": "2. November 1992 – 17. Januar 1993\n11 Wochen"
       },
-      { "interpret": "N/A", "title": "The Bodyguard", "duration": "11 Wochen (18. Januar – 4. April)" },
+      {
+        "interpret": "(Soundtrack)",
+        "title": "The Bodyguard",
+        "duration": "18. Januar 1993 – 4. April 1993\n11 Wochen"
+      },
       {
         "interpret": "Depeche Mode",
         "title": "Songs of Faith and Devotion",
-        "duration": "6 Wochen (5. April – 16. Mai)"
+        "duration": "5. April 1993 – 16. Mai 1993\n6 Wochen"
       },
-      {
-        "interpret": "Ace of Base",
-        "title": "Happy Nation",
-        "duration": "2 Wochen (17. Mai – 30. Mai, insgesamt 3 Wochen)"
-      },
-      { "interpret": "Die Toten Hosen", "title": "Kauf MICH!", "duration": "1 Woche (31. Mai – 6. Juni)" },
-      { "interpret": "Herbert Grönemeyer", "title": "Chaos", "duration": "6 Wochen (7. Juni – 18. Juli)" },
-      { "interpret": "U2", "title": "Zooropa", "duration": "1 Woche (19. Juli – 25. Juli, insgesamt 3 Wochen)" },
-      {
-        "interpret": "Ace of Base",
-        "title": "Happy Nation",
-        "duration": "1 Woche (26. Juli – 1. August, insgesamt 3 Wochen)"
-      },
-      { "interpret": "U2", "title": "Zooropa", "duration": "2 Wochen (2. August – 15. August, insgesamt 3 Wochen)" },
+      { "interpret": "Ace of Base", "title": "Happy Nation", "duration": "17. Mai 1993 – 30. Mai 1993\n2 Wochen" },
+      { "interpret": "Die Toten Hosen", "title": "Kauf MICH!", "duration": "31. Mai 1993 – 6. Juni 1993\n1 Woche" },
+      { "interpret": "Herbert Grönemeyer", "title": "Chaos", "duration": "7. Juni 1993 – 18. Juli 1993\n6 Wochen" },
+      { "interpret": "U2", "title": "Zooropa", "duration": "19. Juli 1993 – 25. Juli 1993\n1 Woche" },
+      { "interpret": "Ace of Base", "title": "Happy Nation", "duration": "26. Juli 1993 – 1. August 1993\n1 Woche" },
+      { "interpret": "U2", "title": "Zooropa", "duration": "2. August 1993 – 15. August 1993\n2 Wochen" },
       {
         "interpret": "4 Non Blondes",
         "title": "Bigger, Better, Faster, More!",
-        "duration": "10 Wochen (16. August – 24. Oktober)"
+        "duration": "16. August 1993 – 24. Oktober 1993\n10 Wochen"
       },
-      { "interpret": "Pet Shop Boys", "title": "Very", "duration": "4 Wochen (25. Oktober – 21. November)" },
+      { "interpret": "Pet Shop Boys", "title": "Very", "duration": "25. Oktober 1993 – 21. November 1993\n4 Wochen" },
       {
         "interpret": "Meat Loaf",
-        "title": "Bat out of Hell II: Back Into Hell",
-        "duration": "2 Wochen (22. November – 5. Dezember)"
+        "title": "Bat Out of Hell II: Back into Hell",
+        "duration": "22. November 1993 – 5. Dezember 1993\n2 Wochen"
       },
-      {
-        "interpret": "Phil Collins",
-        "title": "Both Sides",
-        "duration": "8 Wochen (6. Dezember 1993 – 30. Januar 1994)"
-      }
+      { "interpret": "Phil Collins", "title": "Both Sides", "duration": "6. Dezember 1993 – 30. Januar 1994\n8 Wochen" }
     ]
   },
   "1994": {
     "singles": [
       {
         "interpret": "Meat Loaf",
-        "title": "I’d Do Anything for Love (But I Won’t Do That)",
-        "duration": "9 Wochen (22. November 1993 – 23. Januar 1994)"
+        "title": "I’d Do Anything for Love (But I Won’t Do That)\nJim Steinman",
+        "duration": "22. November 1993 – 23. Januar 1994\n9 Wochen"
       },
-      { "interpret": "Ace of Base", "title": "The Sign", "duration": "3 Wochen (24. Januar – 13. Februar)" },
+      {
+        "interpret": "Ace of Base",
+        "title": "The Sign\nMusik: Ulf Gunnar Ekberg, Malin Sofia Katarina Berggren, Jonas Petter Berggren, Jenny Cecilia Berggren; Text: Jonas Petter Berggren",
+        "duration": "24. Januar 1994 – 13. Februar 1994\n3 Wochen"
+      },
       {
         "interpret": "Bryan Adams, Rod Stewart & Sting",
-        "title": "All for Love",
-        "duration": "4 Wochen (14. Februar – 13. März)"
+        "title": "All for Love\nBryan Adams, Robert John Lange, Michael Arnold Kamen",
+        "duration": "14. Februar 1994 – 13. März 1994\n4 Wochen"
       },
-      { "interpret": "Magic Affair", "title": "Omen III", "duration": "4 Wochen (14. März – 10. April)" },
+      {
+        "interpret": "Magic Affair",
+        "title": "Omen III\nMusik: Michael Staab, Bernd Waldstädt; Text: Michael Staab, Rainer Kempf",
+        "duration": "14. März 1994 – 10. April 1994\n4 Wochen"
+      },
       {
         "interpret": "Bruce Springsteen",
-        "title": "Streets of Philadelphia",
-        "duration": "5 Wochen (11. April – 15. Mai)"
+        "title": "Streets of Philadelphia\nBruce Springsteen",
+        "duration": "11. April 1994 – 15. Mai 1994\n5 Wochen"
       },
-      { "interpret": "Mariah Carey", "title": "Without You", "duration": "4 Wochen (16. Mai – 12. Juni)" },
-      { "interpret": "Prince Ital Joe & Marky Mark", "title": "United", "duration": "5 Wochen (13. Juni – 17. Juli)" },
-      { "interpret": "Crash Test Dummies", "title": "Mmm Mmm Mmm Mmm", "duration": "1 Woche (18. Juli – 24. Juli)" },
-      { "interpret": "All-4-One", "title": "I Swear", "duration": "9 Wochen (25. Juli – 25. September)" },
-      { "interpret": "Mo-Do", "title": "Eins, zwei, Polizei", "duration": "4 Wochen (26. September – 23. Oktober)" },
-      { "interpret": "Whigfield", "title": "Saturday Night", "duration": "2 Wochen (24. Oktober – 6. November)" },
-      {
-        "interpret": "Rednex",
-        "title": "Cotton Eye Joe",
-        "duration": "10 Wochen (7. November 1994 – 15. Januar 1995)"
-      },
-      {
-        "interpret": "Phil Collins",
-        "title": "Both Sides",
-        "duration": "8 Wochen (6. Dezember 1993 – 30. Januar 1994)"
-      },
-      { "interpret": "Bryan Adams", "title": "So Far So Good", "duration": "9 Wochen (31. Januar – 3. April)" },
       {
         "interpret": "Mariah Carey",
-        "title": "Music Box",
-        "duration": "2 Wochen (4. April – 17. April, insgesamt 11 Wochen)"
+        "title": "Without You\nThomas Evans, Peter William Ham",
+        "duration": "16. Mai 1994 – 12. Juni 1994\n4 Wochen"
       },
-      { "interpret": "Pink Floyd", "title": "The Division Bell", "duration": "4 Wochen (18. April – 15. Mai)" },
       {
-        "interpret": "Mariah Carey",
-        "title": "Music Box",
-        "duration": "9 Wochen (16. Mai – 17. Juli, insgesamt 11 Wochen)"
+        "interpret": "Prince Ital Joe & Marky Mark",
+        "title": "United\nMusik: Frank Peterson, Alex Jörg Christensen; Text: Alex Jörg Christensen, Frank Peterson, Mark Wahlberg, Joseph Paquette",
+        "duration": "13. Juni 1994 – 17. Juli 1994\n5 Wochen"
       },
       {
         "interpret": "Crash Test Dummies",
-        "title": "God Shuffled His Feet",
-        "duration": "1 Woche (18. Juli – 24. Juli)"
-      },
-      { "interpret": "Rolling Stones", "title": "Voodoo Lounge", "duration": "6 Wochen (25. Juli – 4. September)" },
-      { "interpret": "Wet Wet Wet", "title": "End of Part One", "duration": "1 Woche (5. September – 11. September)" },
-      { "interpret": "Westernhagen", "title": "Affentheater", "duration": "8 Wochen (12. September – 6. November)" },
-      {
-        "interpret": "Bon Jovi",
-        "title": "Cross Road – The Best Of",
-        "duration": "6 Wochen (7. November – 18. Dezember)"
+        "title": "Mmm Mmm Mmm Mmm\nBradley Kenneth Roberts",
+        "duration": "18. Juli 1994 – 24. Juli 1994\n1 Woche"
       },
       {
-        "interpret": "Kelly Family",
-        "title": "Over the Hump",
-        "duration": "4 Wochen (19. Dezember 1994 – 15. Januar 1995)"
+        "interpret": "All-4-One",
+        "title": "I Swear\nFrank Joseph Myers, Gary B. Baker",
+        "duration": "25. Juli 1994 – 25. September 1994\n9 Wochen"
+      },
+      {
+        "interpret": "Mo-Do",
+        "title": "Eins, zwei, Polizei\nMusik: Sergio Portaluri, Fulvio Zafret, Mario Pinosa; Text: Claudio Zennaro",
+        "duration": "26. September 1994 – 23. Oktober 1994\n4 Wochen"
+      },
+      {
+        "interpret": "Whigfield",
+        "title": "Saturday Night\nAlfredo Pignagnoli, Davide Riva",
+        "duration": "24. Oktober 1994 – 6. November 1994\n2 Wochen"
+      },
+      {
+        "interpret": "Rednex",
+        "title": "Cotton Eye Joe\nTrad.; Bearbeiter: Patric Robert Edenberg, Örjan Kjell Öberg, Christer Jan Ericsson",
+        "duration": "7. November 1994 – 15. Januar 1995\n10 Wochen"
       }
     ],
     "albums": [
       {
         "interpret": "Phil Collins",
         "title": "Both Sides",
-        "duration": "8 Wochen (6. Dezember 1993 – 30. Januar 1994)"
+        "duration": "6. Dezember 1993 – 30. Januar 1994\n8 Wochen"
       },
-      { "interpret": "Bryan Adams", "title": "So Far So Good", "duration": "9 Wochen (31. Januar – 3. April)" },
       {
-        "interpret": "Mariah Carey",
-        "title": "Music Box",
-        "duration": "2 Wochen (4. April – 17. April, insgesamt 11 Wochen)"
+        "interpret": "Bryan Adams",
+        "title": "So Far so Good",
+        "duration": "31. Januar 1994 – 3. April 1994\n9 Wochen"
       },
-      { "interpret": "Pink Floyd", "title": "The Division Bell", "duration": "4 Wochen (18. April – 15. Mai)" },
+      { "interpret": "Mariah Carey", "title": "Music Box", "duration": "4. April 1994 – 17. April 1994\n2 Wochen" },
       {
-        "interpret": "Mariah Carey",
-        "title": "Music Box",
-        "duration": "9 Wochen (16. Mai – 17. Juli, insgesamt 11 Wochen)"
+        "interpret": "Pink Floyd",
+        "title": "The Division Bell",
+        "duration": "18. April 1994 – 15. Mai 1994\n4 Wochen"
       },
+      { "interpret": "Mariah Carey", "title": "Music Box", "duration": "16. Mai 1994 – 17. Juli 1994\n9 Wochen" },
       {
         "interpret": "Crash Test Dummies",
         "title": "God Shuffled His Feet",
-        "duration": "1 Woche (18. Juli – 24. Juli)"
+        "duration": "18. Juli 1994 – 24. Juli 1994\n1 Woche"
       },
-      { "interpret": "Rolling Stones", "title": "Voodoo Lounge", "duration": "6 Wochen (25. Juli – 4. September)" },
-      { "interpret": "Wet Wet Wet", "title": "End of Part One", "duration": "1 Woche (5. September – 11. September)" },
-      { "interpret": "Westernhagen", "title": "Affentheater", "duration": "8 Wochen (12. September – 6. November)" },
+      {
+        "interpret": "Rolling Stones",
+        "title": "Voodoo Lounge",
+        "duration": "25. Juli 1994 – 4. September 1994\n6 Wochen"
+      },
+      {
+        "interpret": "Wet Wet Wet",
+        "title": "End of Part One",
+        "duration": "5. September 1994 – 11. September 1994\n1 Woche"
+      },
+      {
+        "interpret": "Westernhagen",
+        "title": "Affentheater",
+        "duration": "12. September 1994 – 6. November 1994\n8 Wochen"
+      },
       {
         "interpret": "Bon Jovi",
         "title": "Cross Road – The Best Of",
-        "duration": "6 Wochen (7. November – 18. Dezember)"
+        "duration": "7. November 1994 – 18. Dezember 1994\n6 Wochen"
       },
       {
-        "interpret": "Kelly Family",
+        "interpret": "The Kelly Family",
         "title": "Over the Hump",
-        "duration": "4 Wochen (19. Dezember 1994 – 15. Januar 1995)"
+        "duration": "19. Dezember 1994 – 15. Januar 1995\n4 Wochen"
       }
     ]
   },
@@ -462,585 +417,488 @@
     "singles": [
       {
         "interpret": "Rednex",
-        "title": "Cotton Eye Joe",
-        "duration": "10 Wochen (7. November 1994 – 15. Januar 1995)"
-      },
-      { "interpret": "Mark ’Oh", "title": "Tears Don’t Lie", "duration": "3 Wochen (16. Januar – 5. Februar)" },
-      { "interpret": "The Cranberries", "title": "Zombie", "duration": "1 Woche (6. Februar – 12. Februar)" },
-      { "interpret": "Vangelis", "title": "Conquest of Paradise", "duration": "11 Wochen (13. Februar – 30. April)" },
-      { "interpret": "Take That", "title": "Back for Good", "duration": "4 Wochen (1. Mai – 28. Mai)" },
-      { "interpret": "La Bouche", "title": "Be My Lover", "duration": "4 Wochen (29. Mai – 25. Juni)" },
-      {
-        "interpret": "Die Doofen",
-        "title": "Mief! (Nimm mich jetzt, auch wenn ich stinke!)",
-        "duration": "1 Woche (26. Juni – 2. Juli)"
-      },
-      { "interpret": "Rednex", "title": "Wish You Were Here", "duration": "6 Wochen (3. Juli – 13. August)" },
-      { "interpret": "Scatman John", "title": "Scatman’s World", "duration": "3 Wochen (14. August – 3. September)" },
-      {
-        "interpret": "Outhere Brothers",
-        "title": "Boom Boom Boom",
-        "duration": "3 Wochen (4. September – 24. September)"
+        "title": "Cotton Eye Joe\nPatric Robert Edenberg, Örjan Kjell Öberg, Christer Jan Ericsson",
+        "duration": "7. November 1994 – 15. Januar 1995\n10 Wochen"
       },
       {
-        "interpret": "Technohead",
-        "title": "I Wanna Be a Hippy (Flamman & Abraxas Radio Mix)",
-        "duration": "2 Wochen (25. September – 8. Oktober)"
-      },
-      {
-        "interpret": "Die Fantastischen Vier",
-        "title": "Sie ist weg",
-        "duration": "3 Wochen (9. Oktober – 29. Oktober)"
-      },
-      {
-        "interpret": "Coolio feat. L. V.",
-        "title": "Gangsta’s Paradise",
-        "duration": "6 Wochen (30. Oktober – 10. Dezember, insgesamt 8 Wochen; → 1996)"
-      },
-      {
-        "interpret": "Michael Jackson",
-        "title": "Earth Song",
-        "duration": "6 Wochen (11. Dezember 1995 – 21. Januar 1996)"
-      },
-      {
-        "interpret": "The Kelly Family",
-        "title": "Over the Hump",
-        "duration": "4 Wochen (19. Dezember 1994 – 15. Januar 1995)"
+        "interpret": "Mark ’Oh",
+        "title": "Tears Don’t Lie\nMusik: Dario Baldan Bembo, Ciro Dammicco, Marko Albrecht; Originaltext: Francesco Specchia, Alberto Salerno, Maurizio Seymandi; zusätzlicher Text: Marko Albrecht",
+        "duration": "16. Januar 1995 – 5. Februar 1995\n3 Wochen"
       },
       {
         "interpret": "The Cranberries",
-        "title": "No Need to Argue",
-        "duration": "6 Wochen (16. Januar – 26. Februar)"
+        "title": "Zombie\nDolores Mary O’Riordan",
+        "duration": "6. Februar 1995 – 12. Februar 1995\n1 Woche"
       },
       {
         "interpret": "Vangelis",
-        "title": "1492: Conquest of Paradise",
-        "duration": "4 Wochen (27. Februar – 26. März)"
+        "title": "Conquest of Paradise\nEvangelos Odysseas Papathanassiou",
+        "duration": "13. Februar 1995 – 30. April 1995\n11 Wochen"
       },
-      { "interpret": "Bruce Springsteen", "title": "Greatest Hits", "duration": "7 Wochen (27. März – 14. Mai)" },
-      { "interpret": "Take That", "title": "Nobody Else", "duration": "1 Woche (15. Mai – 21. Mai)" },
+      {
+        "interpret": "Take That",
+        "title": "Back for Good\nGary Barlow",
+        "duration": "1. Mai 1995 – 28. Mai 1995\n4 Wochen"
+      },
+      {
+        "interpret": "La Bouche",
+        "title": "Be My Lover\nMusik: Gerd Amir Saraf; Text: Melanie Thornton, D. Lane McCray",
+        "duration": "29. Mai 1995 – 25. Juni 1995\n4 Wochen"
+      },
       {
         "interpret": "Die Doofen",
-        "title": "Lieder, die die Welt nicht braucht",
-        "duration": "6 Wochen (22. Mai – 2. Juli)"
+        "title": "Mief! (Nimm mich jetzt, auch wenn ich stinke!)\nWigald Boning, Oliver Dittrich",
+        "duration": "26. Juni 1995 – 2. Juli 1995\n1 Woche"
+      },
+      {
+        "interpret": "Rednex",
+        "title": "Wish You Were Here\nTeijo Olavi Leskelä",
+        "duration": "3. Juli 1995 – 13. August 1995\n6 Wochen"
+      },
+      {
+        "interpret": "Scatman John",
+        "title": "Scatman’s World\nAntonio Nunzio Catania, John Paul Larkin",
+        "duration": "14. August 1995 – 3. September 1995\n3 Wochen"
+      },
+      {
+        "interpret": "Outhere Brothers",
+        "title": "Boom Boom Boom\nKeith D. Mayberry, Lamar Hula Mahone",
+        "duration": "4. September 1995 – 24. September 1995\n3 Wochen"
+      },
+      {
+        "interpret": "Technohead",
+        "title": "I Wanna Be a Hippy (Flamman & Abraxas Radio Mix)\nHidle Brown Barnum, Martin J. Cooper, Cliff Goldsmith, Lee Newman, David Peel, Michael John Wells",
+        "duration": "25. September 1995 – 8. Oktober 1995\n2 Wochen"
+      },
+      {
+        "interpret": "Die Fantastischen Vier",
+        "title": "Sie ist weg\nMichael Beck, Thomas Dürr, Andreas Rieke, Michael Bernd Schmidt",
+        "duration": "9. Oktober 1995 – 29. Oktober 1995\n3 Wochen"
+      },
+      {
+        "interpret": "Coolio feat. L. V.",
+        "title": "Gangsta’s Paradise\nStevie Wonder, Artis L. Ivey Jr., Douglas B. Rasheed, Larry James Sanders",
+        "duration": "30. Oktober 1995 – 10. Dezember 1995\n6 Wochen"
       },
       {
         "interpret": "Michael Jackson",
-        "title": "HIStory – Past, Present and Future Book I",
-        "duration": "2 Wochen (3. Juli – 16. Juli)"
-      },
-      { "interpret": "Bon Jovi", "title": "These Days", "duration": "3 Wochen (17. Juli – 8. August)" },
-      { "interpret": "Die Schlümpfe", "title": "Tekkno Is Cool 1", "duration": "4 Wochen (9. August – 3. September)" },
-      { "interpret": "Pur", "title": "Abenteuerland", "duration": "7 Wochen (4. September – 22. Oktober)" },
-      {
-        "interpret": "Simply Red",
-        "title": "Life",
-        "duration": "2 Wochen (23. Oktober – 5. November, insgesamt 3 Wochen)"
-      },
-      { "interpret": "Mariah Carey", "title": "Daydream", "duration": "1 Woche (6. November – 12. November)" },
-      {
-        "interpret": "Simply Red",
-        "title": "Life",
-        "duration": "1 Woche (13. November – 19. November, insgesamt 3 Wochen)"
-      },
-      {
-        "interpret": "Queen",
-        "title": "Made in Heaven",
-        "duration": "2 Wochen (20. November – 3. Dezember, insgesamt 11 Wochen)"
-      },
-      { "interpret": "The Beatles", "title": "Anthology", "duration": "1 Woche (4. Dezember – 10. Dezember)" },
-      {
-        "interpret": "Queen",
-        "title": "Made in Heaven",
-        "duration": "9 Wochen (11. Dezember 1995 – 11. Februar 1996, insgesamt 11 Wochen)"
+        "title": "Earth Song\nMichael Joe Jackson",
+        "duration": "11. Dezember 1995 – 21. Januar 1996\n6 Wochen"
       }
     ],
     "albums": [
       {
         "interpret": "The Kelly Family",
         "title": "Over the Hump",
-        "duration": "4 Wochen (19. Dezember 1994 – 15. Januar 1995)"
+        "duration": "19. Dezember 1994 – 15. Januar 1995\n4 Wochen"
       },
       {
         "interpret": "The Cranberries",
         "title": "No Need to Argue",
-        "duration": "6 Wochen (16. Januar – 26. Februar)"
+        "duration": "16. Januar 1995 – 26. Februar 1995\n6 Wochen"
       },
       {
         "interpret": "Vangelis",
         "title": "1492: Conquest of Paradise",
-        "duration": "4 Wochen (27. Februar – 26. März)"
+        "duration": "27. Februar 1995 – 6. März 1995\n1 Woche"
       },
-      { "interpret": "Bruce Springsteen", "title": "Greatest Hits", "duration": "7 Wochen (27. März – 14. Mai)" },
-      { "interpret": "Take That", "title": "Nobody Else", "duration": "1 Woche (15. Mai – 21. Mai)" },
+      {
+        "interpret": "Bruce Springsteen",
+        "title": "Greatest Hits",
+        "duration": "27. März 1995 – 14. Mai 1995\n7 Wochen"
+      },
+      { "interpret": "Take That", "title": "Nobody Else", "duration": "15. Mai 1995 – 21. Mai 1995\n1 Woche" },
       {
         "interpret": "Die Doofen",
         "title": "Lieder, die die Welt nicht braucht",
-        "duration": "6 Wochen (22. Mai – 2. Juli)"
+        "duration": "22. Mai 1995 – 2. Juli 1995\n6 Wochen"
       },
       {
         "interpret": "Michael Jackson",
         "title": "HIStory – Past, Present and Future Book I",
-        "duration": "2 Wochen (3. Juli – 16. Juli)"
+        "duration": "3. Juli 1995 – 16. Juli 1995\n2 Wochen"
       },
-      { "interpret": "Bon Jovi", "title": "These Days", "duration": "3 Wochen (17. Juli – 8. August)" },
-      { "interpret": "Die Schlümpfe", "title": "Tekkno Is Cool 1", "duration": "4 Wochen (9. August – 3. September)" },
-      { "interpret": "Pur", "title": "Abenteuerland", "duration": "7 Wochen (4. September – 22. Oktober)" },
+      { "interpret": "Bon Jovi", "title": "These Days", "duration": "17. Juli 1995 – 6. August 1995\n3 Wochen" },
       {
-        "interpret": "Simply Red",
-        "title": "Life",
-        "duration": "2 Wochen (23. Oktober – 5. November, insgesamt 3 Wochen)"
+        "interpret": "Die Schlümpfe",
+        "title": "Tekkno Is Cool 1",
+        "duration": "7. August 1995 – 3. September 1995\n4 Wochen"
       },
-      { "interpret": "Mariah Carey", "title": "Daydream", "duration": "1 Woche (6. November – 12. November)" },
-      {
-        "interpret": "Simply Red",
-        "title": "Life",
-        "duration": "1 Woche (13. November – 19. November, insgesamt 3 Wochen)"
-      },
-      {
-        "interpret": "Queen",
-        "title": "Made in Heaven",
-        "duration": "2 Wochen (20. November – 3. Dezember, insgesamt 11 Wochen)"
-      },
-      { "interpret": "The Beatles", "title": "Anthology", "duration": "1 Woche (4. Dezember – 10. Dezember)" },
-      {
-        "interpret": "Queen",
-        "title": "Made in Heaven",
-        "duration": "9 Wochen (11. Dezember 1995 – 11. Februar 1996, insgesamt 11 Wochen)"
-      }
+      { "interpret": "Pur", "title": "Abenteuerland", "duration": "4. September 1995 – 22. Oktober 1995\n7 Wochen" },
+      { "interpret": "Simply Red", "title": "Life", "duration": "23. Oktober 1995 – 5. November 1995\n2 Wochen" },
+      { "interpret": "Mariah Carey", "title": "Daydream", "duration": "6. November 1995 – 12. November 1995\n1 Woche" },
+      { "interpret": "Simply Red", "title": "Life", "duration": "13. November 1995 – 19. November 1995\n1 Woche" },
+      { "interpret": "Queen", "title": "Made in Heaven", "duration": "20. November 1995 – 3. Dezember 1995\n2 Wochen" },
+      { "interpret": "The Beatles", "title": "Anthology", "duration": "4. Dezember 1995 – 10. Dezember 1995\n1 Woche" },
+      { "interpret": "Queen", "title": "Made in Heaven", "duration": "11. Dezember 1995 – 11. Februar 1996\n9 Wochen" }
     ]
   },
   "1996": {
     "singles": [
       {
         "interpret": "Michael Jackson",
-        "title": "Earth Song",
-        "duration": "6 Wochen (11. Dezember 1995 – 21. Januar 1996)"
+        "title": "Earth Song\nMichael Joe Jackson",
+        "duration": "11. Dezember 1995 – 21. Januar 1996\n6 Wochen"
       },
       {
         "interpret": "Coolio feat. L. V.",
-        "title": "Gangsta’s Paradise",
-        "duration": "2 Wochen (22. Januar – 4. Februar, insgesamt 8 Wochen; → 1995)"
+        "title": "Gangsta’s Paradise\nStevie Wonder, Artis L. Ivey Jr., Douglas B. Rasheed, Larry James Sanders",
+        "duration": "22. Januar 1996 – 4. Februar 1996\n2 Wochen"
       },
       {
         "interpret": "Everything but the Girl",
-        "title": "Missing (Todd Terry Remix)",
-        "duration": "2 Wochen (5. Februar – 18. Februar)"
+        "title": "Missing (Todd Terry Remix)\nBen Watt, Tracey Anne Thorn",
+        "duration": "5. Februar 1996 – 18. Februar 1996\n2 Wochen"
       },
-      { "interpret": "Babylon Zoo", "title": "Spaceman", "duration": "1 Woche (19. Februar – 25. Februar)" },
-      { "interpret": "Fools Garden", "title": "Lemon Tree", "duration": "4 Wochen (26. Februar – 24. März)" },
-      { "interpret": "Robert Miles", "title": "Children", "duration": "7 Wochen (25. März – 12. Mai)" },
+      {
+        "interpret": "Babylon Zoo",
+        "title": "Spaceman\nJasbinder Singh Mann",
+        "duration": "19. Februar 1996 – 25. Februar 1996\n1 Woche"
+      },
+      {
+        "interpret": "Fools Garden",
+        "title": "Lemon Tree\nVolker Hinkel, Peter Freudenthaler",
+        "duration": "26. Februar 1996 – 24. März 1996\n4 Wochen"
+      },
+      {
+        "interpret": "Robert Miles",
+        "title": "Children\nRoberto Concina",
+        "duration": "25. März 1996 – 12. Mai 1996\n7 Wochen"
+      },
       {
         "interpret": "Michael Jackson",
-        "title": "They Don’t Care About Us",
-        "duration": "3 Wochen (13. Mai – 2. Juni)"
-      },
-      { "interpret": "Los del Río", "title": "Macarena", "duration": "4 Wochen (3. Juni – 30. Juni)" },
-      {
-        "interpret": "The Fugees",
-        "title": "Killing Me Softly",
-        "duration": "8 Wochen (1. Juli – 25. August, insgesamt 9 Wochen)"
+        "title": "They Don’t Care About Us\nMichael Joe Jackson",
+        "duration": "13. Mai 1996 – 2. Juni 1996\n3 Wochen"
       },
       {
-        "interpret": "The Kelly Family",
-        "title": "I Can’t Help Myself",
-        "duration": "1 Woche (26. August – 1. September, insgesamt 2 Wochen)"
+        "interpret": "Los del Río",
+        "title": "Macarena (Bayside Boys Remix)\nAntonio Romero Monge, Rafael Ruiz Perdigones",
+        "duration": "3. Juni 1996 – 30. Juni 1996\n4 Wochen"
       },
       {
         "interpret": "The Fugees",
-        "title": "Killing Me Softly",
-        "duration": "1 Woche (2. September – 8. September, insgesamt 9 Wochen)"
+        "title": "Killing Me Softly\nMusik: Charles Fox; Text: Norman Gimbel",
+        "duration": "1. Juli 1996 – 25. August 1996\n8 Wochen"
       },
       {
         "interpret": "The Kelly Family",
-        "title": "I Can’t Help Myself",
-        "duration": "1 Woche (9. September – 15. September, insgesamt 2 Wochen)"
+        "title": "I Can’t Help Myself (I Love You, I Want You)\nKelly Family",
+        "duration": "26. August 1996 – 1. September 1996\n1 Woche"
       },
-      { "interpret": "Spice Girls", "title": "Wannabe", "duration": "4 Wochen (16. September – 13. Oktober)" },
+      {
+        "interpret": "The Fugees",
+        "title": "Killing Me Softly\nMusik: Charles Fox; Text: Norman Gimbel",
+        "duration": "2. September 1996 – 8. September 1996\n1 Woche"
+      },
+      {
+        "interpret": "The Kelly Family",
+        "title": "I Can’t Help Myself (I Love You, I Want You)\nKelly Family",
+        "duration": "9. September 1996 – 15. September 1996\n1 Woche"
+      },
+      {
+        "interpret": "Spice Girls",
+        "title": "Wannabe\nMatthew Paul Rowbottom, Richard Frederick Stannard, Melanie Janine Brown, Victoria Caroline Beckham, Geraldine Estelle Halliwell, Emma Lee Bunton, Melanie Jayne Chisholm",
+        "duration": "16. September 1996 – 13. Oktober 1996\n4 Wochen"
+      },
       {
         "interpret": "Die Toten Hosen",
-        "title": "Zehn kleine Jägermeister",
-        "duration": "4 Wochen (14. Oktober – 10. November)"
+        "title": "Zehn kleine Jägermeister\nMusik: Wolfgang Rohde; Text: Andreas Frege, Hanns Christian Müller",
+        "duration": "14. Oktober 1996 – 10. November 1996\n4 Wochen"
       },
       {
         "interpret": "Backstreet Boys",
-        "title": "Quit Playing Games (With My Heart)",
-        "duration": "4 Wochen (11. November – 8. Dezember)"
+        "title": "Quit Playing Games (With My Heart)\nMartin Karl Sandberg, Herbert St. Clair Crichlow",
+        "duration": "11. November 1996 – 8. Dezember 1996\n4 Wochen"
       },
-      { "interpret": "Tic Tac Toe", "title": "Verpiss Dich", "duration": "1 Woche (9. Dezember – 15. Dezember)" },
+      {
+        "interpret": "Tic Tac Toe",
+        "title": "Verpiss’ dich\nMusik: Thorsten Börger; Text: Thorsten Börger, Claudia Alexandra Wohlfromm, Liane Wiegelmann",
+        "duration": "9. Dezember 1996 – 15. Dezember 1996\n1 Woche"
+      },
       {
         "interpret": "Sarah Brightman & Andrea Bocelli",
-        "title": "Time to Say Goodbye",
-        "duration": "13 Wochen (16. Dezember 1996 – 16. März 1997)"
-      },
-      {
-        "interpret": "Queen",
-        "title": "Made in Heaven",
-        "duration": "9 Wochen (11. Dezember 1995 – 11. Februar 1996, insgesamt 11 Wochen; → 1995)"
-      },
-      { "interpret": "Die Toten Hosen", "title": "Opium fürs Volk", "duration": "4 Wochen (12. Februar – 10. März)" },
-      { "interpret": "Fools Garden", "title": "Dish of the Day", "duration": "1 Woche (11. März – 17. März)" },
-      { "interpret": "Peter Maffay", "title": "Maffay 96", "duration": "3 Wochen (18. März – 7. April)" },
-      { "interpret": "Take That", "title": "Greatest Hits", "duration": "6 Wochen (8. April – 19. Mai)" },
-      { "interpret": "Backstreet Boys", "title": "Backstreet Boys", "duration": "2 Wochen (20. Mai – 2. Juni)" },
-      { "interpret": "Eros Ramazzotti", "title": "Dove c’è musica", "duration": "2 Wochen (3. Juni – 16. Juni)" },
-      { "interpret": "Metallica", "title": "Load", "duration": "4 Wochen (17. Juni – 14. Juli)" },
-      { "interpret": "The Fugees", "title": "The Score", "duration": "7 Wochen (15. Juli – 1. September)" },
-      { "interpret": "Pur", "title": "Live – Die Zweite", "duration": "5 Wochen (2. September – 6. Oktober)" },
-      { "interpret": "R.E.M.", "title": "New Adventures in Hi-Fi", "duration": "2 Wochen (7. Oktober – 20. Oktober)" },
-      { "interpret": "Wolfgang Petry", "title": "Alles", "duration": "1 Woche (21. Oktober – 27. Oktober)" },
-      {
-        "interpret": "Phil Collins",
-        "title": "Dance into the Light",
-        "duration": "2 Wochen (28. Oktober – 10. November)"
-      },
-      {
-        "interpret": "The Kelly Family",
-        "title": "Almost Heaven",
-        "duration": "6 Wochen (11. November – 22. Dezember)"
-      },
-      {
-        "interpret": "Andrea Bocelli",
-        "title": "Bocelli",
-        "duration": "12 Wochen (23. Dezember 1996 – 16. März 1997, insgesamt 17 Wochen; → 1997)"
+        "title": "Time to Say Goodbye (Con te partiró)\nMusik: Francesco Sartori; Text: Lucio Quarantotto",
+        "duration": "16. Dezember 1996 – 16. März 1997\n13 Wochen"
       }
     ],
     "albums": [
+      { "interpret": "Queen", "title": "Made in Heaven", "duration": "11. Dezember 1995 – 11. Februar 1996\n9 Wochen" },
       {
-        "interpret": "Queen",
-        "title": "Made in Heaven",
-        "duration": "9 Wochen (11. Dezember 1995 – 11. Februar 1996, insgesamt 11 Wochen; → 1995)"
+        "interpret": "Die Toten Hosen",
+        "title": "Opium fürs Volk",
+        "duration": "12. Februar 1996 – 10. März 1996\n4 Wochen"
       },
-      { "interpret": "Die Toten Hosen", "title": "Opium fürs Volk", "duration": "4 Wochen (12. Februar – 10. März)" },
-      { "interpret": "Fools Garden", "title": "Dish of the Day", "duration": "1 Woche (11. März – 17. März)" },
-      { "interpret": "Peter Maffay", "title": "Maffay 96", "duration": "3 Wochen (18. März – 7. April)" },
-      { "interpret": "Take That", "title": "Greatest Hits", "duration": "6 Wochen (8. April – 19. Mai)" },
-      { "interpret": "Backstreet Boys", "title": "Backstreet Boys", "duration": "2 Wochen (20. Mai – 2. Juni)" },
-      { "interpret": "Eros Ramazzotti", "title": "Dove c’è musica", "duration": "2 Wochen (3. Juni – 16. Juni)" },
-      { "interpret": "Metallica", "title": "Load", "duration": "4 Wochen (17. Juni – 14. Juli)" },
-      { "interpret": "The Fugees", "title": "The Score", "duration": "7 Wochen (15. Juli – 1. September)" },
-      { "interpret": "Pur", "title": "Live – Die Zweite", "duration": "5 Wochen (2. September – 6. Oktober)" },
-      { "interpret": "R.E.M.", "title": "New Adventures in Hi-Fi", "duration": "2 Wochen (7. Oktober – 20. Oktober)" },
-      { "interpret": "Wolfgang Petry", "title": "Alles", "duration": "1 Woche (21. Oktober – 27. Oktober)" },
+      { "interpret": "Fools Garden", "title": "Dish of the Day", "duration": "11. März 1996 – 17. März 1996\n1 Woche" },
+      { "interpret": "Peter Maffay", "title": "Maffay 96", "duration": "18. März 1996 – 7. April 1996\n3 Wochen" },
+      { "interpret": "Take That", "title": "Greatest Hits", "duration": "8. April 1996 – 19. Mai 1996\n6 Wochen" },
+      {
+        "interpret": "Backstreet Boys",
+        "title": "Backstreet Boys",
+        "duration": "20. Mai 1996 – 2. Juni 1996\n2 Wochen"
+      },
+      {
+        "interpret": "Eros Ramazzotti",
+        "title": "Dove c’è musica",
+        "duration": "3. Juni 1996 – 16. Juni 1996\n2 Wochen"
+      },
+      { "interpret": "Metallica", "title": "Load", "duration": "17. Juni 1996 – 14. Juli 1996\n4 Wochen" },
+      { "interpret": "The Fugees", "title": "The Score", "duration": "15. Juli 1996 – 1. September 1996\n7 Wochen" },
+      { "interpret": "Pur", "title": "Live – Die Zweite", "duration": "2. September 1996 – 6. Oktober 1996\n5 Wochen" },
+      {
+        "interpret": "R.E.M.",
+        "title": "New Adventures in Hi-Fi",
+        "duration": "7. Oktober 1996 – 20. Oktober 1996\n2 Wochen"
+      },
+      { "interpret": "Wolfgang Petry", "title": "Alles", "duration": "21. Oktober 1996 – 27. Oktober 1996\n1 Woche" },
       {
         "interpret": "Phil Collins",
         "title": "Dance into the Light",
-        "duration": "2 Wochen (28. Oktober – 10. November)"
+        "duration": "28. Oktober 1996 – 10. November 1996\n2 Wochen"
       },
       {
         "interpret": "The Kelly Family",
         "title": "Almost Heaven",
-        "duration": "6 Wochen (11. November – 22. Dezember)"
+        "duration": "11. November 1996 – 22. Dezember 1996\n6 Wochen"
       },
-      {
-        "interpret": "Andrea Bocelli",
-        "title": "Bocelli",
-        "duration": "12 Wochen (23. Dezember 1996 – 16. März 1997, insgesamt 17 Wochen; → 1997)"
-      }
+      { "interpret": "Andrea Bocelli", "title": "Bocelli", "duration": "23. Dezember 1996 – 16. März 1997\n12 Wochen" }
     ]
   },
   "1997": {
     "singles": [
       {
         "interpret": "Sarah Brightman & Andrea Bocelli",
-        "title": "Time to Say Goodbye",
-        "duration": "13 Wochen (16. Dezember 1996 – 16. März 1997)"
+        "title": "Time to Say Goodbye (Con te partiró)\nMusik: Francesco Sartori; Text: Lucio Quarantotto",
+        "duration": "16. Dezember 1996 – 16. März 1997\n13 Wochen"
       },
-      { "interpret": "Tic Tac Toe", "title": "Warum?", "duration": "7 Wochen (17. März – 4. Mai)" },
-      { "interpret": "Sabrina Setlur", "title": "Du liebst mich nicht", "duration": "1 Woche (5. Mai – 11. Mai)" },
-      { "interpret": "Nana", "title": "Lonely", "duration": "5 Wochen (12. Mai – 15. Juni)" },
-      { "interpret": "Members of Mayday", "title": "Sonic Empire", "duration": "1 Woche (16. Juni – 22. Juni)" },
-      { "interpret": "Hanson", "title": "Mmmbop", "duration": "1 Woche (23. Juni – 29. Juni)" },
-      {
-        "interpret": "Puff Daddy feat. Faith Evans und 112",
-        "title": "I’ll Be Missing You",
-        "duration": "11 Wochen (30. Juni – 14. September)"
-      },
-      { "interpret": "Will Smith", "title": "Men in Black", "duration": "1 Woche (15. September – 21. September)" },
-      {
-        "interpret": "Elton John",
-        "title": "Something About the Way You Look Tonight / Candle in the Wind ’97",
-        "duration": "7 Wochen (22. September – 9. November)"
-      },
-      { "interpret": "Aqua", "title": "Barbie Girl", "duration": "6 Wochen (10. November – 21. Dezember)" },
-      {
-        "interpret": "Run DMC vs. Jason Nevins",
-        "title": "It’s Like That",
-        "duration": "6 Wochen (22. Dezember 1997 – 1. Februar 1998)"
-      },
-      {
-        "interpret": "Andrea Bocelli",
-        "title": "Bocelli",
-        "duration": "12 Wochen (23. Dezember 1996 – 16. März 1997, insgesamt 17 Wochen)"
-      },
-      { "interpret": "U2", "title": "Pop", "duration": "1 Woche (17. März – 23. März)" },
-      {
-        "interpret": "Andrea Bocelli",
-        "title": "Bocelli",
-        "duration": "5 Wochen (24. März – 27. April, insgesamt 17 Wochen)"
-      },
-      { "interpret": "Depeche Mode", "title": "Ultra", "duration": "1 Woche (28. April – 2. Mai)" },
       {
         "interpret": "Tic Tac Toe",
-        "title": "Klappe die 2te",
-        "duration": "5 Wochen (3. Mai – 6. Juni, insgesamt 7 Wochen)"
-      },
-      { "interpret": "*NSYNC", "title": "N’ Sync", "duration": "1 Woche (7. Juni – 13. Juni)" },
-      { "interpret": "Tic Tac Toe", "title": "Klappe die 2te", "duration": "2 Wochen (14. Juni – 27. Juni)" },
-      { "interpret": "Jon Bon Jovi", "title": "Destination Anywhere", "duration": "1 Woche (28. Juni – 4. Juli)" },
-      { "interpret": "Hanson", "title": "Middle of Nowhere", "duration": "1 Woche (5. Juli – 11. Juli)" },
-      { "interpret": "The Prodigy", "title": "The Fat of the Land", "duration": "3 Wochen (12. Juli – 1. August)" },
-      { "interpret": "N/A", "title": "Bandits", "duration": "3 Wochen (2. August – 22. August)" },
-      {
-        "interpret": "Backstreet Boys",
-        "title": "Backstreet’s Back",
-        "duration": "2 Wochen (23. August – 5. September)"
-      },
-      { "interpret": "Rammstein", "title": "Sehnsucht", "duration": "5 Wochen (6. September – 12. Oktober)" },
-      {
-        "interpret": "Rolling Stones",
-        "title": "Bridges to Babylon",
-        "duration": "4 Wochen (13. Oktober – 9. November)"
+        "title": "Warum?\nThorsten Börger",
+        "duration": "17. März 1997 – 4. Mai 1997\n7 Wochen"
       },
       {
-        "interpret": "Eros Ramazzotti",
-        "title": "Eros",
-        "duration": "1 Woche (10. November – 16. November, insgesamt 3 Wochen)"
-      },
-      { "interpret": "Kelly Family", "title": "Growin’ Up", "duration": "1 Woche (17. November – 23. November)" },
-      {
-        "interpret": "Eros Ramazzotti",
-        "title": "Eros",
-        "duration": "1 Woche (24. November – 30. November, insgesamt 3 Wochen)"
-      },
-      { "interpret": "Metallica", "title": "ReLoad", "duration": "2 Wochen (1. Dezember – 14. Dezember)" },
-      {
-        "interpret": "Eros Ramazzotti",
-        "title": "Eros",
-        "duration": "1 Woche (15. Dezember – 21. Dezember, insgesamt 3 Wochen)"
+        "interpret": "Sabrina Setlur",
+        "title": "Du liebst mich nicht\nMusik: Markus Tarkan Onyuru; Text: Sabrina Setlur",
+        "duration": "5. Mai 1997 – 11. Mai 1997\n1 Woche"
       },
       {
-        "interpret": "Céline Dion",
-        "title": "Let’s Talk About Love",
-        "duration": "6 Wochen (22. Dezember 1997 – 1. Februar 1998)"
+        "interpret": "Nana",
+        "title": "Lonely\nBülent Aris, Nana Abrokwa, Toni Cottura",
+        "duration": "12. Mai 1997 – 15. Juni 1997\n5 Wochen"
+      },
+      {
+        "interpret": "Members of Mayday",
+        "title": "Sonic Empire\nMusik: Maximilian Lenz, Klaus Jankuhn; Text: Maximilian Lenz",
+        "duration": "16. Juni 1997 – 22. Juni 1997\n1 Woche"
+      },
+      {
+        "interpret": "Hanson",
+        "title": "Mmmbop\nClarke Isaac Hanson, Jordan Taylor Hanson, Zachary Walker Hanson",
+        "duration": "23. Juni 1997 – 29. Juni 1997\n1 Woche"
+      },
+      {
+        "interpret": "Puff Daddy feat. Faith Evans und 112",
+        "title": "I’ll Be Missing You\nFaith Renee Evans, Gordon Matthew Sumner, Todd Gaither",
+        "duration": "30. Juni 1997 – 14. September 1997\n11 Wochen"
+      },
+      {
+        "interpret": "Will Smith",
+        "title": "Men in Black\nWillard C. Smith, Patrice L. Rushen, Terri McFaddin, Fred Douglas Washington Jr.",
+        "duration": "15. September 1997 – 21. September 1997\n1 Woche"
+      },
+      {
+        "interpret": "Elton John",
+        "title": "Something About the Way You Look Tonight / Candle in the Wind ’97\nElton John, Bernie Taupin",
+        "duration": "22. September 1997 – 9. November 1997\n7 Wochen"
+      },
+      {
+        "interpret": "Aqua",
+        "title": "Barbie Girl\nMusik: Søren Rasted, Claus Norreen; Text: Søren Rasted, Claus Norreen, René Dif, Lene Crawford Nystrøm",
+        "duration": "10. November 1997 – 21. Dezember 1997\n6 Wochen"
+      },
+      {
+        "interpret": "Run-D.M.C. vs. Jason Nevins",
+        "title": "It’s Like That\nLawrence Smith, Joseph Ward Simmons, Darryl Matthews McDaniels",
+        "duration": "22. Dezember 1997 – 1. Februar 1998\n6 Wochen"
       }
     ],
     "albums": [
+      { "interpret": "Andrea Bocelli", "title": "Bocelli", "duration": "23. Dezember 1996 – 16. März 1997\n12 Wochen" },
+      { "interpret": "U2", "title": "Pop", "duration": "17. März 1997 – 23. März 1997\n1 Woche" },
+      { "interpret": "Andrea Bocelli", "title": "Bocelli", "duration": "24. März 1997 – 27. April 1997\n5 Wochen" },
+      { "interpret": "Depeche Mode", "title": "Ultra", "duration": "28. April 1997 – 2. Mai 1997\n1 Woche" },
+      { "interpret": "Tic Tac Toe", "title": "Klappe die 2te", "duration": "3. Mai 1997 – 6. Juni 1997\n5 Wochen" },
+      { "interpret": "*NSYNC", "title": "N’ Sync", "duration": "7. Juni 1997 – 13. Juni 1997\n1 Woche" },
+      { "interpret": "Tic Tac Toe", "title": "Klappe die 2te", "duration": "14. Juni 1997 – 27. Juni 1997\n2 Wochen" },
       {
-        "interpret": "Andrea Bocelli",
-        "title": "Bocelli",
-        "duration": "12 Wochen (23. Dezember 1996 – 16. März 1997, insgesamt 17 Wochen)"
+        "interpret": "Jon Bon Jovi",
+        "title": "Destination Anywhere",
+        "duration": "28. Juni 1997 – 4. Juli 1997\n1 Woche"
       },
-      { "interpret": "U2", "title": "Pop", "duration": "1 Woche (17. März – 23. März)" },
+      { "interpret": "Hanson", "title": "Middle of Nowhere", "duration": "5. Juli 1997 – 11. Juli 1997\n1 Woche" },
       {
-        "interpret": "Andrea Bocelli",
-        "title": "Bocelli",
-        "duration": "5 Wochen (24. März – 27. April, insgesamt 17 Wochen)"
+        "interpret": "The Prodigy",
+        "title": "The Fat of the Land",
+        "duration": "12. Juli 1997 – 1. August 1997\n3 Wochen"
       },
-      { "interpret": "Depeche Mode", "title": "Ultra", "duration": "1 Woche (28. April – 2. Mai)" },
-      {
-        "interpret": "Tic Tac Toe",
-        "title": "Klappe die 2te",
-        "duration": "5 Wochen (3. Mai – 6. Juni, insgesamt 7 Wochen)"
-      },
-      { "interpret": "*NSYNC", "title": "N’ Sync", "duration": "1 Woche (7. Juni – 13. Juni)" },
-      { "interpret": "Tic Tac Toe", "title": "Klappe die 2te", "duration": "2 Wochen (14. Juni – 27. Juni)" },
-      { "interpret": "Jon Bon Jovi", "title": "Destination Anywhere", "duration": "1 Woche (28. Juni – 4. Juli)" },
-      { "interpret": "Hanson", "title": "Middle of Nowhere", "duration": "1 Woche (5. Juli – 11. Juli)" },
-      { "interpret": "The Prodigy", "title": "The Fat of the Land", "duration": "3 Wochen (12. Juli – 1. August)" },
-      { "interpret": "N/A", "title": "Bandits", "duration": "3 Wochen (2. August – 22. August)" },
+      { "interpret": "(Soundtrack)", "title": "Bandits", "duration": "2. August 1997 – 22. August 1997\n3 Wochen" },
       {
         "interpret": "Backstreet Boys",
         "title": "Backstreet’s Back",
-        "duration": "2 Wochen (23. August – 5. September)"
+        "duration": "23. August 1997 – 5. September 1997\n2 Wochen"
       },
-      { "interpret": "Rammstein", "title": "Sehnsucht", "duration": "5 Wochen (6. September – 12. Oktober)" },
+      { "interpret": "Rammstein", "title": "Sehnsucht", "duration": "6. September 1997 – 12. Oktober 1997\n6 Wochen" },
       {
         "interpret": "Rolling Stones",
         "title": "Bridges to Babylon",
-        "duration": "4 Wochen (13. Oktober – 9. November)"
+        "duration": "13. Oktober 1997 – 9. November 1997\n4 Wochen"
       },
+      { "interpret": "Eros Ramazzotti", "title": "Eros", "duration": "10. November 1997 – 16. November 1997\n1 Woche" },
       {
-        "interpret": "Eros Ramazzotti",
-        "title": "Eros",
-        "duration": "1 Woche (10. November – 16. November, insgesamt 3 Wochen)"
+        "interpret": "Kelly Family",
+        "title": "Growin’ Up",
+        "duration": "17. November 1997 – 23. November 1997\n1 Woche"
       },
-      { "interpret": "Kelly Family", "title": "Growin’ Up", "duration": "1 Woche (17. November – 23. November)" },
-      {
-        "interpret": "Eros Ramazzotti",
-        "title": "Eros",
-        "duration": "1 Woche (24. November – 30. November, insgesamt 3 Wochen)"
-      },
-      { "interpret": "Metallica", "title": "ReLoad", "duration": "2 Wochen (1. Dezember – 14. Dezember)" },
-      {
-        "interpret": "Eros Ramazzotti",
-        "title": "Eros",
-        "duration": "1 Woche (15. Dezember – 21. Dezember, insgesamt 3 Wochen)"
-      },
+      { "interpret": "Eros Ramazzotti", "title": "Eros", "duration": "24. November 1997 – 30. November 1997\n1 Woche" },
+      { "interpret": "Metallica", "title": "ReLoad", "duration": "1. Dezember 1997 – 14. Dezember 1997\n2 Wochen" },
+      { "interpret": "Eros Ramazzotti", "title": "Eros", "duration": "15. Dezember 1997 – 21. Dezember 1997\n1 Woche" },
       {
         "interpret": "Céline Dion",
         "title": "Let’s Talk About Love",
-        "duration": "6 Wochen (22. Dezember 1997 – 1. Februar 1998)"
+        "duration": "22. Dezember 1997 – 1. Februar 1998\n6 Wochen"
       }
     ]
   },
   "1998": {
     "singles": [
       {
-        "interpret": "Run DMC vs. Jason Nevins",
-        "title": "It’s Like That",
-        "duration": "6 Wochen (22. Dezember 1997 – 1. Februar 1998)"
-      },
-      { "interpret": "Céline Dion", "title": "My Heart Will Go On", "duration": "13 Wochen (2. Februar – 3. Mai)" },
-      { "interpret": "Die Ärzte", "title": "Ein Schwein namens Männer", "duration": "8 Wochen (4. Mai – 28. Juni)" },
-      {
-        "interpret": "Ricky Martin",
-        "title": "La copa de la vida / The Cup of Life",
-        "duration": "4 Wochen (29. Juni – 26. Juli)"
-      },
-      {
-        "interpret": "Pras Michel feat. ODB & introducing Mýa",
-        "title": "Ghetto Supastar (That Is What You Are)",
-        "duration": "1 Woche (27. Juli – 2. August)"
-      },
-      { "interpret": "Loona", "title": "Bailando", "duration": "6 Wochen (3. August – 13. September)" },
-      {
-        "interpret": "Aerosmith",
-        "title": "I Don’t Want to Miss a Thing",
-        "duration": "4 Wochen (14. September – 11. Oktober)"
-      },
-      { "interpret": "Oli.P", "title": "Flugzeuge im Bauch", "duration": "7 Wochen (12. Oktober – 29. November)" },
-      { "interpret": "Cher", "title": "Believe", "duration": "4 Wochen (30. November – 27. Dezember)" },
-      {
-        "interpret": "Loona",
-        "title": "Hijo de la luna",
-        "duration": "3 Wochen (28. Dezember 1998 – 17. Januar 1999)"
+        "interpret": "Run-D.M.C. vs. Jason Nevins",
+        "title": "It’s Like That\nLawrence Smith, Joseph Ward Simmons, Darryl Matthews McDaniels",
+        "duration": "22. Dezember 1997 – 1. Februar 1998\n6 Wochen"
       },
       {
         "interpret": "Céline Dion",
-        "title": "Let’s Talk About Love",
-        "duration": "6 Wochen (22. Dezember 1997 – 1. Februar 1998)"
-      },
-      { "interpret": "Pur", "title": "Mächtig viel Theater", "duration": "2 Wochen (2. Februar – 15. Februar)" },
-      { "interpret": "N/A", "title": "Titanic", "duration": "4 Wochen (16. Februar – 15. März)" },
-      {
-        "interpret": "Madonna",
-        "title": "Ray of Light",
-        "duration": "4 Wochen (16. März – 12. April, insgesamt 6 Wochen; → 1999)"
+        "title": "My Heart Will Go On\nWill Jennings, James Horner",
+        "duration": "2. Februar 1998 – 3. Mai 1998\n13 Wochen"
       },
       {
-        "interpret": "Modern Talking",
-        "title": "Back for Good",
-        "duration": "3 Wochen (13. April – 3. Mai, insgesamt 5 Wochen)"
-      },
-      { "interpret": "Herbert Grönemeyer", "title": "Bleibt alles anders", "duration": "2 Wochen (4. Mai – 17. Mai)" },
-      {
-        "interpret": "Modern Talking",
-        "title": "Back for Good",
-        "duration": "2 Wochen (18. Mai – 31. Mai, insgesamt 5 Wochen)"
-      },
-      { "interpret": "Simply Red", "title": "Blue", "duration": "1 Woche (1. Juni – 7. Juni)" },
-      { "interpret": "Die Ärzte", "title": "13", "duration": "6 Wochen (8. Juni – 19. Juli)" },
-      { "interpret": "Beastie Boys", "title": "Hello Nasty", "duration": "3 Wochen (20. Juli – 9. August)" },
-      { "interpret": "N/A", "title": "Stadt der Engel", "duration": "3 Wochen (10. August – 30. August)" },
-      {
-        "interpret": "Westernhagen",
-        "title": "Radio Maria",
-        "duration": "3 Wochen (31. August – 20. September, insgesamt 8 Wochen)"
-      },
-      { "interpret": "Böhse Onkelz", "title": "Viva los tioz", "duration": "1 Woche (21. September – 27. September)" },
-      {
-        "interpret": "Westernhagen",
-        "title": "Radio Maria",
-        "duration": "2 Wochen (28. September – 11. Oktober, insgesamt 8 Wochen)"
-      },
-      { "interpret": "Depeche Mode", "title": "Singles 86–98", "duration": "1 Woche (12. Oktober – 18. Oktober)" },
-      { "interpret": "Wolfgang Petry", "title": "Einfach geil", "duration": "3 Wochen (19. Oktober – 8. November)" },
-      { "interpret": "R.E.M.", "title": "Up", "duration": "1 Woche (9. November – 15. November)" },
-      {
-        "interpret": "Alanis Morissette",
-        "title": "Supposed Former Infatuation Junkie",
-        "duration": "1 Woche (16. November – 22. November)"
+        "interpret": "Die Ärzte",
+        "title": "Ein Schwein namens Männer\nFarin Urlaub",
+        "duration": "4. Mai 1998 – 28. Juni 1998\n8 Wochen"
       },
       {
-        "interpret": "U2",
-        "title": "The Best of 1980–1990",
-        "duration": "2 Wochen (23. November – 6. Dezember, insgesamt 3 Wochen)"
-      },
-      { "interpret": "Metallica", "title": "Garage Inc.", "duration": "1 Woche (7. Dezember – 13. Dezember)" },
-      {
-        "interpret": "U2",
-        "title": "The Best of 1980–1990",
-        "duration": "1 Woche (14. Dezember – 20. Dezember, insgesamt 3 Wochen)"
+        "interpret": "Ricky Martin",
+        "title": "La copa de la vida / The Cup of Life\nMusik: Desmond Child, Ian Blake; Text: Desmond Child",
+        "duration": "29. Juni 1998 – 26. Juli 1998\n4 Wochen"
       },
       {
-        "interpret": "Westernhagen",
-        "title": "Radio Maria",
-        "duration": "3 Wochen (21. Dezember 1998 – 10. Januar 1999)"
+        "interpret": "Pras Michel feat. ODB & introducing Mýa",
+        "title": "Ghetto Supastar (That Is What You Are)\nNel Wyclef Jean, Samuel Prakazrel Michel, Russell T. Jones, Barry Alan Gibb, Robin Hugh Gibb, Maurice Ernest Gibb",
+        "duration": "27. Juli 1998 – 2. August 1998\n1 Woche"
+      },
+      {
+        "interpret": "Loona",
+        "title": "Bailando\nMusik: Patrick Samoy; Text: Patrick Samoy, Marísa Isabel García Asensio",
+        "duration": "3. August 1998 – 13. September 1998\n6 Wochen"
+      },
+      {
+        "interpret": "Aerosmith",
+        "title": "I Don’t Want to Miss a Thing\nDiane Eve Warren",
+        "duration": "14. September 1998 – 11. Oktober 1998\n4 Wochen"
+      },
+      {
+        "interpret": "Oli.P",
+        "title": "Flugzeuge im Bauch\nHerbert Grönemeyer",
+        "duration": "12. Oktober 1998 – 29. November 1998\n7 Wochen"
+      },
+      {
+        "interpret": "Cher",
+        "title": "Believe\nBrian Thomas Higgins, Paul Michael Barry, Steve Torch",
+        "duration": "30. November 1998 – 27. Dezember 1998\n4 Wochen"
+      },
+      {
+        "interpret": "Loona",
+        "title": "Hijo de la luna\nJosé María Cano Andrés",
+        "duration": "28. Dezember 1998 – 17. Januar 1999\n3 Wochen"
       }
     ],
     "albums": [
       {
         "interpret": "Céline Dion",
         "title": "Let’s Talk About Love",
-        "duration": "6 Wochen (22. Dezember 1997 – 1. Februar 1998)"
-      },
-      { "interpret": "Pur", "title": "Mächtig viel Theater", "duration": "2 Wochen (2. Februar – 15. Februar)" },
-      { "interpret": "N/A", "title": "Titanic", "duration": "4 Wochen (16. Februar – 15. März)" },
-      {
-        "interpret": "Madonna",
-        "title": "Ray of Light",
-        "duration": "4 Wochen (16. März – 12. April, insgesamt 6 Wochen; → 1999)"
+        "duration": "22. Dezember 1997 – 1. Februar 1998\n6 Wochen"
       },
       {
-        "interpret": "Modern Talking",
-        "title": "Back for Good",
-        "duration": "3 Wochen (13. April – 3. Mai, insgesamt 5 Wochen)"
+        "interpret": "Pur",
+        "title": "Mächtig viel Theater",
+        "duration": "2. Februar 1998 – 15. Februar 1998\n2 Wochen"
       },
-      { "interpret": "Herbert Grönemeyer", "title": "Bleibt alles anders", "duration": "2 Wochen (4. Mai – 17. Mai)" },
       {
-        "interpret": "Modern Talking",
-        "title": "Back for Good",
-        "duration": "2 Wochen (18. Mai – 31. Mai, insgesamt 5 Wochen)"
+        "interpret": "(Soundtrack / James Horner)",
+        "title": "Titanic",
+        "duration": "16. Februar 1998 – 15. März 1998\n4 Wochen"
       },
-      { "interpret": "Simply Red", "title": "Blue", "duration": "1 Woche (1. Juni – 7. Juni)" },
-      { "interpret": "Die Ärzte", "title": "13", "duration": "6 Wochen (8. Juni – 19. Juli)" },
-      { "interpret": "Beastie Boys", "title": "Hello Nasty", "duration": "3 Wochen (20. Juli – 9. August)" },
-      { "interpret": "N/A", "title": "Stadt der Engel", "duration": "3 Wochen (10. August – 30. August)" },
+      { "interpret": "Madonna", "title": "Ray of Light", "duration": "16. März 1998 – 12. April 1998\n4 Wochen" },
+      { "interpret": "Modern Talking", "title": "Back for Good", "duration": "13. April 1998 – 3. Mai 1998\n3 Wochen" },
       {
-        "interpret": "Westernhagen",
-        "title": "Radio Maria",
-        "duration": "3 Wochen (31. August – 20. September, insgesamt 8 Wochen)"
+        "interpret": "Herbert Grönemeyer",
+        "title": "Bleibt alles anders",
+        "duration": "4. Mai 1998 – 17. Mai 1998\n2 Wochen"
       },
-      { "interpret": "Böhse Onkelz", "title": "Viva los tioz", "duration": "1 Woche (21. September – 27. September)" },
+      { "interpret": "Modern Talking", "title": "Back for Good", "duration": "18. Mai 1998 – 31. Mai 1998\n2 Wochen" },
+      { "interpret": "Simply Red", "title": "Blue", "duration": "1. Juni 1998 – 7. Juni 1998\n1 Woche" },
+      { "interpret": "Die Ärzte", "title": "13", "duration": "8. Juni 1998 – 19. Juli 1998\n6 Wochen" },
+      { "interpret": "Beastie Boys", "title": "Hello Nasty", "duration": "20. Juli 1998 – 9. August 1998\n3 Wochen" },
+      {
+        "interpret": "(Soundtrack)",
+        "title": "Stadt der Engel",
+        "duration": "10. August 1998 – 30. August 1998\n3 Wochen"
+      },
       {
         "interpret": "Westernhagen",
         "title": "Radio Maria",
-        "duration": "2 Wochen (28. September – 11. Oktober, insgesamt 8 Wochen)"
+        "duration": "31. August 1998 – 20. September 1998\n3 Wochen"
       },
-      { "interpret": "Depeche Mode", "title": "Singles 86–98", "duration": "1 Woche (12. Oktober – 18. Oktober)" },
-      { "interpret": "Wolfgang Petry", "title": "Einfach geil", "duration": "3 Wochen (19. Oktober – 8. November)" },
-      { "interpret": "R.E.M.", "title": "Up", "duration": "1 Woche (9. November – 15. November)" },
+      {
+        "interpret": "Böhse Onkelz",
+        "title": "Viva los tioz",
+        "duration": "21. September 1998 – 27. September 1998\n1 Woche"
+      },
+      {
+        "interpret": "Westernhagen",
+        "title": "Radio Maria",
+        "duration": "28. September 1998 – 11. Oktober 1998\n2 Wochen"
+      },
+      {
+        "interpret": "Depeche Mode",
+        "title": "Singles 86–98",
+        "duration": "12. Oktober 1998 – 18. Oktober 1998\n1 Woche"
+      },
+      {
+        "interpret": "Wolfgang Petry",
+        "title": "Einfach geil",
+        "duration": "19. Oktober 1998 – 8. November 1998\n3 Wochen"
+      },
+      { "interpret": "R.E.M.", "title": "Up", "duration": "9. November 1998 – 15. November 1998\n1 Woche" },
       {
         "interpret": "Alanis Morissette",
         "title": "Supposed Former Infatuation Junkie",
-        "duration": "1 Woche (16. November – 22. November)"
+        "duration": "16. November 1998 – 22. November 1998\n1 Woche"
       },
       {
         "interpret": "U2",
         "title": "The Best of 1980–1990",
-        "duration": "2 Wochen (23. November – 6. Dezember, insgesamt 3 Wochen)"
+        "duration": "23. November 1998 – 6. Dezember 1998\n2 Wochen"
       },
-      { "interpret": "Metallica", "title": "Garage Inc.", "duration": "1 Woche (7. Dezember – 13. Dezember)" },
+      { "interpret": "Metallica", "title": "Garage Inc.", "duration": "7. Dezember 1998 – 13. Dezember 1998\n1 Woche" },
       {
         "interpret": "U2",
         "title": "The Best of 1980–1990",
-        "duration": "1 Woche (14. Dezember – 20. Dezember, insgesamt 3 Wochen)"
+        "duration": "14. Dezember 1998 – 20. Dezember 1998\n1 Woche"
       },
       {
         "interpret": "Westernhagen",
         "title": "Radio Maria",
-        "duration": "3 Wochen (21. Dezember 1998 – 10. Januar 1999)"
+        "duration": "21. Dezember 1998 – 10. Januar 1999\n3 Wochen"
       }
     ]
   },
@@ -1048,189 +906,146 @@
     "singles": [
       {
         "interpret": "Loona",
-        "title": "Hijo de la luna",
-        "duration": "3 Wochen (28. Dezember 1998 – 17. Januar 1999)"
+        "title": "Hijo de la luna\nJosé María Cano Andrés",
+        "duration": "28. Dezember 1998 – 17. Januar 1999\n3 Wochen"
       },
-      { "interpret": "Emilia", "title": "Big, Big World", "duration": "7 Wochen (18. Januar – 7. März)" },
-      { "interpret": "Britney Spears", "title": "… Baby One More Time", "duration": "6 Wochen (8. März – 18. April)" },
-      { "interpret": "Mr. Oizo", "title": "Flat Beat", "duration": "4 Wochen (19. April – 16. Mai)" },
-      { "interpret": "Backstreet Boys", "title": "I Want It That Way", "duration": "2 Wochen (17. Mai – 30. Mai)" },
+      {
+        "interpret": "Emilia",
+        "title": "Big, Big World\nEmilia Hanna Rydberg, Lars Olof Stig Andersson",
+        "duration": "18. Januar 1999 – 7. März 1999\n7 Wochen"
+      },
+      {
+        "interpret": "Britney Spears",
+        "title": "… Baby One More Time\nMartin Karl Sandberg",
+        "duration": "8. März 1999 – 18. April 1999\n6 Wochen"
+      },
+      {
+        "interpret": "Mr. Oizo",
+        "title": "Flat Beat\nQuentin Benoit Dupieux",
+        "duration": "19. April 1999 – 16. Mai 1999\n4 Wochen"
+      },
+      {
+        "interpret": "Backstreet Boys",
+        "title": "I Want It That Way\nMartin Karl Sandberg, Andreas Mikael Carlsson",
+        "duration": "17. Mai 1999 – 30. Mai 1999\n2 Wochen"
+      },
       {
         "interpret": "Lou Bega",
-        "title": "Mambo No. 5 (A Little Bit Of …)",
-        "duration": "11 Wochen (31. Mai – 15. August)"
+        "title": "Mambo No. 5 (A Little Bit Of …)\nMusik: Dámaso Pérez Prado; zusätzlicher Text: Christian Pletschacher, David Lubega",
+        "duration": "31. Mai 1999 – 15. August 1999\n11 Wochen"
       },
-      { "interpret": "Eiffel 65", "title": "Blue (Da Ba Dee)", "duration": "9 Wochen (16. August – 17. Oktober)" },
-      { "interpret": "Bloodhound Gang", "title": "The Bad Touch", "duration": "1 Woche (18. Oktober – 24. Oktober)" },
+      {
+        "interpret": "Eiffel 65",
+        "title": "Blue (Da Ba Dee)\nMusik: Maurizio Lobina, Gianfranco Randone; Text: Massimo Gabutti, Maurizio Lobina",
+        "duration": "16. August 1999 – 17. Oktober 1999\n9 Wochen"
+      },
+      {
+        "interpret": "Bloodhound Gang",
+        "title": "The Bad Touch\nJames Moyer Franks",
+        "duration": "18. Oktober 1999 – 24. Oktober 1999\n1 Woche"
+      },
       {
         "interpret": "Oli.P",
-        "title": "So bist Du (und wenn du gehst …)",
-        "duration": "5 Wochen (25. Oktober – 28. November)"
+        "title": "So bist du (und wenn du gehst …)\nMusik: Peter Maffay; Text: Bernd Meinunger",
+        "duration": "25. Oktober 1999 – 28. November 1999\n5 Wochen"
       },
       {
         "interpret": "Stefan Raab & Truck Stop",
-        "title": "Maschen-Draht-Zaun",
-        "duration": "8 Wochen (29. November 1999 – 23. Januar 2000)"
-      },
-      {
-        "interpret": "Westernhagen",
-        "title": "Radio Maria",
-        "duration": "3 Wochen (21. Dezember 1998 – 10. Januar 1999, insgesamt 8 Wochen; → 1998)"
-      },
-      {
-        "interpret": "Madonna",
-        "title": "Ray of Light",
-        "duration": "2 Wochen (11. Januar – 24. Januar, insgesamt 6 Wochen; → 1998)"
-      },
-      {
-        "interpret": "Xavier Naidoo",
-        "title": "Nicht von dieser Welt",
-        "duration": "2 Wochen (25. Januar – 7. Februar, insgesamt 3 Wochen)"
-      },
-      { "interpret": "BAP", "title": "Comics & Pin-Ups", "duration": "1 Woche (8. Februar – 14. Februar)" },
-      { "interpret": "Cher", "title": "Believe", "duration": "3 Wochen (15. Februar – 7. März, insgesamt 4 Wochen)" },
-      { "interpret": "Modern Talking", "title": "Alone – The 8th Album", "duration": "4 Wochen (8. März – 4. April)" },
-      { "interpret": "Cher", "title": "Believe", "duration": "1 Woche (5 April – 11. April, insgesamt 4 Wochen)" },
-      {
-        "interpret": "Britney Spears",
-        "title": "… Baby One More Time",
-        "duration": "2 Wochen (12. April – 25. April)"
-      },
-      {
-        "interpret": "Xavier Naidoo",
-        "title": "Nicht von dieser Welt",
-        "duration": "1 Woche (26. April – 2. Mai, insgesamt 3 Wochen)"
-      },
-      { "interpret": "The Cranberries", "title": "Bury the Hatchet", "duration": "1 Woche (3. Mai – 9. Mai)" },
-      { "interpret": "Die Fantastischen Vier", "title": "4:99", "duration": "3 Wochen (10. Mai – 30. Mai)" },
-      { "interpret": "Backstreet Boys", "title": "Millennium", "duration": "4 Wochen (31. Mai – 27. Juni)" },
-      { "interpret": "Jamiroquai", "title": "Synkronized", "duration": "3 Wochen (28. Juni – 18. Juli)" },
-      {
-        "interpret": "N/A",
-        "title": "Buena Vista Social Club",
-        "duration": "8 Wochen (19. Juli – 12. September, insgesamt 9 Wochen)"
-      },
-      { "interpret": "Rammstein", "title": "Live aus Berlin", "duration": "1 Woche (13. September – 19. September)" },
-      {
-        "interpret": "N/A",
-        "title": "Buena Vista Social Club",
-        "duration": "1 Woche (20. September – 26. September, insgesamt 9 Wochen)"
-      },
-      { "interpret": "Echt", "title": "Freischwimmer", "duration": "2 Wochen (27. September – 10. Oktober)" },
-      { "interpret": "Sting", "title": "Brand New Day", "duration": "1 Woche (11. Oktober – 17. Oktober)" },
-      {
-        "interpret": "Bloodhound Gang",
-        "title": "Hooray for Boobies",
-        "duration": "3 Wochen (18. Oktober – 7. November, insgesamt 4 Wochen)"
-      },
-      {
-        "interpret": "Genesis",
-        "title": "Turn It On Again – The Hits",
-        "duration": "1 Woche (8. November – 14. November)"
-      },
-      {
-        "interpret": "Bloodhound Gang",
-        "title": "Hooray for Boobies",
-        "duration": "1 Woche (15. November – 21. November, insgesamt 4 Wochen)"
-      },
-      { "interpret": "Cher", "title": "The Greatest Hits", "duration": "1 Woche (22. November – 28. November)" },
-      {
-        "interpret": "Céline Dion",
-        "title": "All the Way – A Decade of Song",
-        "duration": "1 Woche (29. November – 5. Dezember, insgesamt 6 Wochen)"
-      },
-      { "interpret": "Metallica", "title": "S&M", "duration": "1 Woche (6. Dezember – 12. Dezember)" },
-      {
-        "interpret": "Céline Dion",
-        "title": "All the Way – A Decade of Song",
-        "duration": "1 Woche (13. Dezember – 19. Dezember, insgesamt 6 Wochen)"
-      },
-      { "interpret": "Die Toten Hosen", "title": "Unsterblich", "duration": "1 Woche (20. Dezember – 26. Dezember)" },
-      {
-        "interpret": "Céline Dion",
-        "title": "All the Way – A Decade of Song",
-        "duration": "4 Wochen (27. Dezember 1999 – 30. Januar 2000, insgesamt 6 Wochen)"
+        "title": "Maschen-Draht-Zaun\nMusik: Stefan Raab; Text: Stefan Raab, Jens Bujar",
+        "duration": "29. November 1999 – 23. Januar 2000\n8 Wochen"
       }
     ],
     "albums": [
       {
         "interpret": "Westernhagen",
         "title": "Radio Maria",
-        "duration": "3 Wochen (21. Dezember 1998 – 10. Januar 1999, insgesamt 8 Wochen; → 1998)"
+        "duration": "21. Dezember 1998 – 10. Januar 1999\n3 Wochen"
       },
-      {
-        "interpret": "Madonna",
-        "title": "Ray of Light",
-        "duration": "2 Wochen (11. Januar – 24. Januar, insgesamt 6 Wochen; → 1998)"
-      },
+      { "interpret": "Madonna", "title": "Ray of Light", "duration": "11. Januar 1999 – 24. Januar 1999\n2 Wochen" },
       {
         "interpret": "Xavier Naidoo",
         "title": "Nicht von dieser Welt",
-        "duration": "2 Wochen (25. Januar – 7. Februar, insgesamt 3 Wochen)"
+        "duration": "25. Januar 1999 – 7. Februar 1999\n2 Wochen"
       },
-      { "interpret": "BAP", "title": "Comics & Pin-Ups", "duration": "1 Woche (8. Februar – 14. Februar)" },
-      { "interpret": "Cher", "title": "Believe", "duration": "3 Wochen (15. Februar – 7. März, insgesamt 4 Wochen)" },
-      { "interpret": "Modern Talking", "title": "Alone – The 8th Album", "duration": "4 Wochen (8. März – 4. April)" },
-      { "interpret": "Cher", "title": "Believe", "duration": "1 Woche (5 April – 11. April, insgesamt 4 Wochen)" },
+      { "interpret": "BAP", "title": "Comics & Pin-ups", "duration": "8. Februar 1999 – 14. Februar 1999\n1 Woche" },
+      { "interpret": "Cher", "title": "Believe", "duration": "15. Februar 1999 – 7. März 1999\n3 Wochen" },
+      {
+        "interpret": "Modern Talking",
+        "title": "Alone – The 8th Album",
+        "duration": "8. März 1999 – 4. April 1999\n4 Wochen"
+      },
+      { "interpret": "Cher", "title": "Believe", "duration": "5. April 1999 – 11. April 1999\n1 Woche" },
       {
         "interpret": "Britney Spears",
         "title": "… Baby One More Time",
-        "duration": "2 Wochen (12. April – 25. April)"
+        "duration": "12. April 1999 – 25. April 1999\n2 Wochen"
       },
       {
         "interpret": "Xavier Naidoo",
         "title": "Nicht von dieser Welt",
-        "duration": "1 Woche (26. April – 2. Mai, insgesamt 3 Wochen)"
+        "duration": "26. April 1999 – 2. Mai 1999\n1 Woche"
       },
-      { "interpret": "The Cranberries", "title": "Bury the Hatchet", "duration": "1 Woche (3. Mai – 9. Mai)" },
-      { "interpret": "Die Fantastischen Vier", "title": "4:99", "duration": "3 Wochen (10. Mai – 30. Mai)" },
-      { "interpret": "Backstreet Boys", "title": "Millennium", "duration": "4 Wochen (31. Mai – 27. Juni)" },
-      { "interpret": "Jamiroquai", "title": "Synkronized", "duration": "3 Wochen (28. Juni – 18. Juli)" },
+      { "interpret": "The Cranberries", "title": "Bury the Hatchet", "duration": "3. Mai 1999 – 9. Mai 1999\n1 Woche" },
+      { "interpret": "Die Fantastischen Vier", "title": "4:99", "duration": "10. Mai 1999 – 30. Mai 1999\n3 Wochen" },
+      { "interpret": "Backstreet Boys", "title": "Millennium", "duration": "31. Mai 1999 – 27. Juni 1999\n4 Wochen" },
+      { "interpret": "Jamiroquai", "title": "Synkronized", "duration": "28. Juni 1999 – 18. Juli 1999\n3 Wochen" },
       {
-        "interpret": "N/A",
+        "interpret": "(Soundtrack)",
         "title": "Buena Vista Social Club",
-        "duration": "8 Wochen (19. Juli – 12. September, insgesamt 9 Wochen)"
+        "duration": "19. Juli 1999 – 12. September 1999\n8 Wochen"
       },
-      { "interpret": "Rammstein", "title": "Live aus Berlin", "duration": "1 Woche (13. September – 19. September)" },
       {
-        "interpret": "N/A",
-        "title": "Buena Vista Social Club",
-        "duration": "1 Woche (20. September – 26. September, insgesamt 9 Wochen)"
+        "interpret": "Rammstein",
+        "title": "Live aus Berlin",
+        "duration": "13. September 1999 – 19. September 1999\n1 Woche"
       },
-      { "interpret": "Echt", "title": "Freischwimmer", "duration": "2 Wochen (27. September – 10. Oktober)" },
-      { "interpret": "Sting", "title": "Brand New Day", "duration": "1 Woche (11. Oktober – 17. Oktober)" },
+      {
+        "interpret": "(Soundtrack)",
+        "title": "Buena Vista Social Club",
+        "duration": "20. September 1999 – 26. September 1999\n1 Woche"
+      },
+      { "interpret": "Echt", "title": "Freischwimmer", "duration": "27. September 1999 – 10. Oktober 1999\n2 Wochen" },
+      { "interpret": "Sting", "title": "Brand New Day", "duration": "11. Oktober 1999 – 17. Oktober 1999\n1 Woche" },
       {
         "interpret": "Bloodhound Gang",
         "title": "Hooray for Boobies",
-        "duration": "3 Wochen (18. Oktober – 7. November, insgesamt 4 Wochen)"
+        "duration": "18. Oktober 1999 – 7. November 1999\n3 Wochen"
       },
       {
         "interpret": "Genesis",
         "title": "Turn It On Again – The Hits",
-        "duration": "1 Woche (8. November – 14. November)"
+        "duration": "8. November 1999 – 14. November 1999\n1 Woche"
       },
       {
         "interpret": "Bloodhound Gang",
         "title": "Hooray for Boobies",
-        "duration": "1 Woche (15. November – 21. November, insgesamt 4 Wochen)"
+        "duration": "15. November 1999 – 21. November 1999\n1 Woche"
       },
-      { "interpret": "Cher", "title": "The Greatest Hits", "duration": "1 Woche (22. November – 28. November)" },
+      {
+        "interpret": "Cher",
+        "title": "The Greatest Hits",
+        "duration": "22. November 1999 – 28. November 1999\n1 Woche"
+      },
       {
         "interpret": "Céline Dion",
         "title": "All the Way – A Decade of Song",
-        "duration": "1 Woche (29. November – 5. Dezember, insgesamt 6 Wochen)"
+        "duration": "29. November 1999 – 5. Dezember 1999\n1 Woche"
       },
-      { "interpret": "Metallica", "title": "S&M", "duration": "1 Woche (6. Dezember – 12. Dezember)" },
+      { "interpret": "Metallica", "title": "S&M", "duration": "6. Dezember 1999 – 12. Dezember 1999\n1 Woche" },
       {
         "interpret": "Céline Dion",
         "title": "All the Way – A Decade of Song",
-        "duration": "1 Woche (13. Dezember – 19. Dezember, insgesamt 6 Wochen)"
+        "duration": "13. Dezember 1999 – 19. Dezember 1999\n1 Woche"
       },
-      { "interpret": "Die Toten Hosen", "title": "Unsterblich", "duration": "1 Woche (20. Dezember – 26. Dezember)" },
+      {
+        "interpret": "Die Toten Hosen",
+        "title": "Unsterblich",
+        "duration": "20. Dezember 1999 – 26. Dezember 1999\n1 Woche"
+      },
       {
         "interpret": "Céline Dion",
         "title": "All the Way – A Decade of Song",
-        "duration": "4 Wochen (27. Dezember 1999 – 30. Januar 2000, insgesamt 6 Wochen)"
+        "duration": "27. Dezember 1999 – 30. Januar 2000\n5 Wochen"
       }
     ]
   }

@@ -662,7 +662,7 @@
       },
       {
         "interpret": "Verschiedene Interpreten",
-        "title": "Super 20 - Super Neu",
+        "title": "Super 20 – Super Neu",
         "duration": "2 Monate (15. Dezember 1975 – 14. Februar 1976)"
       }
     ],
@@ -707,7 +707,7 @@
       },
       {
         "interpret": "Verschiedene Interpreten",
-        "title": "Super 20 - Super Neu",
+        "title": "Super 20 – Super Neu",
         "duration": "2 Monate (15. Dezember 1975 – 14. Februar 1976)"
       }
     ]
@@ -1124,86 +1124,107 @@
     "singles": [
       {
         "interpret": "Village People",
-        "title": "Y.M.C.A.",
-        "duration": "4 Wochen (11. Dezember 1978 – 7. Januar 1979, insgesamt 11 Wochen)"
+        "title": "Y.M.C.A.\nMusik: Jacques Morali; Text: Henri Belolo",
+        "duration": "11. Dezember 1978 – 7. Januar 1979\n4 Wochen"
       },
       {
         "interpret": "Boney M.",
-        "title": "Mary’s Boy Child / Oh My Lord",
-        "duration": "1 Woche (8. Januar – 14. Januar)"
+        "title": "Mary’s Boy Child / Oh My Lord\nJester Joseph Hairston",
+        "duration": "8. Januar 1979 – 14. Januar 1979\n1 Woche"
       },
       {
         "interpret": "Village People",
-        "title": "Y.M.C.A.",
-        "duration": "7 Wochen (15. Januar – 4. März, insgesamt 11 Wochen)"
+        "title": "Y.M.C.A.\nMusik: Jacques Morali; Text: Henri Belolo",
+        "duration": "15. Januar 1979 – 4. März 1979\n7 Wochen"
       },
-      { "interpret": "Blondie", "title": "Heart of Glass", "duration": "6 Wochen (5. März – 15. April)" },
-      { "interpret": "Dschinghis Khan", "title": "Dschinghis Khan", "duration": "4 Wochen (16. April – 13. Mai)" },
-      { "interpret": "Patrick Hernandez", "title": "Born to Be Alive", "duration": "5 Wochen (14. Mai – 17. Juni)" },
-      { "interpret": "M", "title": "Pop Muzik", "duration": "6 Wochen (18. Juni – 29. Juli)" },
-      { "interpret": "Peter Maffay", "title": "So bist Du", "duration": "3 Wochen (30. Juli – 19. August)" },
-      { "interpret": "Boney M.", "title": "El Lute", "duration": "8 Wochen (20. August – 14. Oktober)" },
+      {
+        "interpret": "Blondie",
+        "title": "Heart of Glass\nDeborah Harry, Christopher Stein",
+        "duration": "5. März 1979 – 15. April 1979\n6 Wochen"
+      },
+      {
+        "interpret": "Dschinghis Khan",
+        "title": "Dschinghis Khan\nMusik: Ralph Siegel junior; Text: Bernd Meinunger",
+        "duration": "16. April 1979 – 13. Mai 1979\n4 Wochen"
+      },
+      {
+        "interpret": "Patrick Hernandez",
+        "title": "Born to Be Alive\nPatrick Pierre Hernandez",
+        "duration": "14. Mai 1979 – 17. Juni 1979\n5 Wochen"
+      },
+      {
+        "interpret": "M",
+        "title": "Pop Muzik\nRobin Edmond Scott",
+        "duration": "18. Juni 1979 – 29. Juli 1979\n6 Wochen"
+      },
+      {
+        "interpret": "Peter Maffay",
+        "title": "So bist Du\nMusik: Peter Maffay; Text: Michael Kunze",
+        "duration": "30. Juli 1979 – 19. August 1979\n3 Wochen"
+      },
+      {
+        "interpret": "Boney M.",
+        "title": "El Lute\nFrank Farian, Fred Jay, Hans Blum",
+        "duration": "20. August 1979 – 14. Oktober 1979\n8 Wochen"
+      },
       {
         "interpret": "Cliff Richard",
-        "title": "We Don’t Talk Anymore",
-        "duration": "5 Wochen (15. Oktober – 18. November)"
+        "title": "We Don’t Talk Anymore\nAlan Tarney",
+        "duration": "15. Oktober 1979 – 18. November 1979\n5 Wochen"
       },
-      { "interpret": "Thom Pace", "title": "Maybe", "duration": "9 Wochen (19. November 1979 – 20. Januar 1980)" },
       {
-        "interpret": "N/A",
-        "title": "Grease",
-        "duration": "5 Wochen (1. Januar – 4. Februar, insgesamt 11 Wochen; → 1978)"
-      },
-      { "interpret": "Village People", "title": "Cruising", "duration": "1 Woche (5. Februar – 11. Februar)" },
-      { "interpret": "James Last", "title": "Und jetzt alle", "duration": "1 Woche (12. Februar – 18. Februar)" },
-      { "interpret": "Nini Rosso", "title": "Trumpet Dreams", "duration": "2 Wochen (19. Februar – 4. März)" },
-      {
-        "interpret": "Freddy Fröhlich’s Partylöwen",
-        "title": "Hithaus, Ramba Zamba",
-        "duration": "2 Wochen (5. März – 18. März)"
-      },
-      { "interpret": "Richard Clayderman", "title": "Träumereien", "duration": "7 Wochen (19. März – 6. Mai)" },
-      { "interpret": "Supertramp", "title": "Breakfast in America", "duration": "1 Woche (7. Mai – 13. Mai)" },
-      { "interpret": "Bee Gees", "title": "Spirits Having Flown", "duration": "1 Woche (14. Mai – 20. Mai)" },
-      { "interpret": "ABBA", "title": "Voulez-Vous", "duration": "4 Wochen (21. Mai – 17. Juni)" },
-      { "interpret": "Dire Straits", "title": "Communiqué", "duration": "4 Wochen (18. Juni – 15. Juli)" },
-      { "interpret": "Peter Maffay", "title": "Steppenwolf", "duration": "9 Wochen (16. Juli – 16. September)" },
-      { "interpret": "The Alan Parsons Project", "title": "Eve", "duration": "4 Wochen (17. September – 14. Oktober)" },
-      { "interpret": "Boney M.", "title": "Oceans of Fantasy", "duration": "2 Wochen (15. Oktober – 28. Oktober)" },
-      { "interpret": "Peter Maffay", "title": "Frei sein", "duration": "5 Wochen (29. Oktober – 2. Dezember)" },
-      {
-        "interpret": "James Last",
-        "title": "Träum was Schönes",
-        "duration": "5 Wochen (3. Dezember 1979 – 6. Januar 1980)"
+        "interpret": "Thom Pace",
+        "title": "Maybe\nThom Pace",
+        "duration": "19. November 1979 – 20. Januar 1980\n9 Wochen"
       }
     ],
     "albums": [
+      { "interpret": "(Soundtrack)", "title": "Grease", "duration": "1. Januar 1979 – 4. Februar 1979\n5 Wochen" },
+      { "interpret": "Village People", "title": "Cruising", "duration": "5. Februar 1979 – 11. Februar 1979\n1 Woche" },
       {
-        "interpret": "N/A",
-        "title": "Grease",
-        "duration": "5 Wochen (1. Januar – 4. Februar, insgesamt 11 Wochen; → 1978)"
+        "interpret": "James Last",
+        "title": "Und jetzt alle",
+        "duration": "12. Februar 1979 – 18. Februar 1979\n1 Woche"
       },
-      { "interpret": "Village People", "title": "Cruising", "duration": "1 Woche (5. Februar – 11. Februar)" },
-      { "interpret": "James Last", "title": "Und jetzt alle", "duration": "1 Woche (12. Februar – 18. Februar)" },
-      { "interpret": "Nini Rosso", "title": "Trumpet Dreams", "duration": "2 Wochen (19. Februar – 4. März)" },
+      { "interpret": "Nini Rosso", "title": "Trumpet Dreams", "duration": "19. Februar 1979 – 4. März 1979\n2 Wochen" },
       {
         "interpret": "Freddy Fröhlich’s Partylöwen",
         "title": "Hithaus, Ramba Zamba",
-        "duration": "2 Wochen (5. März – 18. März)"
+        "duration": "5. März 1979 – 18. März 1979\n2 Wochen"
       },
-      { "interpret": "Richard Clayderman", "title": "Träumereien", "duration": "7 Wochen (19. März – 6. Mai)" },
-      { "interpret": "Supertramp", "title": "Breakfast in America", "duration": "1 Woche (7. Mai – 13. Mai)" },
-      { "interpret": "Bee Gees", "title": "Spirits Having Flown", "duration": "1 Woche (14. Mai – 20. Mai)" },
-      { "interpret": "ABBA", "title": "Voulez-Vous", "duration": "4 Wochen (21. Mai – 17. Juni)" },
-      { "interpret": "Dire Straits", "title": "Communiqué", "duration": "4 Wochen (18. Juni – 15. Juli)" },
-      { "interpret": "Peter Maffay", "title": "Steppenwolf", "duration": "9 Wochen (16. Juli – 16. September)" },
-      { "interpret": "The Alan Parsons Project", "title": "Eve", "duration": "4 Wochen (17. September – 14. Oktober)" },
-      { "interpret": "Boney M.", "title": "Oceans of Fantasy", "duration": "2 Wochen (15. Oktober – 28. Oktober)" },
-      { "interpret": "Peter Maffay", "title": "Frei sein", "duration": "5 Wochen (29. Oktober – 2. Dezember)" },
+      {
+        "interpret": "Richard Clayderman",
+        "title": "Träumereien",
+        "duration": "19. März 1979 – 6. Mai 1979\n7 Wochen"
+      },
+      { "interpret": "Supertramp", "title": "Breakfast in America", "duration": "7. Mai 1979 – 13. Mai 1979\n1 Woche" },
+      { "interpret": "Bee Gees", "title": "Spirits Having Flown", "duration": "14. Mai 1979 – 20. Mai 1979\n1 Woche" },
+      { "interpret": "ABBA", "title": "Voulez-Vous", "duration": "21. Mai 1979 – 17. Juni 1979\n4 Wochen" },
+      { "interpret": "Dire Straits", "title": "Communiqué", "duration": "18. Juni 1979 – 15. Juli 1979\n4 Wochen" },
+      {
+        "interpret": "Peter Maffay",
+        "title": "Steppenwolf",
+        "duration": "16. Juli 1979 – 16. September 1979\n9 Wochen"
+      },
+      {
+        "interpret": "The Alan Parsons Project",
+        "title": "Eve",
+        "duration": "17. September 1979 – 14. Oktober 1979\n4 Wochen"
+      },
+      {
+        "interpret": "Boney M.",
+        "title": "Oceans of Fantasy",
+        "duration": "15. Oktober 1979 – 28. Oktober 1979\n2 Wochen"
+      },
+      {
+        "interpret": "Peter Maffay",
+        "title": "Frei sein",
+        "duration": "29. Oktober 1979 – 2. Dezember 1979\n5 Wochen"
+      },
       {
         "interpret": "James Last",
         "title": "Träum was Schönes",
-        "duration": "5 Wochen (3. Dezember 1979 – 6. Januar 1980)"
+        "duration": "3. Dezember 1979 – 6. Januar 1980\n5 Wochen"
       }
     ]
   }
