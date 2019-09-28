@@ -41,31 +41,16 @@ async function crawl(year) {
     const $singlesFallback1 = document.querySelectorAll(
       "#mw-content-text > div > table:nth-child(3) > tbody > tr:nth-child(2) > td:nth-child(1) > ul > li"
     );
-    const $singlesFallback2 = document.querySelectorAll(
-      "#mw-content-text > div > table:nth-child(4) > tbody > tr:nth-child(2) > td > table > tbody > tr"
-    );
-    const $singlesFallback3 = document.querySelectorAll(
-      "#mw-content-text > div > table:nth-child(5) > tbody > tr:nth-child(2) > td > table > tbody > tr"
-    );
-    const $singlesFallback4 = document.querySelectorAll(
-      "#mw-content-text > div > table:nth-child(6) > tbody > tr:nth-child(2) > td > table > tbody > tr"
-    );
-
     const $albumsFallback0 = document.querySelectorAll(
       "#mw-content-text > div > table:nth-child(3) > tbody > tr:nth-child(2) > td:nth-child(2) > ul > li"
     );
     const $albumsFallback1 = document.querySelectorAll(
       "#mw-content-text > div > table > tbody > tr:nth-child(2) > td:nth-child(2) > ul > li"
     );
-    const $albumsFallback2 = document.querySelectorAll(
-      "#mw-content-text > div > table:nth-child(8) > tbody > tr:nth-child(2) > td > table > tbody > tr"
-    );
-    const $albumsFallback3 = document.querySelectorAll(
-      "#mw-content-text > div > table:nth-child(7) > tbody > tr:nth-child(2) > td > table > tbody > tr"
-    );
-    const $albumsFallback4 = document.querySelectorAll(
-      "#mw-content-text > div > table:nth-child(6) > tbody > tr:nth-child(2) > td > table > tbody > tr"
-    );
+    const $tableSelector = tableNumber =>
+      document.querySelectorAll(
+        `#mw-content-text > div > table:nth-child(${tableNumber}) > tbody > tr:nth-child(2) > td > table > tbody > tr`
+      );
 
     const singleFilter = $firstElement =>
       /^Singles/.test(
@@ -79,16 +64,12 @@ async function crawl(year) {
     const selectedSingles = [
       { list: $singlesFallback0, by: infoFromLi, extraFilter: () => true },
       { list: $singlesFallback1, by: infoFromLi, extraFilter: () => true },
-      { list: $singlesFallback2, by: infoFromTable, extraFilter: singleFilter },
-      { list: $singlesFallback3, by: infoFromTable, extraFilter: singleFilter },
-      { list: $singlesFallback4, by: infoFromTable, extraFilter: singleFilter }
+      ...[3, 4, 5, 6, 7, 8].map($tableSelector).map(list => ({ list, by: infoFromTable, extraFilter: singleFilter }))
     ].find(x => x.list.length > 0 && x.extraFilter(x.list[0]));
     const selectedAlbums = [
       { list: $albumsFallback0, by: infoFromLi, extraFilter: () => true },
       { list: $albumsFallback1, by: infoFromLi, extraFilter: () => true },
-      { list: $albumsFallback2, by: infoFromTable, extraFilter: albumFilter },
-      { list: $albumsFallback3, by: infoFromTable, extraFilter: albumFilter },
-      { list: $albumsFallback4, by: infoFromTable, extraFilter: albumFilter }
+      ...[6, 7, 8, 9, 10].map($tableSelector).map(list => ({ list, by: infoFromTable, extraFilter: albumFilter }))
     ].find(x => x.list.length > 0 && x.extraFilter(x.list[0]));
 
     const singles = selectedSingles ? [].map.call(selectedSingles.list, selectedSingles.by) : [];
