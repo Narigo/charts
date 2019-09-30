@@ -62,34 +62,21 @@ function fixDurations(json) {
   }
 
   function monthInNumber(month) {
-    switch (month) {
-      case "Januar":
-        return 1;
-      case "Februar":
-        return 2;
-      case "März":
-        return 3;
-      case "April":
-        return 4;
-      case "Mai":
-        return 5;
-      case "Juni":
-        return 6;
-      case "Juli":
-        return 7;
-      case "August":
-        return 8;
-      case "September":
-        return 9;
-      case "Oktober":
-        return 10;
-      case "November":
-        return 11;
-      case "Dezember":
-        return 12;
-      default:
-        console.error("Wrong month!", month);
-        throw new Error("Should be able to catch all months.");
-    }
+    return (
+      [
+        "Januar",
+        "Februar",
+        "März",
+        "April",
+        "Mai",
+        "Juni",
+        "Juli",
+        "August",
+        "September",
+        "Oktober",
+        "November",
+        "Dezember"
+      ].findIndex(m => month === m) + 1
+    );
   }
 }
