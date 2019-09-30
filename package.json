@@ -8,6 +8,7 @@
   },
   "scripts": {
     "build": "node into-charts.js",
+    "crawl": "node crawler.js 1953 $(date +'%Y')",
     "format": "prettier --write '*.js' && prettier --write 'results/*.json'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
