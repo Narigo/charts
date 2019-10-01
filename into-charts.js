@@ -62,21 +62,26 @@ function fixDurations(json) {
   }
 
   function monthInNumber(month) {
-    return (
-      [
-        "Januar",
-        "Februar",
-        "März",
-        "April",
-        "Mai",
-        "Juni",
-        "Juli",
-        "August",
-        "September",
-        "Oktober",
-        "November",
-        "Dezember"
-      ].findIndex(m => month === m) + 1
-    );
+    const months = [
+      "Januar",
+      "Februar",
+      "März",
+      "April",
+      "Mai",
+      "Juni",
+      "Juli",
+      "August",
+      "September",
+      "Oktober",
+      "November",
+      "Dezember"
+    ];
+    const monthIndex = months.findIndex(m => month === m);
+
+    if (monthIndex < 0) {
+      throw new Error(`Could not find month: ${month}`);
+    }
+
+    return monthIndex + 1;
   }
 }
