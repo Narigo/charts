@@ -24,68 +24,68 @@ function onChange(e) {
   $result.innerHTML = "";
   $result.appendChild($singles);
   $result.appendChild($albums);
+}
 
-  function getHit(date, listOfHits) {
-    return listOfHits.find(hit => hit.duration.from <= date && date <= hit.duration.to);
-  }
+function getHit(date, listOfHits) {
+  return listOfHits.find(hit => hit.duration.from <= date && date <= hit.duration.to);
+}
 
-  function createMissing(singleOrAlbum) {
-    const $missing = document.createElement("div");
-    const $header = document.createElement("div");
-    const $title = document.createElement("div");
+function createMissing(singleOrAlbum) {
+  const $missing = document.createElement("div");
+  const $header = document.createElement("div");
+  const $title = document.createElement("div");
 
-    $header.appendChild(document.createTextNode(`Missing ${singleOrAlbum}`));
-    $title.appendChild(document.createTextNode(`Sorry, no ${singleOrAlbum} found!`));
+  $header.appendChild(document.createTextNode(`Missing ${singleOrAlbum}`));
+  $title.appendChild(document.createTextNode(`Sorry, no ${singleOrAlbum} found!`));
 
-    $header.classList.add("header");
-    $title.classList.add("title");
+  $header.classList.add("header");
+  $title.classList.add("title");
 
-    $missing.appendChild($header);
-    $missing.appendChild($title);
-    $missing.classList.add(singleOrAlbum);
+  $missing.appendChild($header);
+  $missing.appendChild($title);
+  $missing.classList.add(singleOrAlbum);
 
-    return $missing;
-  }
+  return $missing;
+}
 
-  function createSingleOrAlbum(header, singleOrAlbum, hit) {
-    const $singleOrAlbum = document.createElement("div");
-    const $header = document.createElement("div");
-    const $interpret = document.createElement("div");
-    const $title = document.createElement("div");
-    const $durationFrom = document.createElement("span");
-    const $durationUntil = document.createElement("span");
-    const $duration = document.createElement("div");
+function createSingleOrAlbum(header, singleOrAlbum, hit) {
+  const $singleOrAlbum = document.createElement("div");
+  const $header = document.createElement("div");
+  const $interpret = document.createElement("div");
+  const $title = document.createElement("div");
+  const $durationFrom = document.createElement("span");
+  const $durationUntil = document.createElement("span");
+  const $duration = document.createElement("div");
 
-    $header.appendChild(document.createTextNode(header));
-    $interpret.appendChild(document.createTextNode(hit.interpret));
-    $title.appendChild(document.createTextNode(hit.title));
-    $durationFrom.appendChild(document.createTextNode(durationToTime(hit.duration.from)));
-    $durationUntil.appendChild(document.createTextNode(durationToTime(hit.duration.to)));
+  $header.appendChild(document.createTextNode(header));
+  $interpret.appendChild(document.createTextNode(hit.interpret));
+  $title.appendChild(document.createTextNode(hit.title));
+  $durationFrom.appendChild(document.createTextNode(durationToTime(hit.duration.from)));
+  $durationUntil.appendChild(document.createTextNode(durationToTime(hit.duration.to)));
 
-    $header.classList.add("header");
-    $interpret.classList.add("interpret");
-    $title.classList.add("title");
-    $durationFrom.classList.add("durationFrom");
-    $durationUntil.classList.add("durationUntil");
-    $duration.classList.add("duration");
+  $header.classList.add("header");
+  $interpret.classList.add("interpret");
+  $title.classList.add("title");
+  $durationFrom.classList.add("durationFrom");
+  $durationUntil.classList.add("durationUntil");
+  $duration.classList.add("duration");
 
-    $duration.appendChild($durationFrom);
-    $duration.appendChild(document.createTextNode(" bis "));
-    $duration.appendChild($durationUntil);
+  $duration.appendChild($durationFrom);
+  $duration.appendChild(document.createTextNode(" bis "));
+  $duration.appendChild($durationUntil);
 
-    $singleOrAlbum.appendChild($header);
-    $singleOrAlbum.appendChild($title);
-    $singleOrAlbum.appendChild($interpret);
-    $singleOrAlbum.appendChild($duration);
-    $singleOrAlbum.classList.add(singleOrAlbum);
+  $singleOrAlbum.appendChild($header);
+  $singleOrAlbum.appendChild($title);
+  $singleOrAlbum.appendChild($interpret);
+  $singleOrAlbum.appendChild($duration);
+  $singleOrAlbum.classList.add(singleOrAlbum);
 
-    return $singleOrAlbum;
-  }
+  return $singleOrAlbum;
+}
 
-  function durationToTime(date) {
-    const year = date.substring(0, 4);
-    const month = date.substring(5, 7);
-    const day = date.substring(8);
-    return `${day}.${month}.${year}`;
-  }
+function durationToTime(date) {
+  const year = date.substring(0, 4);
+  const month = date.substring(5, 7);
+  const day = date.substring(8);
+  return `${day}.${month}.${year}`;
 }
