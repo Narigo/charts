@@ -35,8 +35,8 @@ function createMissing(singleOrAlbum) {
   const $header = document.createElement("div");
   const $title = document.createElement("div");
 
-  $header.appendChild(document.createTextNode(`Missing ${singleOrAlbum}`));
-  $title.appendChild(document.createTextNode(`Sorry, no ${singleOrAlbum} found!`));
+  $header.appendChild(document.createTextNode(`Keine ${singleOrAlbum}`));
+  $title.appendChild(document.createTextNode(`Sorry, es wurde kein ${singleOrAlbum} gefunden!`));
 
   $header.classList.add("header");
   $title.classList.add("title");
