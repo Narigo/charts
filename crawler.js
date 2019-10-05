@@ -4,10 +4,7 @@ const puppeteer = require("puppeteer");
 const yearFrom = process.argv[2];
 const yearTo = process.argv[3];
 
-const years = [];
-for (let i = yearFrom; i <= yearTo; i++) {
-  years.push(i);
-}
+const years = getYearsAsArray(yearFrom, yearTo);
 
 return years
   .reduce(async (acc, year) => {
@@ -105,4 +102,12 @@ async function crawl(year) {
   await browser.close();
 
   return result;
+}
+
+function getYearsAsArray(yearFrom, yearTo) {
+  const years = [];
+  for (let i = yearFrom; i <= yearTo; i++) {
+    years.push(i);
+  }
+  return years;
 }
