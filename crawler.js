@@ -104,7 +104,7 @@ async function crawl(year) {
   return result;
 }
 
-function getYearsAsArray(yearFrom, yearTo) {
+function getYearsAsArray(yearFrom = 1953, yearTo = new Date().getUTCFullYear) {
   const years = [];
   for (let i = yearFrom; i <= yearTo; i++) {
     years.push(i);
