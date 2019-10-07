@@ -11,6 +11,7 @@ async function run() {
   const writeFile = promisify(fs.writeFile);
   const resultsDir = `${__dirname}/results`;
   const chartsFile = `${__dirname}/docs/charts.js`;
+  const chartsFilePerYear = year => `${__dirname}/docs/charts/${year}.js`;
 
   const files = await readdir(resultsDir);
   const result = await files
@@ -28,6 +29,11 @@ async function run() {
   const resultJson = JSON.stringify(result);
   await writeFile(`${resultsDir}/result.json`, resultJson);
   await writeFile(`${chartsFile}`, `export default ${resultJson};`);
+
+  Object.keys(result).forEach(async year => {
+    const resultJson = JSON.stringify(result[year]);
+    await writeFile(`${chartsFilePerYear(year)}`, `export default ${resultJson};`);
+  });
 }
 
 function fixDurations(json) {
