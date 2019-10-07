@@ -1,4 +1,4 @@
-import charts from "./charts.js";
+const charts = {};
 
 const $yearSelect = document.querySelector("select[name=year]");
 const $monthSelect = document.querySelector("select[name=month]");
@@ -9,11 +9,15 @@ $yearSelect.addEventListener("change", onChange);
 $monthSelect.addEventListener("change", onChange);
 $daySelect.addEventListener("change", onChange);
 
-function onChange(e) {
+async function onChange() {
   const year = $yearSelect.value;
   const month = $monthSelect.value;
   const day = $daySelect.value;
   const date = `${year}-${month}-${day}`;
+
+  if (!charts[year]) {
+    charts[year] = (await import(`./charts/${year}.js`)).default;
+  }
 
   const hitSingle = getHit(date, charts[year].singles);
   const hitAlbum = getHit(date, charts[year].albums);
