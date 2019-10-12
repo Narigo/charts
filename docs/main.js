@@ -9,6 +9,18 @@ $yearSelect.addEventListener("change", onChange);
 $monthSelect.addEventListener("change", onChange);
 $daySelect.addEventListener("change", onChange);
 
+createOptionsForSelect($yearSelect, 1953, 2019);
+
+function createOptionsForSelect($select, from, to) {
+  [...$select.children].forEach(child => child.remove());
+  new Array(to - from + 1).fill(1).forEach((_, idx) => {
+    const $option = document.createElement("option");
+    $option.value = from + idx;
+    $option.innerText = from + idx;
+    $select.appendChild($option);
+  });
+}
+
 async function onChange() {
   const year = $yearSelect.value;
   const month = $monthSelect.value;
