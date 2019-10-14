@@ -11,12 +11,18 @@ $daySelect.addEventListener("change", onChange);
 
 createOptionsForSelect($yearSelect, 1953, 2019);
 
+function range(from, to) {
+  return new Array(Math.abs(to - from) + 1).fill(1).map((_, idx) => {
+    return from + idx;
+  });
+}
+
 function createOptionsForSelect($select, from, to) {
   [...$select.children].forEach(child => child.remove());
-  new Array(to - from + 1).fill(1).forEach((_, idx) => {
+  range(from, to).map(num => {
     const $option = document.createElement("option");
-    $option.value = from + idx;
-    $option.innerText = from + idx;
+    $option.value = num;
+    $option.innerText = num;
     $select.appendChild($option);
   });
 }
