@@ -11,6 +11,10 @@ $daySelect.addEventListener("change", onChange);
 
 createOptionsForSelect($yearSelect, 1953, 2019);
 
+function getAmountOfDaysInMonth(year, month) {
+  return new Date(year, month, 0).getDate();
+}
+
 function range(from, to) {
   return new Array(Math.abs(to - from) + 1).fill(1).map((_, idx) => {
     return from + idx;
@@ -30,7 +34,12 @@ function createOptionsForSelect($select, from, to) {
 async function onChange() {
   const year = $yearSelect.value;
   const month = $monthSelect.value;
-  const day = $daySelect.value;
+  const daysInMonth = getAmountOfDaysInMonth(year, month);
+  const day = Math.min($daySelect.value, daysInMonth);
+
+  createOptionsForSelect($daySelect, 1, daysInMonth);
+  $daySelect.value = day;
+
   const date = `${year}-${month}-${day}`;
 
   if (!charts[year]) {
