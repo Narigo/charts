@@ -10,12 +10,14 @@
     "build": "node into-charts.js && npm run format",
     "crawl": "node crawler.js 1953 $(date +'%Y')",
     "format": "prettier --write '*.js' && prettier --write 'results/*.json' && prettier --write 'docs/**/*.js'",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "eslint --max-warnings=0 '**/*.js'"
   },
   "keywords": [],
   "author": "Joern Bernhardt <joern.bernhardt@googlemail.com> (http://www.unreleased.de)",
   "license": "MIT",
   "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.5.1",
     "prettier": "^1.18.2",
     "puppeteer": "^1.20.0"
   }

@@ -3,15 +3,15 @@ const { promisify } = require("util");
 
 const DURATION_MATCHER = /\(?(?<dayFrom>\d+)\.?\s(?<monthFrom>[a-zä]+)(?:\s(?<yearFrom>\d+))?(?:\s[–-]\s|\sund\s|:\s)(?<dayTo>\d+)\.\s(?<monthTo>[a-zä]+)(?:\s(?<yearTo>\d+))?/i;
 
-return run().catch(e => console.error("Error!", e));
+run().catch(e => console.error("Error!", e));
 
 async function run() {
   const readdir = promisify(fs.readdir);
   const readFile = promisify(fs.readFile);
   const writeFile = promisify(fs.writeFile);
-  const resultsDir = `${__dirname}/results`;
-  const chartsFile = `${__dirname}/docs/charts.js`;
-  const chartsFilePerYear = year => `${__dirname}/docs/charts/${year}.js`;
+  const resultsDir = `${__dirname}/../results`;
+  const chartsFile = `${__dirname}/../docs/charts.js`;
+  const chartsFilePerYear = year => `${__dirname}/../docs/charts/${year}.js`;
 
   const files = await readdir(resultsDir);
   const result = await files

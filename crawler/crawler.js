@@ -6,7 +6,7 @@ const yearTo = process.argv[3];
 
 const years = getYearsAsArray(yearFrom, yearTo);
 
-return years
+years
   .reduce(async (acc, year) => {
     const result = await acc;
     const crawled = await crawl(year);
@@ -20,7 +20,7 @@ return years
     return result;
   }, {})
   .then(async all => {
-    promisify(fs.writeFile)(`results/result-${yearFrom}-${yearTo}.json`, JSON.stringify(all));
+    promisify(fs.writeFile)(`../results/result-${yearFrom}-${yearTo}.json`, JSON.stringify(all));
   });
 
 async function crawl(year) {
@@ -32,6 +32,8 @@ async function crawl(year) {
   });
 
   const result = await page.evaluate(() => {
+    /* eslint-env browser */
+
     const $singlesFallback0 = document.querySelectorAll(
       "#mw-content-text > div > table > tbody > tr:nth-child(2) > td > ul > li"
     );

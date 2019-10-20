@@ -42,9 +42,7 @@ async function onChange() {
 
   const date = `${year}-${month}-${day}`;
 
-  if (!charts[year]) {
-    charts[year] = (await import(`./charts/${year}.js`)).default;
-  }
+  charts[year] = (await import(`./charts/${year}.js`)).default;
 
   const hitSingle = getHit(date, charts[year].singles);
   const hitAlbum = getHit(date, charts[year].albums);
