@@ -8,7 +8,7 @@
   "overrides": [
     {
       "files": [
-        "crawler/*.js"
+        "crawler/**/*.js"
       ],
       "env": {
         "es6": true,
@@ -17,12 +17,20 @@
     },
     {
       "files": [
-        "docs/*.js"
+        "docs/**/*.spec.js"
+      ],
+      "env": {
+        "jest": true
+      }
+    },
+    {
+      "files": [
+        "docs/**/*.js"
       ],
       "env": {
         "browser": true
       }
-    }
+    },
   ],
   "parser": "babel-eslint",
   "parserOptions": {
