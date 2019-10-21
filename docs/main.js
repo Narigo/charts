@@ -1,3 +1,5 @@
+import getAmountOfDaysInMonth from "./scripts/get-amount-of-days-in-month.js";
+
 const charts = {};
 
 const $yearSelect = document.querySelector("select[name=year]");
@@ -10,10 +12,6 @@ $monthSelect.addEventListener("change", onChange);
 $daySelect.addEventListener("change", onChange);
 
 createOptionsForSelect($yearSelect, 1953, 2019);
-
-function getAmountOfDaysInMonth(year, month) {
-  return new Date(year, month, 0).getDate();
-}
 
 function range(from, to) {
   return new Array(Math.abs(to - from) + 1).fill(1).map((_, idx) => {
