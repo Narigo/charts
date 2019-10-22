@@ -18,6 +18,7 @@
   "author": "Joern Bernhardt <joern.bernhardt@googlemail.com> (http://www.unreleased.de)",
   "license": "MIT",
   "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.6.0",
     "babel-eslint": "^10.0.3",
     "eslint": "^6.5.1",
     "jest": "^24.9.0",
