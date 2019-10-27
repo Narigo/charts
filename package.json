@@ -7,8 +7,8 @@
     "doc": "docs"
   },
   "scripts": {
-    "build": "node into-charts.js && npm run format",
-    "crawl": "node crawler.js 1953 $(date +'%Y')",
+    "build": "node crawler/into-charts.js && npm run format",
+    "crawl": "node crawler/crawler.js 1953 $(date +'%Y')",
     "format": "prettier --write '*.js' && prettier --write 'results/*.json' && prettier --write 'docs/**/*.js'",
     "test": "npm run test:unit && npm run test:lint",
     "test:unit": "jest",
@@ -23,6 +23,6 @@
     "eslint": "^6.6.0",
     "jest": "^24.9.0",
     "prettier": "^1.18.2",
-    "puppeteer": "^1.20.0"
+    "puppeteer": "^2.0.0"
   }
 }

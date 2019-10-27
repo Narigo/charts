@@ -8353,7 +8353,17 @@
       {
         "interpret": "Capital Bra, Samra & Lea",
         "title": "110\nVladislav Balovatsky, Hussein Akkouche, Vincent Stein, Konstantin Scherer, Lea-Marie Becker, Robin Haefs, Wim Treuner",
-        "duration": "27. September 2019 – 3. Oktober 2019\n1 Woche"
+        "duration": "27. September 2019 – 10. Oktober 2019\n2 Wochen"
+      },
+      {
+        "interpret": "Tones and I",
+        "title": "Dance Monkey\nToni Watson",
+        "duration": "11. Oktober 2019 – 24. Oktober 2019\n2 Wochen"
+      },
+      {
+        "interpret": "Apache 207",
+        "title": "Wieso tust du dir das an?\nVolkan Yaman, Joshua Allery, Laurin Auth",
+        "duration": "25. Oktober 2019 – 31. Oktober 2019\n1 Woche"
       }
     ],
     "albums": [
@@ -8443,7 +8453,19 @@
         "title": "Best of Volks-Rock‘n’Roller",
         "duration": "20. September 2019 – 26. September 2019\n1 Woche"
       },
-      { "interpret": "Shirin David", "title": "Supersize", "duration": "27. September 2019 – 3. Oktober 2019\n1 Woche" }
+      {
+        "interpret": "Shirin David",
+        "title": "Supersize",
+        "duration": "27. September 2019 – 3. Oktober 2019\n1 Woche"
+      },
+      { "interpret": "Sido", "title": "Ich & keine Maske", "duration": "4. Oktober 2019 – 10. Oktober 2019\n1 Woche" },
+      {
+        "interpret": "Capital Bra & Samra",
+        "title": "Berlin lebt 2",
+        "duration": "11. Oktober 2019 – 17. Oktober 2019\n1 Woche"
+      },
+      { "interpret": "Kummer", "title": "KIOX", "duration": "18. Oktober 2019 – 24. Oktober 2019\n1 Woche" },
+      { "interpret": "Santiano", "title": "MTV Unplugged", "duration": "25. Oktober 2019 – 31. Oktober 2019\n1 Woche" }
     ]
   }
 }

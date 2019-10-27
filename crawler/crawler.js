@@ -1,8 +1,10 @@
 const fs = require("fs");
+const path = require("path");
 const { promisify } = require("util");
 const puppeteer = require("puppeteer");
 const yearFrom = process.argv[2];
 const yearTo = process.argv[3];
+const resultFile = path.resolve(`${__dirname}/../results/result-${yearFrom}-${yearTo}.json`);
 
 const years = getYearsAsArray(yearFrom, yearTo);
 
@@ -20,7 +22,7 @@ years
     return result;
   }, {})
   .then(async all => {
-    promisify(fs.writeFile)(`../results/result-${yearFrom}-${yearTo}.json`, JSON.stringify(all));
+    promisify(fs.writeFile)(resultFile, JSON.stringify(all));
   });
 
 async function crawl(year) {
