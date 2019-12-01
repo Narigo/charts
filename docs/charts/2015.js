@@ -60,8 +60,7 @@ export default {
     },
     {
       interpret: "Sido feat. Andreas Bourani",
-      title:
-        "Astronaut\nMusik: Paul Neumann, Marek Pompetzki, Cecil Remmler; Text: Andreas Bourani, Simon Müller-Lerch, Paul Würdig[2]",
+      title: "Astronaut\nMusik: FNSHRS.; Text: Andreas Bourani, Simon Müller-Lerch, Paul Würdig[2]",
       duration: { from: "2015-08-14", to: "2015-08-20" }
     },
     {
@@ -82,8 +81,7 @@ export default {
     },
     {
       interpret: "Sido feat. Andreas Bourani",
-      title:
-        "Astronaut\nMusik: Paul Neumann, Marek Pompetzk, Cecil Remmler; Text: Andreas Bourani, Simon Müller-Lerch, Paul Würdig",
+      title: "Astronaut\nMusik: FNSHRS.; Text: Andreas Bourani, Simon Müller-Lerch, Paul Würdig",
       duration: { from: "2015-09-18", to: "2015-10-29" }
     },
     {

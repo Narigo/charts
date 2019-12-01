@@ -17,7 +17,7 @@ export default {
     },
     {
       interpret: "Mero",
-      title: "Hobby Hobby\nEnes Meral, Josh Petruccio",
+      title: "Hobby Hobby\nMusik: Josh Petruccio; Text: Enes Meral",
       duration: { from: "2019-01-25", to: "2019-01-31" }
     },
     {
@@ -27,7 +27,7 @@ export default {
     },
     {
       interpret: "Eno feat. Mero",
-      title: "Ferrari\nEnsar Albayrak, Adulis Ghebreyesus, Gökhan Güler, Enes Meral",
+      title: "Ferrari\nMusik: Adulis Ghebreyesus, Gökhan Güler; Text: Ensar Albayrak, Enes Meral",
       duration: { from: "2019-02-15", to: "2019-02-21" }
     },
     {
@@ -37,10 +37,14 @@ export default {
     },
     {
       interpret: "Shirin David",
-      title: "Gib ihm\nShirin David, Chima Ede, Marek Pompetzki, Paul NZA, Cecil Remmler",
+      title: "Gib ihm\nShirin David, Chima Ede, FNSHRS.",
       duration: { from: "2019-03-01", to: "2019-03-14" }
     },
-    { interpret: "Mero", title: "Wolke 10\nEnes Meral, E.M Beats", duration: { from: "2019-03-15", to: "2019-03-21" } },
+    {
+      interpret: "Mero",
+      title: "Wolke 10\nMusik: Emirhan Öcal; Text: Enes Meral",
+      duration: { from: "2019-03-15", to: "2019-03-21" }
+    },
     {
       interpret: "Capital Bra & Samra",
       title: "Wir ticken\nVladislav Balovatsky, Hussein Akkouche, Konstantin Scherer, Vincent Stein",
@@ -152,7 +156,8 @@ export default {
       interpret: "Apache 207",
       title: "Wieso tust du dir das an?\nVolkan Yaman, Joshua Allery, Laurin Auth",
       duration: { from: "2019-10-25", to: "2019-10-31" }
-    }
+    },
+    { interpret: "Tones and I", title: "Dance Monkey\nToni Watson", duration: { from: "2019-11-01", to: "2019-12-05" } }
   ],
   albums: [
     {
@@ -225,6 +230,11 @@ export default {
     { interpret: "Sido", title: "Ich & keine Maske", duration: { from: "2019-10-04", to: "2019-10-10" } },
     { interpret: "Capital Bra & Samra", title: "Berlin lebt 2", duration: { from: "2019-10-11", to: "2019-10-17" } },
     { interpret: "Kummer", title: "KIOX", duration: { from: "2019-10-18", to: "2019-10-24" } },
-    { interpret: "Santiano", title: "MTV Unplugged", duration: { from: "2019-10-25", to: "2019-10-31" } }
+    { interpret: "Santiano", title: "MTV Unplugged", duration: { from: "2019-10-25", to: "2019-10-31" } },
+    { interpret: "Die Toten Hosen", title: "Alles ohne Strom", duration: { from: "2019-11-01", to: "2019-11-07" } },
+    { interpret: "RAF Camora", title: "Zenit", duration: { from: "2019-11-08", to: "2019-11-14" } },
+    { interpret: "Johannes Oerding", title: "Konturen", duration: { from: "2019-11-15", to: "2019-11-21" } },
+    { interpret: "Silbermond", title: "Schritte", duration: { from: "2019-11-22", to: "2019-11-28" } },
+    { interpret: "Lindemann", title: "F & M", duration: { from: "2019-11-29", to: "2019-12-05" } }
   ]
 };

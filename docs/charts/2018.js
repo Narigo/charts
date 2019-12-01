@@ -66,7 +66,7 @@ export default {
     {
       interpret: "Namika feat. Black M",
       title:
-        "Je ne parle pas français (Beatgees Remix)\nHanan Hamdi, Simon Müller-Lerch, Simon Triebel, [[Beatgees|Philip Böllhoff, Sipho Sililo, David Vogt, Hannes Büscher]], Alpha Diallo",
+        "Je ne parle pas français (Beatgees Remix)\nHanan Hamdi, Simon Müller-Lerch, Simon Triebel, Philip Böllhoff, Sipho Sililo, David Vogt, Hannes Büscher, Alpha Diallo",
       duration: { from: "2018-06-22", to: "2018-07-05" }
     },
     {

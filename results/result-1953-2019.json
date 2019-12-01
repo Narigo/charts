@@ -4347,7 +4347,7 @@
       },
       {
         "interpret": "Céline Dion",
-        "title": "All the Way – A Decade of Song",
+        "title": "All the Way... A Decade of Song",
         "duration": "29. November 1999 – 5. Dezember 1999\n1 Woche"
       },
       { "interpret": "Metallica", "title": "S&M", "duration": "6. Dezember 1999 – 12. Dezember 1999\n1 Woche" },
@@ -7343,7 +7343,7 @@
       },
       {
         "interpret": "Sido feat. Andreas Bourani",
-        "title": "Astronaut\nMusik: Paul Neumann, Marek Pompetzki, Cecil Remmler; Text: Andreas Bourani, Simon Müller-Lerch, Paul Würdig[2]",
+        "title": "Astronaut\nMusik: FNSHRS.; Text: Andreas Bourani, Simon Müller-Lerch, Paul Würdig[2]",
         "duration": "14. August 2015 – 20. August 2015\n1 Woche"
       },
       {
@@ -7363,7 +7363,7 @@
       },
       {
         "interpret": "Sido feat. Andreas Bourani",
-        "title": "Astronaut\nMusik: Paul Neumann, Marek Pompetzk, Cecil Remmler; Text: Andreas Bourani, Simon Müller-Lerch, Paul Würdig",
+        "title": "Astronaut\nMusik: FNSHRS.; Text: Andreas Bourani, Simon Müller-Lerch, Paul Würdig",
         "duration": "18. September 2015 – 29. Oktober 2015\n6 Wochen"
       },
       {
@@ -7985,7 +7985,7 @@
       },
       {
         "interpret": "Namika feat. Black M",
-        "title": "Je ne parle pas français (Beatgees Remix)\nHanan Hamdi, Simon Müller-Lerch, Simon Triebel, [[Beatgees|Philip Böllhoff, Sipho Sililo, David Vogt, Hannes Büscher]], Alpha Diallo",
+        "title": "Je ne parle pas français (Beatgees Remix)\nHanan Hamdi, Simon Müller-Lerch, Simon Triebel, Philip Böllhoff, Sipho Sililo, David Vogt, Hannes Büscher, Alpha Diallo",
         "duration": "22. Juni 2018 – 5. Juli 2018\n2 Wochen"
       },
       {
@@ -8232,7 +8232,7 @@
       },
       {
         "interpret": "Mero",
-        "title": "Hobby Hobby\nEnes Meral, Josh Petruccio",
+        "title": "Hobby Hobby\nMusik: Josh Petruccio; Text: Enes Meral",
         "duration": "25. Januar 2019 – 31. Januar 2019\n1 Woche"
       },
       {
@@ -8242,7 +8242,7 @@
       },
       {
         "interpret": "Eno feat. Mero",
-        "title": "Ferrari\nEnsar Albayrak, Adulis Ghebreyesus, Gökhan Güler, Enes Meral",
+        "title": "Ferrari\nMusik: Adulis Ghebreyesus, Gökhan Güler; Text: Ensar Albayrak, Enes Meral",
         "duration": "15. Februar 2019 – 21. Februar 2019\n1 Woche"
       },
       {
@@ -8252,12 +8252,12 @@
       },
       {
         "interpret": "Shirin David",
-        "title": "Gib ihm\nShirin David, Chima Ede, Marek Pompetzki, Paul NZA, Cecil Remmler",
+        "title": "Gib ihm\nShirin David, Chima Ede, FNSHRS.",
         "duration": "1. März 2019 – 14. März 2019\n2 Wochen"
       },
       {
         "interpret": "Mero",
-        "title": "Wolke 10\nEnes Meral, E.M Beats",
+        "title": "Wolke 10\nMusik: Emirhan Öcal; Text: Enes Meral",
         "duration": "15. März 2019 – 21. März 2019\n1 Woche"
       },
       {
@@ -8364,6 +8364,11 @@
         "interpret": "Apache 207",
         "title": "Wieso tust du dir das an?\nVolkan Yaman, Joshua Allery, Laurin Auth",
         "duration": "25. Oktober 2019 – 31. Oktober 2019\n1 Woche"
+      },
+      {
+        "interpret": "Tones and I",
+        "title": "Dance Monkey\nToni Watson",
+        "duration": "1. November 2019 – 5. Dezember 2019\n5 Wochen"
       }
     ],
     "albums": [
@@ -8465,7 +8470,20 @@
         "duration": "11. Oktober 2019 – 17. Oktober 2019\n1 Woche"
       },
       { "interpret": "Kummer", "title": "KIOX", "duration": "18. Oktober 2019 – 24. Oktober 2019\n1 Woche" },
-      { "interpret": "Santiano", "title": "MTV Unplugged", "duration": "25. Oktober 2019 – 31. Oktober 2019\n1 Woche" }
+      { "interpret": "Santiano", "title": "MTV Unplugged", "duration": "25. Oktober 2019 – 31. Oktober 2019\n1 Woche" },
+      {
+        "interpret": "Die Toten Hosen",
+        "title": "Alles ohne Strom",
+        "duration": "1. November 2019 – 7. November 2019\n1 Woche"
+      },
+      { "interpret": "RAF Camora", "title": "Zenit", "duration": "8. November 2019 – 14. November 2019\n1 Woche" },
+      {
+        "interpret": "Johannes Oerding",
+        "title": "Konturen",
+        "duration": "15. November 2019 – 21. November 2019\n1 Woche"
+      },
+      { "interpret": "Silbermond", "title": "Schritte", "duration": "22. November 2019 – 28. November 2019\n1 Woche" },
+      { "interpret": "Lindemann", "title": "F & M", "duration": "29. November 2019 – 5. Dezember 2019\n1 Woche" }
     ]
   }
 }

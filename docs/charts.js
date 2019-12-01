@@ -3360,7 +3360,7 @@ export default {
       { interpret: "Cher", title: "The Greatest Hits", duration: { from: "1999-11-22", to: "1999-11-28" } },
       {
         interpret: "Céline Dion",
-        title: "All the Way – A Decade of Song",
+        title: "All the Way... A Decade of Song",
         duration: { from: "1999-11-29", to: "1999-12-05" }
       },
       { interpret: "Metallica", title: "S&M", duration: { from: "1999-12-06", to: "1999-12-12" } },
@@ -5788,8 +5788,7 @@ export default {
       },
       {
         interpret: "Sido feat. Andreas Bourani",
-        title:
-          "Astronaut\nMusik: Paul Neumann, Marek Pompetzki, Cecil Remmler; Text: Andreas Bourani, Simon Müller-Lerch, Paul Würdig[2]",
+        title: "Astronaut\nMusik: FNSHRS.; Text: Andreas Bourani, Simon Müller-Lerch, Paul Würdig[2]",
         duration: { from: "2015-08-14", to: "2015-08-20" }
       },
       {
@@ -5810,8 +5809,7 @@ export default {
       },
       {
         interpret: "Sido feat. Andreas Bourani",
-        title:
-          "Astronaut\nMusik: Paul Neumann, Marek Pompetzk, Cecil Remmler; Text: Andreas Bourani, Simon Müller-Lerch, Paul Würdig",
+        title: "Astronaut\nMusik: FNSHRS.; Text: Andreas Bourani, Simon Müller-Lerch, Paul Würdig",
         duration: { from: "2015-09-18", to: "2015-10-29" }
       },
       {
@@ -6278,7 +6276,7 @@ export default {
       {
         interpret: "Namika feat. Black M",
         title:
-          "Je ne parle pas français (Beatgees Remix)\nHanan Hamdi, Simon Müller-Lerch, Simon Triebel, [[Beatgees|Philip Böllhoff, Sipho Sililo, David Vogt, Hannes Büscher]], Alpha Diallo",
+          "Je ne parle pas français (Beatgees Remix)\nHanan Hamdi, Simon Müller-Lerch, Simon Triebel, Philip Böllhoff, Sipho Sililo, David Vogt, Hannes Büscher, Alpha Diallo",
         duration: { from: "2018-06-22", to: "2018-07-05" }
       },
       {
@@ -6472,7 +6470,7 @@ export default {
       },
       {
         interpret: "Mero",
-        title: "Hobby Hobby\nEnes Meral, Josh Petruccio",
+        title: "Hobby Hobby\nMusik: Josh Petruccio; Text: Enes Meral",
         duration: { from: "2019-01-25", to: "2019-01-31" }
       },
       {
@@ -6482,7 +6480,7 @@ export default {
       },
       {
         interpret: "Eno feat. Mero",
-        title: "Ferrari\nEnsar Albayrak, Adulis Ghebreyesus, Gökhan Güler, Enes Meral",
+        title: "Ferrari\nMusik: Adulis Ghebreyesus, Gökhan Güler; Text: Ensar Albayrak, Enes Meral",
         duration: { from: "2019-02-15", to: "2019-02-21" }
       },
       {
@@ -6492,12 +6490,12 @@ export default {
       },
       {
         interpret: "Shirin David",
-        title: "Gib ihm\nShirin David, Chima Ede, Marek Pompetzki, Paul NZA, Cecil Remmler",
+        title: "Gib ihm\nShirin David, Chima Ede, FNSHRS.",
         duration: { from: "2019-03-01", to: "2019-03-14" }
       },
       {
         interpret: "Mero",
-        title: "Wolke 10\nEnes Meral, E.M Beats",
+        title: "Wolke 10\nMusik: Emirhan Öcal; Text: Enes Meral",
         duration: { from: "2019-03-15", to: "2019-03-21" }
       },
       {
@@ -6612,6 +6610,11 @@ export default {
         interpret: "Apache 207",
         title: "Wieso tust du dir das an?\nVolkan Yaman, Joshua Allery, Laurin Auth",
         duration: { from: "2019-10-25", to: "2019-10-31" }
+      },
+      {
+        interpret: "Tones and I",
+        title: "Dance Monkey\nToni Watson",
+        duration: { from: "2019-11-01", to: "2019-12-05" }
       }
     ],
     albums: [
@@ -6685,7 +6688,12 @@ export default {
       { interpret: "Sido", title: "Ich & keine Maske", duration: { from: "2019-10-04", to: "2019-10-10" } },
       { interpret: "Capital Bra & Samra", title: "Berlin lebt 2", duration: { from: "2019-10-11", to: "2019-10-17" } },
       { interpret: "Kummer", title: "KIOX", duration: { from: "2019-10-18", to: "2019-10-24" } },
-      { interpret: "Santiano", title: "MTV Unplugged", duration: { from: "2019-10-25", to: "2019-10-31" } }
+      { interpret: "Santiano", title: "MTV Unplugged", duration: { from: "2019-10-25", to: "2019-10-31" } },
+      { interpret: "Die Toten Hosen", title: "Alles ohne Strom", duration: { from: "2019-11-01", to: "2019-11-07" } },
+      { interpret: "RAF Camora", title: "Zenit", duration: { from: "2019-11-08", to: "2019-11-14" } },
+      { interpret: "Johannes Oerding", title: "Konturen", duration: { from: "2019-11-15", to: "2019-11-21" } },
+      { interpret: "Silbermond", title: "Schritte", duration: { from: "2019-11-22", to: "2019-11-28" } },
+      { interpret: "Lindemann", title: "F & M", duration: { from: "2019-11-29", to: "2019-12-05" } }
     ]
   }
 };

@@ -77,7 +77,7 @@ export default {
     { interpret: "Cher", title: "The Greatest Hits", duration: { from: "1999-11-22", to: "1999-11-28" } },
     {
       interpret: "Céline Dion",
-      title: "All the Way – A Decade of Song",
+      title: "All the Way... A Decade of Song",
       duration: { from: "1999-11-29", to: "1999-12-05" }
     },
     { interpret: "Metallica", title: "S&M", duration: { from: "1999-12-06", to: "1999-12-12" } },
