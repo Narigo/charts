@@ -20,8 +20,8 @@ function range(from, to) {
 }
 
 function createOptionsForSelect($select, from, to) {
-  [...$select.children].forEach(child => child.remove());
-  range(from, to).map(num => {
+  [...$select.children].forEach((child) => child.remove());
+  range(from, to).map((num) => {
     const $option = document.createElement("option");
     $option.value = num;
     $option.innerText = num;
@@ -54,7 +54,7 @@ async function onChange() {
 }
 
 function getHit(date, listOfHits) {
-  return listOfHits.find(hit => hit.duration.from <= date && date <= hit.duration.to);
+  return listOfHits.find((hit) => hit.duration.from <= date && date <= hit.duration.to);
 }
 
 function createMissing(singleOrAlbum) {

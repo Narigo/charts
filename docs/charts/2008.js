@@ -3,87 +3,87 @@ export default {
     {
       interpret: "Timbaland presents OneRepublic",
       title: "Apologize\nRyan B. Tedder",
-      duration: { from: "2007-11-23", to: "2008-01-24" }
+      duration: { from: "2007-11-23", to: "2008-01-24" },
     },
     {
       interpret: "Leona Lewis",
       title: "Bleeding Love\nRyan B. Tedder, Jesse McCartney",
-      duration: { from: "2008-01-25", to: "2008-02-21" }
+      duration: { from: "2008-01-25", to: "2008-02-21" },
     },
     {
       interpret: "Schnuffel",
       title: "Kuschel Song\nMusik: Markus Kreschmer, Tamara Erika Lücke; Text: Sebastian Nußbaum, Andreas Wendorf",
-      duration: { from: "2008-02-22", to: "2008-04-17" }
+      duration: { from: "2008-02-22", to: "2008-04-17" },
     },
     {
       interpret: "Duffy",
       title: "Mercy\nStephen Andrew Booker, Aimee Ann Duffy",
-      duration: { from: "2008-04-18", to: "2008-04-24" }
+      duration: { from: "2008-04-18", to: "2008-04-24" },
     },
     {
       interpret: "Madonna feat. Justin Timberlake & Timbaland",
       title: "4 Minutes\nFloyd Nathaniel Hills, Madonna Louise Ciccone, Timothy Z. Mosley, Justin R. Timberlake",
-      duration: { from: "2008-04-25", to: "2008-05-15" }
+      duration: { from: "2008-04-25", to: "2008-05-15" },
     },
     {
       interpret: "Mark Medlock",
       title: "Summer Love\nDieter Bohlen",
-      duration: { from: "2008-05-16", to: "2008-06-05" }
+      duration: { from: "2008-05-16", to: "2008-06-05" },
     },
     {
       interpret: "Thomas Godoj",
       title: "Love Is You\nChristoph Masbaum, Will Simms, Michelle Leonard, Roland Meyer de Voltaire",
-      duration: { from: "2008-06-06", to: "2008-06-19" }
+      duration: { from: "2008-06-06", to: "2008-06-19" },
     },
     {
       interpret: "Shaggy feat. Trix & Flix",
       title:
         "Feel the Rush (Mascots Song)\nKonrad Freiherr von Löhneysen, Orville Burrell, Samim Winiger, Luis Enrique Martínez Argote, Esteban Montaño Polo, Andres Paz Barros, Marc Fritsch, Andreas Litterscheidt, Reinhard Raith, Andre Oneil Fennell",
-      duration: { from: "2008-06-20", to: "2008-06-26" }
+      duration: { from: "2008-06-20", to: "2008-06-26" },
     },
     {
       interpret: "Kid Rock",
       title:
         "All Summer Long\nEdward C. King, Gary Robert Rossington, Ronnie Van Zant, Warren William Zevon, Robert T. Wachtel, Matthew L. Shafer, Robert J. Ritchie, Leroy P. Marinell",
-      duration: { from: "2008-06-27", to: "2008-08-21" }
+      duration: { from: "2008-06-27", to: "2008-08-21" },
     },
     {
       interpret: "Söhne Mannheims",
       title:
         "Das hat die Welt noch nicht gesehen\nMusik: Xavier Naidoo, Michael Herberger; Text: Xavier Naidoo, Tino Öchsler, James Marlon, Henning Wehland",
-      duration: { from: "2008-08-22", to: "2008-08-28" }
+      duration: { from: "2008-08-22", to: "2008-08-28" },
     },
     {
       interpret: "Katy Perry",
       title: "I Kissed a Girl\nMax Martin, Lukasz Gottwald, Katy Perry, Cathy Dennis",
-      duration: { from: "2008-08-29", to: "2008-09-11" }
+      duration: { from: "2008-08-29", to: "2008-09-11" },
     },
     {
       interpret: "Rosenstolz",
       title: "Gib mir Sonne\nPeter Plate, Ulf Leo Sommer",
-      duration: { from: "2008-09-12", to: "2008-09-18" }
+      duration: { from: "2008-09-12", to: "2008-09-18" },
     },
     {
       interpret: "Katy Perry",
       title: "I Kissed a Girl\nMax Martin, Lukasz Gottwald, Katy Perry, Cathy Dennis",
-      duration: { from: "2008-09-19", to: "2008-10-09" }
+      duration: { from: "2008-09-19", to: "2008-10-09" },
     },
     {
       interpret: "P!nk",
       title: "So What\nAlecia B. Moore, Max Martin, Johan Karl Schuster",
-      duration: { from: "2008-10-10", to: "2008-10-30" }
+      duration: { from: "2008-10-10", to: "2008-10-30" },
     },
     {
       interpret: "Polarkreis 18",
       title:
         "Allein Allein\nChristian Grochau, Philipp Makolies, Uwe Pasora, Felix Räuber, Bernhard Silvester Wenzel, Ludwig Bauer",
-      duration: { from: "2008-10-31", to: "2008-12-04" }
+      duration: { from: "2008-10-31", to: "2008-12-04" },
     },
     {
       interpret: "Katy Perry",
       title: "Hot n Cold\nKaty Perry, Lukasz Gottwald, Max Martin",
-      duration: { from: "2008-12-05", to: "2009-01-29" }
-    }
+      duration: { from: "2008-12-05", to: "2009-01-29" },
+    },
   ],
   albums: [
     { interpret: "Die Ärzte", title: "Jazz ist anders", duration: { from: "2007-11-16", to: "2008-01-10" } },
@@ -102,13 +102,13 @@ export default {
     {
       interpret: "Coldplay",
       title: "Viva la Vida or Death and All His Friends",
-      duration: { from: "2008-06-27", to: "2008-07-17" }
+      duration: { from: "2008-06-27", to: "2008-07-17" },
     },
     { interpret: "Thomas Godoj", title: "Plan A!", duration: { from: "2008-07-18", to: "2008-07-24" } },
     {
       interpret: "Coldplay",
       title: "Viva la Vida or Death and All His Friends",
-      duration: { from: "2008-07-25", to: "2008-07-31" }
+      duration: { from: "2008-07-25", to: "2008-07-31" },
     },
     { interpret: "Paul Potts", title: "One Chance", duration: { from: "2008-08-01", to: "2008-09-11" } },
     { interpret: "Peter Maffay", title: "Ewig", duration: { from: "2008-09-12", to: "2008-09-18" } },
@@ -117,7 +117,7 @@ export default {
     {
       interpret: "Söhne Mannheims vs. Xavier Naidoo",
       title: "Wettsingen in Schwetzingen – MTV Unplugged",
-      duration: { from: "2008-10-03", to: "2008-10-09" }
+      duration: { from: "2008-10-03", to: "2008-10-09" },
     },
     { interpret: "Rosenstolz", title: "Die Suche geht weiter", duration: { from: "2008-10-10", to: "2008-10-23" } },
     { interpret: "Bushido", title: "Heavy Metal Payback", duration: { from: "2008-10-24", to: "2008-10-30" } },
@@ -126,17 +126,17 @@ export default {
     {
       interpret: "Herbert Grönemeyer",
       title: "Was muss muss – Best of",
-      duration: { from: "2008-12-05", to: "2008-12-18" }
+      duration: { from: "2008-12-05", to: "2008-12-18" },
     },
     {
       interpret: "Michael Hirte",
       title: "Der Mann mit der Mundharmonika",
-      duration: { from: "2008-12-19", to: "2008-12-25" }
+      duration: { from: "2008-12-19", to: "2008-12-25" },
     },
     {
       interpret: "Herbert Grönemeyer",
       title: "Was muss muss – Best of",
-      duration: { from: "2008-12-26", to: "2009-01-22" }
-    }
-  ]
+      duration: { from: "2008-12-26", to: "2009-01-22" },
+    },
+  ],
 };

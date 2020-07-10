@@ -2,178 +2,180 @@ export default {
   singles: [
     {
       interpret: "Capital Bra",
-      title: "Benzema\nVladislav Balovatsky, Vincent Stein, Konstantin Scherer",
-      duration: { from: "2018-12-28", to: "2019-01-03" }
+      title: "Benzema\nVladislav Balovatsky",
+      duration: { from: "2018-12-28", to: "2019-01-03" },
     },
     {
       interpret: "Ava Max",
       title: "Sweet but Psycho\nAva Max, William Lobban Bean, Andreas Andersen Haukeland, Madison Love, Henry Walter",
-      duration: { from: "2019-01-04", to: "2019-01-17" }
+      duration: { from: "2019-01-04", to: "2019-01-17" },
     },
-    {
-      interpret: "Shindy",
-      title: "DODI\nMichael Schindler, Nico Chiara, Ozan Yildirim",
-      duration: { from: "2019-01-18", to: "2019-01-24" }
-    },
-    {
-      interpret: "Mero",
-      title: "Hobby Hobby\nMusik: Josh Petruccio; Text: Enes Meral",
-      duration: { from: "2019-01-25", to: "2019-01-31" }
-    },
+    { interpret: "Shindy", title: "DODI\nMichael Schindler", duration: { from: "2019-01-18", to: "2019-01-24" } },
+    { interpret: "Mero", title: "Hobby Hobby\nEnes Meral", duration: { from: "2019-01-25", to: "2019-01-31" } },
     {
       interpret: "Capital Bra",
-      title: "Prinzessa\nVladislav Balovatsky, Vincent Stein, Konstantin Scherer",
-      duration: { from: "2019-02-01", to: "2019-02-14" }
+      title: "Prinzessa\nVladislav Balovatsky",
+      duration: { from: "2019-02-01", to: "2019-02-14" },
     },
     {
       interpret: "Eno feat. Mero",
-      title: "Ferrari\nMusik: Adulis Ghebreyesus, Gökhan Güler; Text: Ensar Albayrak, Enes Meral",
-      duration: { from: "2019-02-15", to: "2019-02-21" }
+      title: "Ferrari\nEnsar Albayrak, Enes Meral",
+      duration: { from: "2019-02-15", to: "2019-02-21" },
     },
     {
       interpret: "KC Rebell feat. Summer Cem & Capital Bra",
-      title: "DNA\nCem Toraman, Vladislav Balovatsky, Hüseyin Kökseçen, Laurin Auth, Miksu",
-      duration: { from: "2019-02-22", to: "2019-02-28" }
+      title: "DNA\nCem Toraman, Vladislav Balovatsky, Hüseyin Kökseçen",
+      duration: { from: "2019-02-22", to: "2019-02-28" },
     },
     {
       interpret: "Shirin David",
-      title: "Gib ihm\nShirin David, Chima Ede, FNSHRS.",
-      duration: { from: "2019-03-01", to: "2019-03-14" }
+      title: "Gib Ihm\nShirin David, Chima Ede",
+      duration: { from: "2019-03-01", to: "2019-03-14" },
     },
-    {
-      interpret: "Mero",
-      title: "Wolke 10\nMusik: Emirhan Öcal; Text: Enes Meral",
-      duration: { from: "2019-03-15", to: "2019-03-21" }
-    },
+    { interpret: "Mero", title: "Wolke 10\nEnes Meral", duration: { from: "2019-03-15", to: "2019-03-21" } },
     {
       interpret: "Capital Bra & Samra",
-      title: "Wir ticken\nVladislav Balovatsky, Hussein Akkouche, Konstantin Scherer, Vincent Stein",
-      duration: { from: "2019-03-22", to: "2019-03-28" }
+      title: "Wir ticken\nVladislav Balovatsky, Hussein Akkouche",
+      duration: { from: "2019-03-22", to: "2019-03-28" },
     },
     {
       interpret: "Capital Bra",
-      title: "Cherry Lady\nVladislav Balovatsky, Dieter Bohlen, Lennard Oestmann",
-      duration: { from: "2019-03-29", to: "2019-04-04" }
+      title: "Cherry Lady\nVladislav Balovatsky",
+      duration: { from: "2019-03-29", to: "2019-04-04" },
     },
     {
       interpret: "Rammstein",
       title:
         "Deutschland\nRichard Z. Kruspe, Paul Landers, Till Lindemann, Christian Lorenz, Oliver Riedel, Christoph Schneider",
-      duration: { from: "2019-04-05", to: "2019-04-11" }
+      duration: { from: "2019-04-05", to: "2019-04-11" },
     },
-    {
-      interpret: "Samra",
-      title: "Harami\nHussein Akkouche, Konstantinos Tzikas, Vincent Stein, Konstantin Scherer, Lukas Piano",
-      duration: { from: "2019-04-12", to: "2019-04-18" }
-    },
+    { interpret: "Samra", title: "Harami\nHussein Akkouche", duration: { from: "2019-04-12", to: "2019-04-18" } },
     {
       interpret: "Rammstein",
       title:
         "Deutschland\nRichard Z. Kruspe, Paul Landers, Till Lindemann, Christian Lorenz, Oliver Riedel, Christoph Schneider",
-      duration: { from: "2019-04-19", to: "2019-04-25" }
+      duration: { from: "2019-04-19", to: "2019-04-25" },
     },
     {
       interpret: "Lil Nas X",
-      title: "Old Town Road\nMontero Hill, Trent Reznor, Atticus Ross",
-      duration: { from: "2019-04-26", to: "2019-05-09" }
+      title: "Old Town Road\nMontero Hill, Trent Reznor, Atticus Ross, Kiowa Roukema",
+      duration: { from: "2019-04-26", to: "2019-05-09" },
     },
     {
       interpret: "Juju feat. Henning May",
-      title: "Vermissen\nHenning May, Judith Wessendorf, Krutsch",
-      duration: { from: "2019-05-10", to: "2019-05-23" }
+      title: "Vermissen\nHenning May, Judith Wessendorf",
+      duration: { from: "2019-05-10", to: "2019-05-23" },
     },
     {
       interpret: "Samra & Capital Bra",
-      title: "Wieder Lila\nVladislav Balovatsky, Hussein Akkouche, Konstantin Scherer, Vincent Stein",
-      duration: { from: "2019-05-24", to: "2019-06-06" }
+      title: "Wieder Lila\nVladislav Balovatsky, Hussein Akkouche",
+      duration: { from: "2019-05-24", to: "2019-06-06" },
     },
     {
       interpret: "Lil Nas X",
-      title: "Old Town Road\nMontero Hill, Trent Reznor, Atticus Ross",
-      duration: { from: "2019-06-07", to: "2019-06-20" }
+      title: "Old Town Road\nMontero Hill, Trent Reznor, Atticus Ross, Kiowa Roukema",
+      duration: { from: "2019-06-07", to: "2019-06-20" },
     },
     {
       interpret: "Kalazh44, Capital Bra & Samra feat. Nimo & Luciano",
       title:
-        "Royal Rumble\nHussein Akkouche, Vladislav Balovatsky, Goldfinger, Patrick Großmann, Hasan Kankızıl, Christian Streitsov, Nima Yaghobi",
-      duration: { from: "2019-06-21", to: "2019-06-27" }
+        "Royal Rumble\nHussein Akkouche, Vladislav Balovatsky, Patrick Großmann, Hasan Kankızıl, Christian Streitsov, Nima Yaghobi",
+      duration: { from: "2019-06-21", to: "2019-06-27" },
     },
     {
       interpret: "Capital Bra & Samra",
-      title: "Tilidin\nVladislav Balovatsky, Konstantinos Tzikas, Hussein Akkouche, Konstantin Scherer, Vincent Stein",
-      duration: { from: "2019-06-28", to: "2019-07-11" }
+      title: "Tilidin\nVladislav Balovatsky, Hussein Akkouche",
+      duration: { from: "2019-06-28", to: "2019-07-11" },
     },
     {
       interpret: "Shawn Mendes & Camila Cabello",
       title:
         "Señorita\nShawn Mendes, Camila Cabello, Andrew Wotman, Benjamin Levin, Ali Tamposi, Charlotte Emma Aitchison, Jack Patterson, Magnus August Høiberg",
-      duration: { from: "2019-07-12", to: "2019-07-18" }
+      duration: { from: "2019-07-12", to: "2019-07-18" },
     },
     {
       interpret: "Samra & Capital Bra",
-      title:
-        "Zombie\nVladislav Balovatsky, Hussein Akkouche, Vincent Stein, Konstantin Scherer, Konstantinos Tzikas, Lukas Möller",
-      duration: { from: "2019-07-19", to: "2019-07-25" }
+      title: "Zombie\nVladislav Balovatsky, Hussein Akkouche",
+      duration: { from: "2019-07-19", to: "2019-07-25" },
     },
     {
       interpret: "Shawn Mendes & Camila Cabello",
       title:
         "Señorita\nShawn Mendes, Camila Cabello, Andrew Wotman, Benjamin Levin, Ali Tamposi, Charlotte Emma Aitchison, Jack Patterson, Magnus August Høiberg",
-      duration: { from: "2019-07-26", to: "2019-08-29" }
+      duration: { from: "2019-07-26", to: "2019-08-29" },
     },
     {
       interpret: "Capital Bra & Samra",
-      title: "Nummer 1\nVladislav Balovatsky, Hussein Akkouche, Vincent Stein, Konstantin Scherer",
-      duration: { from: "2019-08-30", to: "2019-09-05" }
+      title: "Nummer 1\nVladislav Balovatsky, Hussein Akkouche",
+      duration: { from: "2019-08-30", to: "2019-09-05" },
     },
-    {
-      interpret: "Apache 207",
-      title: "Roller\nVolkan Yaman, Luís-Florentino Cruz",
-      duration: { from: "2019-09-06", to: "2019-09-12" }
-    },
+    { interpret: "Apache 207", title: "Roller\nVolkan Yaman", duration: { from: "2019-09-06", to: "2019-09-12" } },
     {
       interpret: "Loredana feat. Mero",
-      title: "Kein Plan\nLoredana Zefi, Enes Meral, Laurin Auth, Joshua Allery, Chris Plowman",
-      duration: { from: "2019-09-13", to: "2019-09-19" }
+      title: "Kein Plan\nLoredana, Enes Meral",
+      duration: { from: "2019-09-13", to: "2019-09-19" },
     },
     {
       interpret: "Tones and I",
       title: "Dance Monkey\nToni Watson",
-      duration: { from: "2019-09-20", to: "2019-09-26" }
+      duration: { from: "2019-09-20", to: "2019-09-26" },
     },
     {
       interpret: "Capital Bra, Samra & Lea",
-      title:
-        "110\nVladislav Balovatsky, Hussein Akkouche, Vincent Stein, Konstantin Scherer, Lea-Marie Becker, Robin Haefs, Wim Treuner",
-      duration: { from: "2019-09-27", to: "2019-10-10" }
+      title: "110\nVladislav Balovatsky, Hussein Akkouche, Lea-Marie Becker, Robin Haefs, Wim Treuner",
+      duration: { from: "2019-09-27", to: "2019-10-10" },
     },
     {
       interpret: "Tones and I",
       title: "Dance Monkey\nToni Watson",
-      duration: { from: "2019-10-11", to: "2019-10-24" }
+      duration: { from: "2019-10-11", to: "2019-10-24" },
     },
     {
       interpret: "Apache 207",
-      title: "Wieso tust du dir das an?\nVolkan Yaman, Joshua Allery, Laurin Auth",
-      duration: { from: "2019-10-25", to: "2019-10-31" }
+      title: "Wieso tust du dir das an?\nVolkan Yaman",
+      duration: { from: "2019-10-25", to: "2019-10-31" },
     },
-    { interpret: "Tones and I", title: "Dance Monkey\nToni Watson", duration: { from: "2019-11-01", to: "2019-12-05" } }
+    {
+      interpret: "Tones and I",
+      title: "Dance Monkey\nToni Watson",
+      duration: { from: "2019-11-01", to: "2019-12-05" },
+    },
+    {
+      interpret: "Capital Bra",
+      title: "Der Bratan bleibt der gleiche\nVladislav Balovatsky",
+      duration: { from: "2019-12-06", to: "2019-12-12" },
+    },
+    {
+      interpret: "Nimo & Hava",
+      title: "Kein Schlaf\nNima Yaghobi, Dilara Hava Tunç",
+      duration: { from: "2019-12-13", to: "2019-12-19" },
+    },
+    {
+      interpret: "Tones and I",
+      title: "Dance Monkey\nToni Watson",
+      duration: { from: "2019-12-20", to: "2019-12-26" },
+    },
+    {
+      interpret: "Mariah Carey",
+      title: "All I Want for Christmas Is You\nMariah Carey, Walter Afanasieff",
+      duration: { from: "2019-12-27", to: "2020-01-02" },
+    },
   ],
   albums: [
     {
       interpret: "Udo Lindenberg",
       title: "MTV Unplugged 2: Live vom Atlantik (Zweimaster Edition)",
-      duration: { from: "2018-12-21", to: "2019-01-10" }
+      duration: { from: "2018-12-21", to: "2019-01-10" },
     },
     {
       interpret: "Daniela Alfinito",
       title: "Du warst jede Träne wert",
-      duration: { from: "2019-01-11", to: "2019-01-17" }
+      duration: { from: "2019-01-11", to: "2019-01-17" },
     },
     {
       interpret: "Udo Lindenberg",
       title: "MTV Unplugged 2: Live vom Atlantik (Zweimaster Edition)",
-      duration: { from: "2019-01-18", to: "2019-01-24" }
+      duration: { from: "2019-01-18", to: "2019-01-24" },
     },
     { interpret: "Oomph!", title: "Ritual", duration: { from: "2019-01-25", to: "2019-01-31" } },
     { interpret: "Dendemann", title: "Da nich für!", duration: { from: "2019-02-01", to: "2019-02-07" } },
@@ -196,7 +198,7 @@ export default {
     {
       interpret: "Kontra K",
       title: "Sie wollten Wasser doch kriegen Benzin",
-      duration: { from: "2019-05-31", to: "2019-06-06" }
+      duration: { from: "2019-05-31", to: "2019-06-06" },
     },
     { interpret: "Sarah Connor", title: "Herz Kraft Werke", duration: { from: "2019-06-07", to: "2019-06-13" } },
     { interpret: "Rammstein", title: "Rammstein", duration: { from: "2019-06-14", to: "2019-06-20" } },
@@ -212,19 +214,19 @@ export default {
     {
       interpret: "Runrig",
       title: "The Last Dance – Farewell Concert (Live at Stirling)",
-      duration: { from: "2019-08-23", to: "2019-08-29" }
+      duration: { from: "2019-08-23", to: "2019-08-29" },
     },
     {
       interpret: "Helene Fischer",
       title: "Helene Fischer live – Die Stadion-Tour",
-      duration: { from: "2019-08-30", to: "2019-09-05" }
+      duration: { from: "2019-08-30", to: "2019-09-05" },
     },
     { interpret: "Peter Maffay", title: "Jetzt!", duration: { from: "2019-09-06", to: "2019-09-12" } },
     { interpret: "Fantasy", title: "Casanova", duration: { from: "2019-09-13", to: "2019-09-19" } },
     {
       interpret: "Andreas Gabalier",
       title: "Best of Volks-Rock‘n’Roller",
-      duration: { from: "2019-09-20", to: "2019-09-26" }
+      duration: { from: "2019-09-20", to: "2019-09-26" },
     },
     { interpret: "Shirin David", title: "Supersize", duration: { from: "2019-09-27", to: "2019-10-03" } },
     { interpret: "Sido", title: "Ich & keine Maske", duration: { from: "2019-10-04", to: "2019-10-10" } },
@@ -235,6 +237,18 @@ export default {
     { interpret: "RAF Camora", title: "Zenit", duration: { from: "2019-11-08", to: "2019-11-14" } },
     { interpret: "Johannes Oerding", title: "Konturen", duration: { from: "2019-11-15", to: "2019-11-21" } },
     { interpret: "Silbermond", title: "Schritte", duration: { from: "2019-11-22", to: "2019-11-28" } },
-    { interpret: "Lindemann", title: "F & M", duration: { from: "2019-11-29", to: "2019-12-05" } }
-  ]
+    { interpret: "Lindemann", title: "F & M", duration: { from: "2019-11-29", to: "2019-12-05" } },
+    { interpret: "Frei.Wild", title: "Still II", duration: { from: "2019-12-06", to: "2019-12-12" } },
+    {
+      interpret: "Robbie Williams",
+      title: "The Christmas Present",
+      duration: { from: "2019-12-13", to: "2019-12-19" },
+    },
+    { interpret: "Kollegah", title: "Alphagene II", duration: { from: "2019-12-20", to: "2019-12-26" } },
+    {
+      interpret: "Bushido & Animus",
+      title: "Carlo Cokxxx Nutten 4",
+      duration: { from: "2019-12-27", to: "2020-01-02" },
+    },
+  ],
 };

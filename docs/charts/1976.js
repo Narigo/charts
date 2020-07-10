@@ -23,8 +23,8 @@ export default {
     { interpret: "ABBA", title: "Money, Money, Money", duration: { from: "1976-12-20", to: "1977-01-23" } },
     {
       interpret: "Verschiedene Interpreten",
-      title: "Super 20 - Super Neu",
-      duration: { from: "1975-12-15", to: "1976-02-14" }
+      title: "Super 20 – Super Neu",
+      duration: { from: "1975-12-15", to: "1976-02-14" },
     },
     { interpret: "Verschiedene Interpreten", title: "Disco Hits", duration: { from: "1976-02-15", to: "1976-04-14" } },
     { interpret: "Verschiedene Interpreten", title: "Music Box", duration: { from: "1976-04-15", to: "1976-05-14" } },
@@ -32,32 +32,32 @@ export default {
     {
       interpret: "Verschiedene Interpreten",
       title: "20 Original Top Hits",
-      duration: { from: "1976-06-15", to: "1976-07-14" }
+      duration: { from: "1976-06-15", to: "1976-07-14" },
     },
     { interpret: "Otto", title: "Das 4. Programm", duration: { from: "1976-07-15", to: "1976-08-14" } },
     {
       interpret: "Roger Whittaker",
       title: "The Best of Roger Whittaker",
-      duration: { from: "1976-08-15", to: "1976-09-14" }
+      duration: { from: "1976-08-15", to: "1976-09-14" },
     },
     { interpret: "ABBA", title: "The Best of ABBA", duration: { from: "1976-09-15", to: "1976-10-14" } },
     { interpret: "Verschiedene Interpreten", title: "Starparade", duration: { from: "1976-10-15", to: "1976-11-14" } },
     {
       interpret: "Verschiedene Interpreten",
       title: "Disco Rocket",
-      duration: { from: "1976-11-15", to: "1976-12-14" }
+      duration: { from: "1976-11-15", to: "1976-12-14" },
     },
     {
       interpret: "Verschiedene Interpreten",
       title: "Hithaus mit Herz",
-      duration: { from: "1976-12-15", to: "1976-12-31" }
-    }
+      duration: { from: "1976-12-15", to: "1976-12-31" },
+    },
   ],
   albums: [
     {
       interpret: "Verschiedene Interpreten",
-      title: "Super 20 - Super Neu",
-      duration: { from: "1975-12-15", to: "1976-02-14" }
+      title: "Super 20 – Super Neu",
+      duration: { from: "1975-12-15", to: "1976-02-14" },
     },
     { interpret: "Verschiedene Interpreten", title: "Disco Hits", duration: { from: "1976-02-15", to: "1976-04-14" } },
     { interpret: "Verschiedene Interpreten", title: "Music Box", duration: { from: "1976-04-15", to: "1976-05-14" } },
@@ -65,25 +65,25 @@ export default {
     {
       interpret: "Verschiedene Interpreten",
       title: "20 Original Top Hits",
-      duration: { from: "1976-06-15", to: "1976-07-14" }
+      duration: { from: "1976-06-15", to: "1976-07-14" },
     },
     { interpret: "Otto", title: "Das 4. Programm", duration: { from: "1976-07-15", to: "1976-08-14" } },
     {
       interpret: "Roger Whittaker",
       title: "The Best of Roger Whittaker",
-      duration: { from: "1976-08-15", to: "1976-09-14" }
+      duration: { from: "1976-08-15", to: "1976-09-14" },
     },
     { interpret: "ABBA", title: "The Best of ABBA", duration: { from: "1976-09-15", to: "1976-10-14" } },
     { interpret: "Verschiedene Interpreten", title: "Starparade", duration: { from: "1976-10-15", to: "1976-11-14" } },
     {
       interpret: "Verschiedene Interpreten",
       title: "Disco Rocket",
-      duration: { from: "1976-11-15", to: "1976-12-14" }
+      duration: { from: "1976-11-15", to: "1976-12-14" },
     },
     {
       interpret: "Verschiedene Interpreten",
       title: "Hithaus mit Herz",
-      duration: { from: "1976-12-15", to: "1976-12-31" }
-    }
-  ]
+      duration: { from: "1976-12-15", to: "1976-12-31" },
+    },
+  ],
 };

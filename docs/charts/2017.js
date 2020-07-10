@@ -3,45 +3,45 @@ export default {
     {
       interpret: "Clean Bandit feat. Sean Paul & Anne-Marie",
       title: "Rockabye\nJack Patterson, Steve McCutcheon, Ammar Malik, Ina Wroldsen, Sean Paul Henriques",
-      duration: { from: "2016-12-30", to: "2017-01-12" }
+      duration: { from: "2016-12-30", to: "2017-01-12" },
     },
     {
       interpret: "Ed Sheeran",
       title: "Shape of You\nEd Sheeran, Steve Mac, Johnny McDaid, Kandi Burruss, Tameka Cottle, Kevin Briggs",
-      duration: { from: "2017-01-13", to: "2017-04-27" }
+      duration: { from: "2017-01-13", to: "2017-04-27" },
     },
     {
       interpret: "Luis Fonsi feat. Daddy Yankee",
       title: "Despacito\nLuis Rodríguez, Erika Ender, Ramón Ayala",
-      duration: { from: "2017-04-28", to: "2017-08-24" }
+      duration: { from: "2017-04-28", to: "2017-08-24" },
     },
     {
       interpret: "Axwell Λ Ingrosso",
       title: "More Than You Know\nSebastian Ingrosso, Salem Al Fakir, Axel Hedfors, Vincent Pontare, Richard Zastenker",
-      duration: { from: "2017-08-25", to: "2017-09-14" }
+      duration: { from: "2017-08-25", to: "2017-09-14" },
     },
     {
       interpret: "Kay One feat. Pietro Lombardi",
       title: "Señorita\nBoris Fleck, Kenneth Glöckler, Georg Maier, Pietro Lombardi",
-      duration: { from: "2017-09-15", to: "2017-10-05" }
+      duration: { from: "2017-09-15", to: "2017-10-05" },
     },
     {
       interpret: "Kollegah & Farid Bang",
       title: "Sturmmaske auf (Intro)\nFelix Blume, Farid Hamed El Abdellaoui, Jonathan Kiunke, Johannes Löffler",
-      duration: { from: "2017-10-06", to: "2017-10-12" }
+      duration: { from: "2017-10-06", to: "2017-10-12" },
     },
     {
       interpret: "Bausa",
       title: "Was du Liebe nennst\nJulian Otto, Martin Peter Willumeit, Paul Philipp Spurny, David Kraft, Tim Wilke",
-      duration: { from: "2017-10-13", to: "2017-12-07" }
+      duration: { from: "2017-10-13", to: "2017-12-07" },
     },
-    { interpret: "Ed Sheeran", title: "Perfect\nEd Sheeran", duration: { from: "2017-12-08", to: "2018-02-15" } }
+    { interpret: "Ed Sheeran", title: "Perfect\nEd Sheeran", duration: { from: "2017-12-08", to: "2018-02-15" } },
   ],
   albums: [
     {
       interpret: "Helene Fischer & the Royal Philharmonic Orchestra",
       title: "Weihnachten",
-      duration: { from: "2016-12-23", to: "2017-01-05" }
+      duration: { from: "2016-12-23", to: "2017-01-05" },
     },
     { interpret: "The Rolling Stones", title: "Blue & Lonesome", duration: { from: "2017-01-06", to: "2017-01-12" } },
     { interpret: "Klubbb3", title: "Jetzt geht’s richtig los!", duration: { from: "2017-01-13", to: "2017-01-19" } },
@@ -70,13 +70,13 @@ export default {
     {
       interpret: "Verschiedene Interpreten",
       title: "Sing meinen Song – Das Tauschkonzert, Vol. 4",
-      duration: { from: "2017-06-30", to: "2017-07-06" }
+      duration: { from: "2017-06-30", to: "2017-07-06" },
     },
     { interpret: "Fler & Jalil", title: "Epic", duration: { from: "2017-07-07", to: "2017-07-13" } },
     {
       interpret: "Verschiedene Interpreten",
       title: "Sing meinen Song – Das Tauschkonzert, Vol. 4",
-      duration: { from: "2017-07-14", to: "2017-07-20" }
+      duration: { from: "2017-07-14", to: "2017-07-20" },
     },
     { interpret: "187 Strassenbande", title: "Sampler 4", duration: { from: "2017-07-21", to: "2017-08-03" } },
     { interpret: "Die Amigos", title: "Zauberland", duration: { from: "2017-08-04", to: "2017-08-17" } },
@@ -95,18 +95,18 @@ export default {
     {
       interpret: "Verschiedene Interpreten",
       title: "Sing meinen Song – Das Weihnachtskonzert, Vol. 4",
-      duration: { from: "2017-12-01", to: "2017-12-07" }
+      duration: { from: "2017-12-01", to: "2017-12-07" },
     },
     {
       interpret: "Kollegah & Farid Bang",
       title: "Jung Brutal Gutaussehend 3",
-      duration: { from: "2017-12-08", to: "2017-12-14" }
+      duration: { from: "2017-12-08", to: "2017-12-14" },
     },
     {
       interpret: "Böhse Onkelz",
       title: "Memento – Gegen die Zeit + Live in Berlin",
-      duration: { from: "2017-12-15", to: "2017-12-21" }
+      duration: { from: "2017-12-15", to: "2017-12-21" },
     },
-    { interpret: "Ed Sheeran", title: "÷", duration: { from: "2017-12-22", to: "2018-01-18" } }
-  ]
+    { interpret: "Ed Sheeran", title: "÷", duration: { from: "2017-12-22", to: "2018-01-18" } },
+  ],
 };

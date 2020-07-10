@@ -3,92 +3,92 @@ export default {
     {
       interpret: "David Guetta feat. Sam Martin",
       title: "Dangerous\nDavid Guetta, Giorgio Tuinfort, Sam Martin, Jason Evigan, Lindy Robbins",
-      duration: { from: "2014-12-19", to: "2015-01-15" }
+      duration: { from: "2014-12-19", to: "2015-01-15" },
     },
     {
       interpret: "Kwabs",
       title: "Walk\nJonny Lattimer, Kwabena Adjepong",
-      duration: { from: "2015-01-16", to: "2015-01-22" }
+      duration: { from: "2015-01-16", to: "2015-01-22" },
     },
     {
       interpret: "Calvin Harris feat. Ellie Goulding",
       title: "Outside\nCalvin Harris, Ellie Goulding",
-      duration: { from: "2015-01-23", to: "2015-01-29" }
+      duration: { from: "2015-01-23", to: "2015-01-29" },
     },
     {
       interpret: "James Newton Howard feat. Jennifer Lawrence",
       title: "The Hanging Tree\nJeremiah Fraites, Wesley Schultz, Suzanne Collins",
-      duration: { from: "2015-01-30", to: "2015-02-12" }
+      duration: { from: "2015-01-30", to: "2015-02-12" },
     },
     {
       interpret: "Omi",
       title:
         "Cheerleader (Felix Jaehn Remix)\nOmar Samuel Pasley, Clifton Dillon, Mark Bradford, Ryan Dillon, Sly Dunbar",
-      duration: { from: "2015-02-13", to: "2015-02-19" }
+      duration: { from: "2015-02-13", to: "2015-02-19" },
     },
     {
       interpret: "Ellie Goulding",
       title: "Love Me like You Do\nMax Martin, Savan Kotecha, Ali Payami, Tove Nilsson, Ilya Salmanzadeh",
-      duration: { from: "2015-02-20", to: "2015-04-02" }
+      duration: { from: "2015-02-20", to: "2015-04-02" },
     },
     {
       interpret: "Lost Frequencies",
       title: "Are You with Me\nTommy Lee James, Shane McAnally, Terry McBride",
-      duration: { from: "2015-04-03", to: "2015-04-16" }
+      duration: { from: "2015-04-03", to: "2015-04-16" },
     },
     {
       interpret: "Wiz Khalifa feat. Charlie Puth",
       title: "See You Again\nJustin Franks, Cameron Thomaz, Andrew Cedar, Charles Puth",
-      duration: { from: "2015-04-17", to: "2015-05-07" }
+      duration: { from: "2015-04-17", to: "2015-05-07" },
     },
     {
       interpret: "Felix Jaehn feat. Jasmine Thompson",
       title: "Ain’t Nobody (Loves Me Better)\nDavid Wolinski",
-      duration: { from: "2015-05-08", to: "2015-07-02" }
+      duration: { from: "2015-05-08", to: "2015-07-02" },
     },
     { interpret: "Cro", title: "Bye Bye\nCarlo Waibel", duration: { from: "2015-07-03", to: "2015-07-23" } },
     {
       interpret: "Lost Frequencies feat. Janieck Devy",
       title: "Reality\nFelix de Laet, Radboud Miedema, Janieck van de Polder",
-      duration: { from: "2015-07-24", to: "2015-08-06" }
+      duration: { from: "2015-07-24", to: "2015-08-06" },
     },
     {
       interpret: "Robin Schulz feat. Francesco Yates",
       title:
         "Sugar\nFrank Bautista, Dennis Bierbrodt, Ronald Bryant, Jürgen Dohr, Guido Kramer, Robin Schulz, Francesco Yates",
-      duration: { from: "2015-08-07", to: "2015-08-13" }
+      duration: { from: "2015-08-07", to: "2015-08-13" },
     },
     {
       interpret: "Sido feat. Andreas Bourani",
       title: "Astronaut\nMusik: FNSHRS.; Text: Andreas Bourani, Simon Müller-Lerch, Paul Würdig[2]",
-      duration: { from: "2015-08-14", to: "2015-08-20" }
+      duration: { from: "2015-08-14", to: "2015-08-20" },
     },
     {
       interpret: "Robin Schulz feat. Francesco Yates",
       title:
         "Sugar\nFrank Bautista, Dennis Bierbrodt, Ronald Bryant, Jürgen Dohr, Guido Kramer, Robin Schulz, Francesco Yates",
-      duration: { from: "2015-08-21", to: "2015-09-03" }
+      duration: { from: "2015-08-21", to: "2015-09-03" },
     },
     {
       interpret: "Namika",
       title: "Lieblingsmensch\nFabian Römer, Beatgees, Hanan Hamdi, Konrad Sommermeyer",
-      duration: { from: "2015-09-04", to: "2015-09-10" }
+      duration: { from: "2015-09-04", to: "2015-09-10" },
     },
     {
       interpret: "Die Ärzte",
       title: "Schrei nach Liebe\nDirk Felsenheimer, Jan Vetter",
-      duration: { from: "2015-09-11", to: "2015-09-17" }
+      duration: { from: "2015-09-11", to: "2015-09-17" },
     },
     {
       interpret: "Sido feat. Andreas Bourani",
       title: "Astronaut\nMusik: FNSHRS.; Text: Andreas Bourani, Simon Müller-Lerch, Paul Würdig",
-      duration: { from: "2015-09-18", to: "2015-10-29" }
+      duration: { from: "2015-09-18", to: "2015-10-29" },
     },
     {
       interpret: "Adele",
       title: "Hello\nGreg Kurstin, Adele Adkins",
-      duration: { from: "2015-10-30", to: "2016-01-14" }
-    }
+      duration: { from: "2015-10-30", to: "2016-01-14" },
+    },
   ],
   albums: [
     { interpret: "Unheilig", title: "Gipfelstürmer", duration: { from: "2014-12-26", to: "2015-01-01" } },
@@ -102,7 +102,7 @@ export default {
     {
       interpret: "Frank White",
       title: "Keiner kommt klar mit mir",
-      duration: { from: "2015-02-20", to: "2015-02-26" }
+      duration: { from: "2015-02-20", to: "2015-02-26" },
     },
     { interpret: "Bushido", title: "Carlo Cokxxx Nutten 3", duration: { from: "2015-02-27", to: "2015-03-05" } },
     { interpret: "(Soundtrack)", title: "Fifty Shades of Grey", duration: { from: "2015-03-06", to: "2015-03-12" } },
@@ -121,7 +121,7 @@ export default {
     {
       interpret: "(Verschiedene Interpreten)",
       title: "Sing meinen Song – Das Tauschkonzert – Volume 2",
-      duration: { from: "2015-06-12", to: "2015-06-18" }
+      duration: { from: "2015-06-12", to: "2015-06-18" },
     },
     { interpret: "KC Rebell", title: "Fata Morgana", duration: { from: "2015-06-19", to: "2015-06-25" } },
     { interpret: "Lindemann", title: "Skills in Pills", duration: { from: "2015-06-26", to: "2015-07-02" } },
@@ -131,7 +131,7 @@ export default {
     {
       interpret: "(Verschiedene Interpreten)",
       title: "Sing meinen Song – Das Tauschkonzert – Volume 2",
-      duration: { from: "2015-07-24", to: "2015-08-13" }
+      duration: { from: "2015-07-24", to: "2015-08-13" },
     },
     { interpret: "Paul Kalkbrenner", title: "7", duration: { from: "2015-08-14", to: "2015-08-20" } },
     { interpret: "Saltatio Mortis", title: "Zirkus Zeitgeist", duration: { from: "2015-08-21", to: "2015-08-27" } },
@@ -144,37 +144,37 @@ export default {
     {
       interpret: "Kastelruther Spatzen",
       title: "Heimat – Deine Lieder",
-      duration: { from: "2015-10-09", to: "2015-10-15" }
+      duration: { from: "2015-10-09", to: "2015-10-15" },
     },
     {
       interpret: "(Verschiedene Interpreten)",
       title: "Chronik III",
-      duration: { from: "2015-10-16", to: "2015-10-22" }
+      duration: { from: "2015-10-16", to: "2015-10-22" },
     },
     { interpret: "Majoe", title: "Breiter als 2 Türsteher", duration: { from: "2015-10-23", to: "2015-10-29" } },
     { interpret: "Sarah Connor", title: "Muttersprache", duration: { from: "2015-10-30", to: "2015-11-05" } },
     {
       interpret: "Peter Maffay",
       title: "Tabaluga – Es lebe die Freundschaft!",
-      duration: { from: "2015-11-06", to: "2015-11-12" }
+      duration: { from: "2015-11-06", to: "2015-11-12" },
     },
     { interpret: "Bushido & Shindy", title: "Cla$$ic", duration: { from: "2015-11-13", to: "2015-11-19" } },
     {
       interpret: "Helene Fischer & the Royal Philharmonic Orchestra",
       title: "Weihnachten",
-      duration: { from: "2015-11-20", to: "2015-11-26" }
+      duration: { from: "2015-11-20", to: "2015-11-26" },
     },
     { interpret: "Adele", title: "25", duration: { from: "2015-11-27", to: "2015-12-03" } },
     {
       interpret: "Helene Fischer & the Royal Philharmonic Orchestra",
       title: "Weihnachten",
-      duration: { from: "2015-12-04", to: "2015-12-17" }
+      duration: { from: "2015-12-04", to: "2015-12-17" },
     },
     { interpret: "Kollegah", title: "Zuhältertape Volume 4", duration: { from: "2015-12-18", to: "2015-12-24" } },
     {
       interpret: "Helene Fischer & the Royal Philharmonic Orchestra",
       title: "Weihnachten",
-      duration: { from: "2015-12-25", to: "2015-12-31" }
-    }
-  ]
+      duration: { from: "2015-12-25", to: "2015-12-31" },
+    },
+  ],
 };

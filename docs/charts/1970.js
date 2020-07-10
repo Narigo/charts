@@ -5,7 +5,7 @@ export default {
     {
       interpret: "Soulful Dynamics",
       title: "Mademoiselle Ninette",
-      duration: { from: "1970-05-01", to: "1970-05-14" }
+      duration: { from: "1970-05-01", to: "1970-05-14" },
     },
     { interpret: "Frijid Pink", title: "House of the Rising Sun", duration: { from: "1970-05-15", to: "1970-05-31" } },
     { interpret: "Peter Maffay", title: "Du", duration: { from: "1970-06-01", to: "1970-06-14" } },
@@ -13,7 +13,7 @@ export default {
     {
       interpret: "Simon & Garfunkel",
       title: "El Condor Pasa (If I Could)",
-      duration: { from: "1970-07-01", to: "1970-08-14" }
+      duration: { from: "1970-07-01", to: "1970-08-14" },
     },
     { interpret: "Mungo Jerry", title: "In the Summertime", duration: { from: "1970-08-15", to: "1970-09-30" } },
     { interpret: "Miguel Ríos", title: "A Song of Joy", duration: { from: "1970-10-01", to: "1970-12-14" } },
@@ -26,9 +26,9 @@ export default {
     {
       interpret: "Simon & Garfunkel",
       title: "Bridge over Troubled Water",
-      duration: { from: "1970-06-15", to: "1970-10-14" }
+      duration: { from: "1970-06-15", to: "1970-10-14" },
     },
-    { interpret: "Deep Purple", title: "Deep Purple in Rock", duration: { from: "1970-10-15", to: "1971-01-14" } }
+    { interpret: "Deep Purple", title: "Deep Purple in Rock", duration: { from: "1970-10-15", to: "1971-01-14" } },
   ],
   albums: [
     { interpret: "James Last", title: "Non Stop Dancing 9", duration: { from: "1969-12-15", to: "1970-01-14" } },
@@ -39,8 +39,8 @@ export default {
     {
       interpret: "Simon & Garfunkel",
       title: "Bridge over Troubled Water",
-      duration: { from: "1970-06-15", to: "1970-10-14" }
+      duration: { from: "1970-06-15", to: "1970-10-14" },
     },
-    { interpret: "Deep Purple", title: "Deep Purple in Rock", duration: { from: "1970-10-15", to: "1971-01-14" } }
-  ]
+    { interpret: "Deep Purple", title: "Deep Purple in Rock", duration: { from: "1970-10-15", to: "1971-01-14" } },
+  ],
 };

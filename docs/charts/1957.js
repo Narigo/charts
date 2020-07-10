@@ -9,8 +9,8 @@ export default {
     {
       interpret: "Caterina Valente",
       title: "Wo meine Sonne scheint",
-      duration: { from: "1957-12-01", to: "1957-12-31" }
-    }
+      duration: { from: "1957-12-01", to: "1957-12-31" },
+    },
   ],
-  albums: []
+  albums: [],
 };

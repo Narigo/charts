@@ -3,55 +3,55 @@ export default {
     {
       interpret: "Sarah Brightman & Andrea Bocelli",
       title: "Time to Say Goodbye (Con te partiró)\nMusik: Francesco Sartori; Text: Lucio Quarantotto",
-      duration: { from: "1996-12-16", to: "1997-03-16" }
+      duration: { from: "1996-12-16", to: "1997-03-16" },
     },
     { interpret: "Tic Tac Toe", title: "Warum?\nThorsten Börger", duration: { from: "1997-03-17", to: "1997-05-04" } },
     {
       interpret: "Sabrina Setlur",
       title: "Du liebst mich nicht\nMusik: Markus Tarkan Onyuru; Text: Sabrina Setlur",
-      duration: { from: "1997-05-05", to: "1997-05-11" }
+      duration: { from: "1997-05-05", to: "1997-05-11" },
     },
     {
       interpret: "Nana",
       title: "Lonely\nBülent Aris, Nana Abrokwa, Toni Cottura",
-      duration: { from: "1997-05-12", to: "1997-06-15" }
+      duration: { from: "1997-05-12", to: "1997-06-15" },
     },
     {
       interpret: "Members of Mayday",
       title: "Sonic Empire\nMusik: Maximilian Lenz, Klaus Jankuhn; Text: Maximilian Lenz",
-      duration: { from: "1997-06-16", to: "1997-06-22" }
+      duration: { from: "1997-06-16", to: "1997-06-22" },
     },
     {
       interpret: "Hanson",
       title: "Mmmbop\nClarke Isaac Hanson, Jordan Taylor Hanson, Zachary Walker Hanson",
-      duration: { from: "1997-06-23", to: "1997-06-29" }
+      duration: { from: "1997-06-23", to: "1997-06-29" },
     },
     {
       interpret: "Puff Daddy feat. Faith Evans und 112",
       title: "I’ll Be Missing You\nFaith Renee Evans, Gordon Matthew Sumner, Todd Gaither",
-      duration: { from: "1997-06-30", to: "1997-09-14" }
+      duration: { from: "1997-06-30", to: "1997-09-14" },
     },
     {
       interpret: "Will Smith",
       title: "Men in Black\nWillard C. Smith, Patrice L. Rushen, Terri McFaddin, Fred Douglas Washington Jr.",
-      duration: { from: "1997-09-15", to: "1997-09-21" }
+      duration: { from: "1997-09-15", to: "1997-09-21" },
     },
     {
       interpret: "Elton John",
       title: "Something About the Way You Look Tonight / Candle in the Wind ’97\nElton John, Bernie Taupin",
-      duration: { from: "1997-09-22", to: "1997-11-09" }
+      duration: { from: "1997-09-22", to: "1997-11-09" },
     },
     {
       interpret: "Aqua",
       title:
         "Barbie Girl\nMusik: Søren Rasted, Claus Norreen; Text: Søren Rasted, Claus Norreen, René Dif, Lene Crawford Nystrøm",
-      duration: { from: "1997-11-10", to: "1997-12-21" }
+      duration: { from: "1997-11-10", to: "1997-12-21" },
     },
     {
       interpret: "Run-D.M.C. vs. Jason Nevins",
       title: "It’s Like That\nLawrence Smith, Joseph Ward Simmons, Darryl Matthews McDaniels",
-      duration: { from: "1997-12-22", to: "1998-02-01" }
-    }
+      duration: { from: "1997-12-22", to: "1998-02-01" },
+    },
   ],
   albums: [
     { interpret: "Andrea Bocelli", title: "Bocelli", duration: { from: "1996-12-23", to: "1997-03-16" } },
@@ -73,6 +73,6 @@ export default {
     { interpret: "Eros Ramazzotti", title: "Eros", duration: { from: "1997-11-24", to: "1997-11-30" } },
     { interpret: "Metallica", title: "ReLoad", duration: { from: "1997-12-01", to: "1997-12-14" } },
     { interpret: "Eros Ramazzotti", title: "Eros", duration: { from: "1997-12-15", to: "1997-12-21" } },
-    { interpret: "Céline Dion", title: "Let’s Talk About Love", duration: { from: "1997-12-22", to: "1998-02-01" } }
-  ]
+    { interpret: "Céline Dion", title: "Let’s Talk About Love", duration: { from: "1997-12-22", to: "1998-02-01" } },
+  ],
 };

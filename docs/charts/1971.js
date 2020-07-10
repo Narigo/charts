@@ -6,7 +6,7 @@ export default {
     {
       interpret: "Creedence Clearwater Revival",
       title: "Hey Tonight",
-      duration: { from: "1971-04-19", to: "1971-04-25" }
+      duration: { from: "1971-04-19", to: "1971-04-25" },
     },
     { interpret: "Lynn Anderson", title: "Rose Garden", duration: { from: "1971-04-26", to: "1971-05-23" } },
     { interpret: "Danyel Gérard", title: "Butterfly", duration: { from: "1971-05-24", to: "1971-08-29" } },
@@ -26,8 +26,8 @@ export default {
     {
       interpret: "Kompilation",
       title: "Stars für uns – Hilfe für alle",
-      duration: { from: "1971-12-15", to: "1972-02-14" }
-    }
+      duration: { from: "1971-12-15", to: "1972-02-14" },
+    },
   ],
   albums: [
     { interpret: "Deep Purple", title: "Deep Purple in Rock", duration: { from: "1970-10-15", to: "1971-01-14" } },
@@ -41,7 +41,7 @@ export default {
     {
       interpret: "Kompilation",
       title: "Stars für uns – Hilfe für alle",
-      duration: { from: "1971-12-15", to: "1972-02-14" }
-    }
-  ]
+      duration: { from: "1971-12-15", to: "1972-02-14" },
+    },
+  ],
 };
