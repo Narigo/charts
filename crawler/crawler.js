@@ -21,16 +21,16 @@ years
     result[year] = crawled;
     return result;
   }, {})
-  .then(async all => {
+  .then(async (all) => {
     promisify(fs.writeFile)(resultFile, JSON.stringify(all));
   });
 
 async function crawl(year) {
   console.log("crawling year", year);
-  const browser = await puppeteer.launch();
+  const browser = await puppeteer.launch({ executablePath: "google-chrome-unstable", args: ["--no-sandbox"] });
   const page = await browser.newPage();
   await page.goto(`https://de.wikipedia.org/wiki/Liste_der_Nummer-eins-Hits_in_Deutschland_(${year})`, {
-    waitUntil: "networkidle2"
+    waitUntil: "networkidle2",
   });
 
   const result = await page.evaluate(() => {
@@ -48,30 +48,38 @@ async function crawl(year) {
     const $albumsFallback1 = document.querySelectorAll(
       "#mw-content-text > div > table > tbody > tr:nth-child(2) > td:nth-child(2) > ul > li"
     );
-    const $tableSelector = tableNumber =>
+    const $tableSelector = (tableNumber) =>
       document.querySelectorAll(
         `#mw-content-text > div > table:nth-child(${tableNumber}) > tbody > tr:nth-child(2) > td > table > tbody > tr`
       );
 
-    const singleFilter = $firstElement =>
+    const singleFilter = ($firstElement) =>
       /^Singles/.test(
         $firstElement.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.previousElementSibling.innerText
+      ) ||
+      /^Singles/.test(
+        $firstElement.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.previousElementSibling
+          .previousElementSibling.innerText
       );
-    const albumFilter = $firstElement =>
+    const albumFilter = ($firstElement) =>
       /^Alben/.test(
         $firstElement.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.previousElementSibling.innerText
+      ) ||
+      /^Alben/.test(
+        $firstElement.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.previousElementSibling
+          .previousElementSibling.innerText
       );
 
     const selectedSingles = [
       { list: $singlesFallback0, by: infoFromLi, extraFilter: () => true },
       { list: $singlesFallback1, by: infoFromLi, extraFilter: () => true },
-      ...[3, 4, 5, 6, 7, 8].map($tableSelector).map(list => ({ list, by: infoFromTable, extraFilter: singleFilter }))
-    ].find(x => x.list.length > 0 && x.extraFilter(x.list[0]));
+      ...[3, 4, 5, 6, 7, 8].map($tableSelector).map((list) => ({ list, by: infoFromTable, extraFilter: singleFilter })),
+    ].find((x) => x.list.length > 0 && x.extraFilter(x.list[0]));
     const selectedAlbums = [
       { list: $albumsFallback0, by: infoFromLi, extraFilter: () => true },
       { list: $albumsFallback1, by: infoFromLi, extraFilter: () => true },
-      ...[6, 7, 8, 9, 10].map($tableSelector).map(list => ({ list, by: infoFromTable, extraFilter: albumFilter }))
-    ].find(x => x.list.length > 0 && x.extraFilter(x.list[0]));
+      ...[6, 7, 8, 9, 10, 11].map($tableSelector).map((list) => ({ list, by: infoFromTable, extraFilter: albumFilter })),
+    ].find((x) => x.list.length > 0 && x.extraFilter(x.list[0]));
 
     const singles = selectedSingles ? [].map.call(selectedSingles.list, selectedSingles.by) : [];
     const albums = selectedAlbums ? [].map.call(selectedAlbums.list, selectedAlbums.by) : [];
