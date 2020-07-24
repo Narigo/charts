@@ -2253,6 +2253,8 @@
   },
   "1981": {
     "singles": [
+      { "interpret": "N/A", "title": "N/A", "duration": "N/A" },
+      { "interpret": "N/A", "title": "N/A", "duration": "N/A" },
       {
         "interpret": "ABBA",
         "title": "Super Trouper\nBenny Göran Bror Andersson, Björn K. Ulvaeus",
@@ -2330,6 +2332,8 @@
       }
     ],
     "albums": [
+      { "interpret": "N/A", "title": "N/A", "duration": "N/A" },
+      { "interpret": "N/A", "title": "N/A", "duration": "N/A" },
       {
         "interpret": "Richard Clayderman",
         "title": "Träumereien 2",
@@ -3013,7 +3017,7 @@
       { "interpret": "Falco", "title": "Emotional", "duration": "10. November 1986 – 23. November 1986\n2 Wochen" },
       {
         "interpret": "Peter Maffay",
-        "title": "Tabaluga 2",
+        "title": "Tabaluga und das leuchtende Schweigen",
         "duration": "24. November 1986 – 30. November 1986\n1 Woche"
       },
       {
@@ -3023,7 +3027,7 @@
       },
       {
         "interpret": "Peter Maffay",
-        "title": "Tabaluga 2",
+        "title": "Tabaluga und das leuchtende Schweigen",
         "duration": "8. Dezember 1986 – 21. Dezember 1986\n2 Wochen"
       },
       {
@@ -8661,8 +8665,8 @@
       },
       {
         "interpret": "Apache 207",
-        "title": "Bläulich\nVolkan Yaman, Marcel Uhde, Melvin Schmitz",
-        "duration": "10. Juli 2020 – 16. Juli 2020\n1 Woche"
+        "title": "Bläulich\nMelvin Schmitz, Marcel Uhde, Volkan Yaman",
+        "duration": "10. Juli 2020 – 23. Juli 2020\n2 Wochen"
       }
     ],
     "albums": [
@@ -8756,7 +8760,8 @@
         "interpret": "Verschiedene Interpreten",
         "title": "Sing meinen Song – Das Tauschkonzert, Vol. 7",
         "duration": "10. Juli 2020 – 17. Juli 2020\n1 Woche"
-      }
+      },
+      { "interpret": "Die Amigos", "title": "Tausend Träume", "duration": "17. Juli 2020 – 23. Juli 2020\n1 Woche" }
     ]
   }
 }
