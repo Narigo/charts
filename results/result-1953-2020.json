@@ -2253,8 +2253,6 @@
   },
   "1981": {
     "singles": [
-      { "interpret": "N/A", "title": "N/A", "duration": "N/A" },
-      { "interpret": "N/A", "title": "N/A", "duration": "N/A" },
       {
         "interpret": "ABBA",
         "title": "Super Trouper\nBenny Göran Bror Andersson, Björn K. Ulvaeus",
@@ -2332,8 +2330,6 @@
       }
     ],
     "albums": [
-      { "interpret": "N/A", "title": "N/A", "duration": "N/A" },
-      { "interpret": "N/A", "title": "N/A", "duration": "N/A" },
       {
         "interpret": "Richard Clayderman",
         "title": "Träumereien 2",
@@ -8666,7 +8662,7 @@
       {
         "interpret": "Apache 207",
         "title": "Bläulich\nMelvin Schmitz, Marcel Uhde, Volkan Yaman",
-        "duration": "10. Juli 2020 – 23. Juli 2020\n2 Wochen"
+        "duration": "10. Juli 2020 – 30. Juli 2020\n3 Wochen"
       }
     ],
     "albums": [
@@ -8761,7 +8757,8 @@
         "title": "Sing meinen Song – Das Tauschkonzert, Vol. 7",
         "duration": "10. Juli 2020 – 17. Juli 2020\n1 Woche"
       },
-      { "interpret": "Die Amigos", "title": "Tausend Träume", "duration": "17. Juli 2020 – 23. Juli 2020\n1 Woche" }
+      { "interpret": "Die Amigos", "title": "Tausend Träume", "duration": "17. Juli 2020 – 23. Juli 2020\n1 Woche" },
+      { "interpret": "Fynn Kliemann", "title": "Pop", "duration": "24. Juli 2020 – 30. Juli 2020\n1 Woche" }
     ]
   }
 }
