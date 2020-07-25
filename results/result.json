@@ -3195,13 +3195,21 @@
         "duration": { "from": "1986-09-29", "to": "1986-11-09" }
       },
       { "interpret": "Falco", "title": "Emotional", "duration": { "from": "1986-11-10", "to": "1986-11-23" } },
-      { "interpret": "Peter Maffay", "title": "Tabaluga 2", "duration": { "from": "1986-11-24", "to": "1986-11-30" } },
+      {
+        "interpret": "Peter Maffay",
+        "title": "Tabaluga und das leuchtende Schweigen",
+        "duration": { "from": "1986-11-24", "to": "1986-11-30" }
+      },
       {
         "interpret": "Modern Talking",
         "title": "In the Middle of Nowhere",
         "duration": { "from": "1986-12-01", "to": "1986-12-07" }
       },
-      { "interpret": "Peter Maffay", "title": "Tabaluga 2", "duration": { "from": "1986-12-08", "to": "1986-12-21" } },
+      {
+        "interpret": "Peter Maffay",
+        "title": "Tabaluga und das leuchtende Schweigen",
+        "duration": { "from": "1986-12-08", "to": "1986-12-21" }
+      },
       {
         "interpret": "Tina Turner",
         "title": "Break Every Rule",
@@ -8913,8 +8921,8 @@
       },
       {
         "interpret": "Apache 207",
-        "title": "Bläulich\nVolkan Yaman, Marcel Uhde, Melvin Schmitz",
-        "duration": { "from": "2020-07-10", "to": "2020-07-16" }
+        "title": "Bläulich\nMelvin Schmitz, Marcel Uhde, Volkan Yaman",
+        "duration": { "from": "2020-07-10", "to": "2020-07-30" }
       }
     ],
     "albums": [
@@ -9020,7 +9028,13 @@
         "interpret": "Verschiedene Interpreten",
         "title": "Sing meinen Song – Das Tauschkonzert, Vol. 7",
         "duration": { "from": "2020-07-10", "to": "2020-07-17" }
-      }
+      },
+      {
+        "interpret": "Die Amigos",
+        "title": "Tausend Träume",
+        "duration": { "from": "2020-07-17", "to": "2020-07-23" }
+      },
+      { "interpret": "Fynn Kliemann", "title": "Pop", "duration": { "from": "2020-07-24", "to": "2020-07-30" } }
     ]
   }
 }

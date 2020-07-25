@@ -104,8 +104,8 @@ export default {
     },
     {
       interpret: "Apache 207",
-      title: "Bläulich\nVolkan Yaman, Marcel Uhde, Melvin Schmitz",
-      duration: { from: "2020-07-10", to: "2020-07-16" },
+      title: "Bläulich\nMelvin Schmitz, Marcel Uhde, Volkan Yaman",
+      duration: { from: "2020-07-10", to: "2020-07-30" },
     },
   ],
   albums: [
@@ -164,5 +164,7 @@ export default {
       title: "Sing meinen Song – Das Tauschkonzert, Vol. 7",
       duration: { from: "2020-07-10", to: "2020-07-17" },
     },
+    { interpret: "Die Amigos", title: "Tausend Träume", duration: { from: "2020-07-17", to: "2020-07-23" } },
+    { interpret: "Fynn Kliemann", title: "Pop", duration: { from: "2020-07-24", to: "2020-07-30" } },
   ],
 };

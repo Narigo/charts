@@ -78,13 +78,21 @@ export default {
     { interpret: "(Soundtrack)", title: "Top Gun", duration: { from: "1986-09-15", to: "1986-09-28" } },
     { interpret: "Tina Turner", title: "Break Every Rule", duration: { from: "1986-09-29", to: "1986-11-09" } },
     { interpret: "Falco", title: "Emotional", duration: { from: "1986-11-10", to: "1986-11-23" } },
-    { interpret: "Peter Maffay", title: "Tabaluga 2", duration: { from: "1986-11-24", to: "1986-11-30" } },
+    {
+      interpret: "Peter Maffay",
+      title: "Tabaluga und das leuchtende Schweigen",
+      duration: { from: "1986-11-24", to: "1986-11-30" },
+    },
     {
       interpret: "Modern Talking",
       title: "In the Middle of Nowhere",
       duration: { from: "1986-12-01", to: "1986-12-07" },
     },
-    { interpret: "Peter Maffay", title: "Tabaluga 2", duration: { from: "1986-12-08", to: "1986-12-21" } },
+    {
+      interpret: "Peter Maffay",
+      title: "Tabaluga und das leuchtende Schweigen",
+      duration: { from: "1986-12-08", to: "1986-12-21" },
+    },
     { interpret: "Tina Turner", title: "Break Every Rule", duration: { from: "1986-12-22", to: "1987-01-04" } },
   ],
 };
