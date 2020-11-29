@@ -8372,7 +8372,7 @@
       },
       {
         "interpret": "Apache 207",
-        "title": "Roller\nVolkan Yaman",
+        "title": "Roller\nJennifer Allendörfer, Luís-Florentino Cruz, Volkan Yaman",
         "duration": "6. September 2019 – 12. September 2019\n1 Woche"
       },
       {
@@ -8397,7 +8397,7 @@
       },
       {
         "interpret": "Apache 207",
-        "title": "Wieso tust du dir das an?\nVolkan Yaman",
+        "title": "Wieso tust du dir das an?\nJoshua Allery, Laurin Auth, Volkan Yaman",
         "duration": "25. Oktober 2019 – 31. Oktober 2019\n1 Woche"
       },
       {
@@ -8518,7 +8518,11 @@
         "title": "Supersize",
         "duration": "27. September 2019 – 3. Oktober 2019\n1 Woche"
       },
-      { "interpret": "Sido", "title": "Ich & keine Maske", "duration": "4. Oktober 2019 – 10. Oktober 2019\n1 Woche" },
+      {
+        "interpret": "Sido",
+        "title": "Ich und keine Maske",
+        "duration": "4. Oktober 2019 – 10. Oktober 2019\n1 Woche"
+      },
       {
         "interpret": "Capital Bra & Samra",
         "title": "Berlin lebt 2",
@@ -8576,7 +8580,7 @@
       },
       {
         "interpret": "Juju & Loredana",
-        "title": "Kein Wort\nJudith Wessendorf, Loredana Zefi; Produzenten: Joshua Allery, Laurin Auth, Krutsch, Philipp Rodrian, Shucati (Christoph Bauss, Luca Starz & Tim Friedrich)",
+        "title": "Kein Wort\nJudith Wessendorf, Loredana Zefi; Produzenten: Joshua Allery, Laurin Auth, Jan Krouzilek, Philipp Rodrian, Shucati (Christoph Bauss, Luca Starz & Tim Friedrich)",
         "duration": "24. Januar 2020 – 6. Februar 2020\n2 Wochen"
       },
       {
@@ -8663,6 +8667,71 @@
         "interpret": "Apache 207",
         "title": "Bläulich\nMelvin Schmitz, Marcel Uhde, Volkan Yaman",
         "duration": "10. Juli 2020 – 30. Juli 2020\n3 Wochen"
+      },
+      {
+        "interpret": "Apache 207",
+        "title": "Unterwegs\nVolkan Yaman, Kai Kotucz, Marcel Uhde",
+        "duration": "31. Juli 2020 – 6. August 2020\n1 Woche"
+      },
+      {
+        "interpret": "Apache 207",
+        "title": "Sie ruft\nVolkan Yaman, Jennifer Allendörfer, Luís-Florentino Cruz",
+        "duration": "7. August 2020 – 13. August 2020\n1 Woche"
+      },
+      {
+        "interpret": "Jawsh 685 & Jason Derulo",
+        "title": "Savage Love (Laxed – Siren Beat)\nJacob Kasher Hindlin, Jason Derulo, Joshua Nanai, Philippe Greiss",
+        "duration": "14. August 2020 – 27. August 2020\n2 Wochen"
+      },
+      {
+        "interpret": "Capital Bra feat. Cro",
+        "title": "Frühstück in Paris\nVladislav Balovatsky, Carlo Waibel, Vincent Stein, Konstantin Scherer, Phil The Beat",
+        "duration": "28. August 2020 – 3. September 2020\n1 Woche"
+      },
+      {
+        "interpret": "KitschKrieg feat. Jamule",
+        "title": "Unterwegs\nJamal Manuel Issa Serrano, Christoph Erkes, Christian Yun-Song Meyerholz, Nicole Schettler, Pierre Baigorry, Frank Allessa Dellé, Jérôme Bugnon, Thomas Callaway",
+        "duration": "4. September 2020 – 10. September 2020\n1 Woche"
+      },
+      {
+        "interpret": "Bonez MC",
+        "title": "Fuckst mich nur ab\nJohn Lorenz Moser, David Kraft, Tim Wilke, Mohamad Hoteit",
+        "duration": "11. September 2020 – 17. September 2020\n1 Woche"
+      },
+      {
+        "interpret": "24kGoldn feat. Iann Dior",
+        "title": "Mood\nGolden Von Jones, Michael Olmo, Keegan Bach, Omer Fedi, Blake Slatkin",
+        "duration": "18. September 2020 – 8. Oktober 2020\n3 Wochen"
+      },
+      {
+        "interpret": "Samra",
+        "title": "Rohdiamant II\nHussein Akkouche, Konstantinos Tzikas, Vincent Stein, Konstantin Scherer, Bujar Malaj",
+        "duration": "9. Oktober 2020 – 15. Oktober 2020\n1 Woche"
+      },
+      {
+        "interpret": "Die Ärzte",
+        "title": "True Romance\nFarin Urlaub",
+        "duration": "16. Oktober 2020 – 22. Oktober 2020\n1 Woche"
+      },
+      {
+        "interpret": "24kGoldn feat. Iann Dior",
+        "title": "Mood\nGolden Von Jones, Michael Olmo, Keegan Bach, Omer Fedi, Blake Slatkin",
+        "duration": "23. Oktober 2020 – 29. Oktober 2020\n1 Woche"
+      },
+      {
+        "interpret": "Bonez MC",
+        "title": "Angeklagt\nJohn Lorenz Moser, Fabian Schreiber, David Kraft, Tim Wilke",
+        "duration": "30. Oktober 2020 – 19. November 2020\n3 Wochen"
+      },
+      {
+        "interpret": "Samra",
+        "title": "Kennst du das ?!\nHussein Akkouche, Konstantinos Tzikas, Vincent Stein, Konstantin Scherer",
+        "duration": "20. November 2020 – 26. November 2020\n1 Woche"
+      },
+      {
+        "interpret": "24kGoldn feat. Iann Dior",
+        "title": "Mood\nGolden Von Jones, Michael Olmo, Keegan Bach, Omer Fedi, Blake Slatkin",
+        "duration": "27. November 2020 – 3. Dezember 2020\n1 Woche"
       }
     ],
     "albums": [
@@ -8758,7 +8827,51 @@
         "duration": "10. Juli 2020 – 17. Juli 2020\n1 Woche"
       },
       { "interpret": "Die Amigos", "title": "Tausend Träume", "duration": "17. Juli 2020 – 23. Juli 2020\n1 Woche" },
-      { "interpret": "Fynn Kliemann", "title": "Pop", "duration": "24. Juli 2020 – 30. Juli 2020\n1 Woche" }
+      { "interpret": "Fynn Kliemann", "title": "Pop", "duration": "24. Juli 2020 – 30. Juli 2020\n1 Woche" },
+      {
+        "interpret": "Fantasy",
+        "title": "10.000 bunte Luftballons",
+        "duration": "31. Juli 2020 – 6. August 2020\n1 Woche"
+      },
+      { "interpret": "Apache 207", "title": "Treppenhaus", "duration": "7. August 2020 – 13. August 2020\n1 Woche" },
+      { "interpret": "Deep Purple", "title": "Whoosh!", "duration": "14. August 2020 – 20. August 2020\n1 Woche" },
+      { "interpret": "Fynn Kliemann", "title": "Pop", "duration": "21. August 2020 – 27. August 2020\n1 Woche" },
+      {
+        "interpret": "AK Ausserkontrolle",
+        "title": "A.S.S.N. 2",
+        "duration": "28. August 2020 – 3. September 2020\n1 Woche"
+      },
+      {
+        "interpret": "Metallica & San Francisco Symphony",
+        "title": "S&M2",
+        "duration": "4. September 2020 – 17. September 2020\n2 Wochen"
+      },
+      { "interpret": "Bonez MC", "title": "Hollywood", "duration": "18. September 2020 – 24. September 2020\n1 Woche" },
+      { "interpret": "Capital Bra", "title": "CB7", "duration": "25. September 2020 – 1. Oktober 2020\n1 Woche" },
+      { "interpret": "Kontra K", "title": "Vollmond", "duration": "2. Oktober 2020 – 8. Oktober 2020\n1 Woche" },
+      {
+        "interpret": "Ufo361 & Sonus030",
+        "title": "Nur für Dich",
+        "duration": "9. Oktober 2020 – 15. Oktober 2020\n1 Woche"
+      },
+      {
+        "interpret": "Saltatio Mortis",
+        "title": "Für immer frei",
+        "duration": "16. Oktober 2020 – 22. Oktober 2020\n1 Woche"
+      },
+      {
+        "interpret": "Christopher von Deylen",
+        "title": "Colors",
+        "duration": "23. Oktober 2020 – 29. Oktober 2020\n1 Woche"
+      },
+      { "interpret": "Die Ärzte", "title": "Hell", "duration": "30. Oktober 2020 – 5. November 2020\n1 Woche" },
+      {
+        "interpret": "Bonez MC",
+        "title": "Hollywood Uncut",
+        "duration": "6. November 2020 – 12. November 2020\n1 Woche"
+      },
+      { "interpret": "Die Ärzte", "title": "Hell", "duration": "13. November 2020 – 19. November 2020\n1 Woche" },
+      { "interpret": "AC/DC", "title": "Power Up", "duration": "20. November 2020 – 3. Dezember 2020\n2 Wochen" }
     ]
   }
 }

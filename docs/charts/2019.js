@@ -109,7 +109,11 @@ export default {
       title: "Nummer 1\nVladislav Balovatsky, Hussein Akkouche",
       duration: { from: "2019-08-30", to: "2019-09-05" },
     },
-    { interpret: "Apache 207", title: "Roller\nVolkan Yaman", duration: { from: "2019-09-06", to: "2019-09-12" } },
+    {
+      interpret: "Apache 207",
+      title: "Roller\nJennifer Allendörfer, Luís-Florentino Cruz, Volkan Yaman",
+      duration: { from: "2019-09-06", to: "2019-09-12" },
+    },
     {
       interpret: "Loredana feat. Mero",
       title: "Kein Plan\nLoredana, Enes Meral",
@@ -132,7 +136,7 @@ export default {
     },
     {
       interpret: "Apache 207",
-      title: "Wieso tust du dir das an?\nVolkan Yaman",
+      title: "Wieso tust du dir das an?\nJoshua Allery, Laurin Auth, Volkan Yaman",
       duration: { from: "2019-10-25", to: "2019-10-31" },
     },
     {
@@ -229,7 +233,7 @@ export default {
       duration: { from: "2019-09-20", to: "2019-09-26" },
     },
     { interpret: "Shirin David", title: "Supersize", duration: { from: "2019-09-27", to: "2019-10-03" } },
-    { interpret: "Sido", title: "Ich & keine Maske", duration: { from: "2019-10-04", to: "2019-10-10" } },
+    { interpret: "Sido", title: "Ich und keine Maske", duration: { from: "2019-10-04", to: "2019-10-10" } },
     { interpret: "Capital Bra & Samra", title: "Berlin lebt 2", duration: { from: "2019-10-11", to: "2019-10-17" } },
     { interpret: "Kummer", title: "KIOX", duration: { from: "2019-10-18", to: "2019-10-24" } },
     { interpret: "Santiano", title: "MTV Unplugged", duration: { from: "2019-10-25", to: "2019-10-31" } },

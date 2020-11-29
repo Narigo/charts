@@ -6601,7 +6601,11 @@ export default {
         title: "Nummer 1\nVladislav Balovatsky, Hussein Akkouche",
         duration: { from: "2019-08-30", to: "2019-09-05" },
       },
-      { interpret: "Apache 207", title: "Roller\nVolkan Yaman", duration: { from: "2019-09-06", to: "2019-09-12" } },
+      {
+        interpret: "Apache 207",
+        title: "Roller\nJennifer Allendörfer, Luís-Florentino Cruz, Volkan Yaman",
+        duration: { from: "2019-09-06", to: "2019-09-12" },
+      },
       {
         interpret: "Loredana feat. Mero",
         title: "Kein Plan\nLoredana, Enes Meral",
@@ -6624,7 +6628,7 @@ export default {
       },
       {
         interpret: "Apache 207",
-        title: "Wieso tust du dir das an?\nVolkan Yaman",
+        title: "Wieso tust du dir das an?\nJoshua Allery, Laurin Auth, Volkan Yaman",
         duration: { from: "2019-10-25", to: "2019-10-31" },
       },
       {
@@ -6721,7 +6725,7 @@ export default {
         duration: { from: "2019-09-20", to: "2019-09-26" },
       },
       { interpret: "Shirin David", title: "Supersize", duration: { from: "2019-09-27", to: "2019-10-03" } },
-      { interpret: "Sido", title: "Ich & keine Maske", duration: { from: "2019-10-04", to: "2019-10-10" } },
+      { interpret: "Sido", title: "Ich und keine Maske", duration: { from: "2019-10-04", to: "2019-10-10" } },
       { interpret: "Capital Bra & Samra", title: "Berlin lebt 2", duration: { from: "2019-10-11", to: "2019-10-17" } },
       { interpret: "Kummer", title: "KIOX", duration: { from: "2019-10-18", to: "2019-10-24" } },
       { interpret: "Santiano", title: "MTV Unplugged", duration: { from: "2019-10-25", to: "2019-10-31" } },
@@ -6764,7 +6768,7 @@ export default {
       {
         interpret: "Juju & Loredana",
         title:
-          "Kein Wort\nJudith Wessendorf, Loredana Zefi; Produzenten: Joshua Allery, Laurin Auth, Krutsch, Philipp Rodrian, Shucati (Christoph Bauss, Luca Starz & Tim Friedrich)",
+          "Kein Wort\nJudith Wessendorf, Loredana Zefi; Produzenten: Joshua Allery, Laurin Auth, Jan Krouzilek, Philipp Rodrian, Shucati (Christoph Bauss, Luca Starz & Tim Friedrich)",
         duration: { from: "2020-01-24", to: "2020-02-06" },
       },
       {
@@ -6853,6 +6857,73 @@ export default {
         title: "Bläulich\nMelvin Schmitz, Marcel Uhde, Volkan Yaman",
         duration: { from: "2020-07-10", to: "2020-07-30" },
       },
+      {
+        interpret: "Apache 207",
+        title: "Unterwegs\nVolkan Yaman, Kai Kotucz, Marcel Uhde",
+        duration: { from: "2020-07-31", to: "2020-08-06" },
+      },
+      {
+        interpret: "Apache 207",
+        title: "Sie ruft\nVolkan Yaman, Jennifer Allendörfer, Luís-Florentino Cruz",
+        duration: { from: "2020-08-07", to: "2020-08-13" },
+      },
+      {
+        interpret: "Jawsh 685 & Jason Derulo",
+        title: "Savage Love (Laxed – Siren Beat)\nJacob Kasher Hindlin, Jason Derulo, Joshua Nanai, Philippe Greiss",
+        duration: { from: "2020-08-14", to: "2020-08-27" },
+      },
+      {
+        interpret: "Capital Bra feat. Cro",
+        title:
+          "Frühstück in Paris\nVladislav Balovatsky, Carlo Waibel, Vincent Stein, Konstantin Scherer, Phil The Beat",
+        duration: { from: "2020-08-28", to: "2020-09-03" },
+      },
+      {
+        interpret: "KitschKrieg feat. Jamule",
+        title:
+          "Unterwegs\nJamal Manuel Issa Serrano, Christoph Erkes, Christian Yun-Song Meyerholz, Nicole Schettler, Pierre Baigorry, Frank Allessa Dellé, Jérôme Bugnon, Thomas Callaway",
+        duration: { from: "2020-09-04", to: "2020-09-10" },
+      },
+      {
+        interpret: "Bonez MC",
+        title: "Fuckst mich nur ab\nJohn Lorenz Moser, David Kraft, Tim Wilke, Mohamad Hoteit",
+        duration: { from: "2020-09-11", to: "2020-09-17" },
+      },
+      {
+        interpret: "24kGoldn feat. Iann Dior",
+        title: "Mood\nGolden Von Jones, Michael Olmo, Keegan Bach, Omer Fedi, Blake Slatkin",
+        duration: { from: "2020-09-18", to: "2020-10-08" },
+      },
+      {
+        interpret: "Samra",
+        title: "Rohdiamant II\nHussein Akkouche, Konstantinos Tzikas, Vincent Stein, Konstantin Scherer, Bujar Malaj",
+        duration: { from: "2020-10-09", to: "2020-10-15" },
+      },
+      {
+        interpret: "Die Ärzte",
+        title: "True Romance\nFarin Urlaub",
+        duration: { from: "2020-10-16", to: "2020-10-22" },
+      },
+      {
+        interpret: "24kGoldn feat. Iann Dior",
+        title: "Mood\nGolden Von Jones, Michael Olmo, Keegan Bach, Omer Fedi, Blake Slatkin",
+        duration: { from: "2020-10-23", to: "2020-10-29" },
+      },
+      {
+        interpret: "Bonez MC",
+        title: "Angeklagt\nJohn Lorenz Moser, Fabian Schreiber, David Kraft, Tim Wilke",
+        duration: { from: "2020-10-30", to: "2020-11-19" },
+      },
+      {
+        interpret: "Samra",
+        title: "Kennst du das ?!\nHussein Akkouche, Konstantinos Tzikas, Vincent Stein, Konstantin Scherer",
+        duration: { from: "2020-11-20", to: "2020-11-26" },
+      },
+      {
+        interpret: "24kGoldn feat. Iann Dior",
+        title: "Mood\nGolden Von Jones, Michael Olmo, Keegan Bach, Omer Fedi, Blake Slatkin",
+        duration: { from: "2020-11-27", to: "2020-12-03" },
+      },
     ],
     albums: [
       {
@@ -6912,6 +6983,26 @@ export default {
       },
       { interpret: "Die Amigos", title: "Tausend Träume", duration: { from: "2020-07-17", to: "2020-07-23" } },
       { interpret: "Fynn Kliemann", title: "Pop", duration: { from: "2020-07-24", to: "2020-07-30" } },
+      { interpret: "Fantasy", title: "10.000 bunte Luftballons", duration: { from: "2020-07-31", to: "2020-08-06" } },
+      { interpret: "Apache 207", title: "Treppenhaus", duration: { from: "2020-08-07", to: "2020-08-13" } },
+      { interpret: "Deep Purple", title: "Whoosh!", duration: { from: "2020-08-14", to: "2020-08-20" } },
+      { interpret: "Fynn Kliemann", title: "Pop", duration: { from: "2020-08-21", to: "2020-08-27" } },
+      { interpret: "AK Ausserkontrolle", title: "A.S.S.N. 2", duration: { from: "2020-08-28", to: "2020-09-03" } },
+      {
+        interpret: "Metallica & San Francisco Symphony",
+        title: "S&M2",
+        duration: { from: "2020-09-04", to: "2020-09-17" },
+      },
+      { interpret: "Bonez MC", title: "Hollywood", duration: { from: "2020-09-18", to: "2020-09-24" } },
+      { interpret: "Capital Bra", title: "CB7", duration: { from: "2020-09-25", to: "2020-10-01" } },
+      { interpret: "Kontra K", title: "Vollmond", duration: { from: "2020-10-02", to: "2020-10-08" } },
+      { interpret: "Ufo361 & Sonus030", title: "Nur für Dich", duration: { from: "2020-10-09", to: "2020-10-15" } },
+      { interpret: "Saltatio Mortis", title: "Für immer frei", duration: { from: "2020-10-16", to: "2020-10-22" } },
+      { interpret: "Christopher von Deylen", title: "Colors", duration: { from: "2020-10-23", to: "2020-10-29" } },
+      { interpret: "Die Ärzte", title: "Hell", duration: { from: "2020-10-30", to: "2020-11-05" } },
+      { interpret: "Bonez MC", title: "Hollywood Uncut", duration: { from: "2020-11-06", to: "2020-11-12" } },
+      { interpret: "Die Ärzte", title: "Hell", duration: { from: "2020-11-13", to: "2020-11-19" } },
+      { interpret: "AC/DC", title: "Power Up", duration: { from: "2020-11-20", to: "2020-12-03" } },
     ],
   },
 };
