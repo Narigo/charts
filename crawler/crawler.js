@@ -33,7 +33,7 @@ async function crawl(year) {
     waitUntil: "networkidle2",
   });
 
-  const result = await page.evaluate(() => {
+  const result = await page.evaluate((year) => {
     /* eslint-env browser */
 
     const $singlesFallback0 = document.querySelectorAll(
@@ -53,14 +53,21 @@ async function crawl(year) {
         `#mw-content-text > div > table:nth-child(${tableNumber}) > tbody > tr:nth-child(2) > td > table > tbody > tr`
       );
 
-    const singleFilter = ($firstElement) =>
-      /^Singles/.test(
-        $firstElement.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.previousElementSibling.innerText
-      ) ||
-      /^Singles/.test(
-        $firstElement.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.previousElementSibling
-          .previousElementSibling.innerText
+    const singleFilter = ($firstElement) => {
+      if (1954 <= year && year <= 1957) {
+        return true;
+      }
+
+      return (
+        /^Singles/.test(
+          $firstElement.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.previousElementSibling.innerText
+        ) ||
+        /^Singles/.test(
+          $firstElement.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.previousElementSibling
+            .previousElementSibling.innerText
+        )
       );
+    };
     const albumFilter = ($firstElement) =>
       /^Alben/.test(
         $firstElement.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.previousElementSibling.innerText
@@ -109,7 +116,7 @@ async function crawl(year) {
         return "N/A";
       }
     }
-  });
+  }, year);
 
   await browser.close();
 

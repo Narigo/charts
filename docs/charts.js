@@ -1,5 +1,5 @@
 export default {
-  "1953": {
+  1953: {
     singles: [
       {
         interpret: "Die Kilima Hawaiians",
@@ -9,7 +9,7 @@ export default {
     ],
     albums: [],
   },
-  "1954": {
+  1954: {
     singles: [
       { interpret: "Vico Torriani", title: "Granada", duration: { from: "1954-01-01", to: "1954-01-31" } },
       { interpret: "Hans-Arno Simon", title: "Anneliese", duration: { from: "1954-02-01", to: "1954-02-28" } },
@@ -38,7 +38,7 @@ export default {
     ],
     albums: [],
   },
-  "1955": {
+  1955: {
     singles: [
       {
         interpret: "Hula Hawaiian Quartett",
@@ -61,7 +61,7 @@ export default {
     ],
     albums: [],
   },
-  "1956": {
+  1956: {
     singles: [
       {
         interpret: "Bill Haley & His Comets",
@@ -79,7 +79,7 @@ export default {
     ],
     albums: [],
   },
-  "1957": {
+  1957: {
     singles: [
       {
         interpret: "Rodgers-Gesangs-Duett",
@@ -103,7 +103,7 @@ export default {
     ],
     albums: [],
   },
-  "1958": {
+  1958: {
     singles: [
       {
         interpret: "Fred Bertelmann",
@@ -125,7 +125,7 @@ export default {
     ],
     albums: [],
   },
-  "1959": {
+  1959: {
     singles: [
       { interpret: "Billy Vaughn & Orchestra", title: "La Paloma", duration: { from: "1958-11-01", to: "1959-01-31" } },
       { interpret: "Nilsen Brothers", title: "Tom Dooley", duration: { from: "1959-02-01", to: "1959-02-28" } },
@@ -138,7 +138,7 @@ export default {
     ],
     albums: [],
   },
-  "1960": {
+  1960: {
     singles: [
       { interpret: "Rocco Granata", title: "Marina", duration: { from: "1959-12-01", to: "1960-02-28" } },
       { interpret: "Jan & Kjeld", title: "Banjo Boy", duration: { from: "1960-03-01", to: "1960-03-31" } },
@@ -163,7 +163,7 @@ export default {
     ],
     albums: [],
   },
-  "1961": {
+  1961: {
     singles: [
       {
         interpret: "Lale Andersen",
@@ -191,7 +191,7 @@ export default {
     ],
     albums: [],
   },
-  "1962": {
+  1962: {
     singles: [
       {
         interpret: "Gerhard Wendland",
@@ -226,7 +226,7 @@ export default {
       },
     ],
   },
-  "1963": {
+  1963: {
     singles: [
       {
         interpret: "Freddy Quinn",
@@ -308,7 +308,7 @@ export default {
       },
     ],
   },
-  "1964": {
+  1964: {
     singles: [
       {
         interpret: "Cliff Richard",
@@ -377,7 +377,7 @@ export default {
       },
     ],
   },
-  "1965": {
+  1965: {
     singles: [
       { interpret: "Roy Orbison", title: "Oh, Pretty Woman", duration: { from: "1965-01-01", to: "1965-01-14" } },
       {
@@ -470,7 +470,7 @@ export default {
       },
     ],
   },
-  "1966": {
+  1966: {
     singles: [
       {
         interpret: "The Rolling Stones",
@@ -562,7 +562,7 @@ export default {
       },
     ],
   },
-  "1967": {
+  1967: {
     singles: [
       { interpret: "The Kinks", title: "Dandy", duration: { from: "1967-01-01", to: "1967-01-31" } },
       { interpret: "The Monkees", title: "I’m a Believer", duration: { from: "1967-02-01", to: "1967-03-14" } },
@@ -637,7 +637,7 @@ export default {
       { interpret: "Esther & Abi Ofarim", title: "2 in 3", duration: { from: "1967-11-15", to: "1968-02-14" } },
     ],
   },
-  "1968": {
+  1968: {
     singles: [
       { interpret: "Bee Gees", title: "Massachusetts", duration: { from: "1967-12-01", to: "1968-01-14" } },
       { interpret: "Peter Alexander", title: "Der letzte Walzer", duration: { from: "1968-01-15", to: "1968-01-31" } },
@@ -685,7 +685,7 @@ export default {
       { interpret: "Heintje", title: "Heintje", duration: { from: "1968-06-15", to: "1969-02-14" } },
     ],
   },
-  "1969": {
+  1969: {
     singles: [
       { interpret: "Heintje", title: "Heidschi Bumbeidschi", duration: { from: "1968-12-15", to: "1969-01-14" } },
       { interpret: "Barry Ryan", title: "Eloise", duration: { from: "1969-01-15", to: "1969-02-28" } },
@@ -758,7 +758,7 @@ export default {
       { interpret: "James Last", title: "Non Stop Dancing 9", duration: { from: "1969-12-15", to: "1970-01-14" } },
     ],
   },
-  "1970": {
+  1970: {
     singles: [
       { interpret: "Roy Black", title: "Dein schönstes Geschenk", duration: { from: "1970-01-01", to: "1970-02-28" } },
       { interpret: "Led Zeppelin", title: "Whole Lotta Love", duration: { from: "1970-03-01", to: "1970-04-30" } },
@@ -808,7 +808,7 @@ export default {
       { interpret: "Deep Purple", title: "Deep Purple in Rock", duration: { from: "1970-10-15", to: "1971-01-14" } },
     ],
   },
-  "1971": {
+  1971: {
     singles: [
       { interpret: "Miguel Ríos", title: "A Song of Joy", duration: { from: "1971-01-04", to: "1971-01-31" } },
       { interpret: "George Harrison", title: "My Sweet Lord", duration: { from: "1971-02-02", to: "1971-04-11" } },
@@ -855,7 +855,7 @@ export default {
       },
     ],
   },
-  "1972": {
+  1972: {
     singles: [
       { interpret: "Pop Tops", title: "Mamy Blue", duration: { from: "1971-11-08", to: "1972-01-16" } },
       {
@@ -951,7 +951,7 @@ export default {
       { interpret: "Kurt Edelhagen", title: "Olympia Parade", duration: { from: "1972-11-15", to: "1973-01-14" } },
     ],
   },
-  "1973": {
+  1973: {
     singles: [
       {
         interpret: "Wums Gesang",
@@ -1033,7 +1033,7 @@ export default {
       { interpret: "Demis Roussos", title: "Forever and Ever", duration: { from: "1973-12-15", to: "1974-01-14" } },
     ],
   },
-  "1974": {
+  1974: {
     singles: [
       { interpret: "Lobo", title: "I’d Love You to Want Me", duration: { from: "1973-11-19", to: "1974-01-06" } },
       { interpret: "Mireille Mathieu", title: "La Paloma, ade", duration: { from: "1974-01-07", to: "1974-01-13" } },
@@ -1092,7 +1092,7 @@ export default {
       },
     ],
   },
-  "1975": {
+  1975: {
     singles: [
       { interpret: "Michael Holm", title: "Tränen lügen nicht", duration: { from: "1974-12-30", to: "1975-01-26" } },
       {
@@ -1207,7 +1207,7 @@ export default {
       },
     ],
   },
-  "1976": {
+  1976: {
     singles: [
       {
         interpret: "Jean-Claude Borelly",
@@ -1332,7 +1332,7 @@ export default {
       },
     ],
   },
-  "1977": {
+  1977: {
     singles: [
       { interpret: "ABBA", title: "Money, Money, Money", duration: { from: "1976-12-20", to: "1977-01-23" } },
       { interpret: "Boney M.", title: "Sunny", duration: { from: "1977-01-24", to: "1977-02-06" } },
@@ -1395,7 +1395,7 @@ export default {
       { interpret: "Santa Esmeralda", title: "Santa Esmeralda", duration: { from: "1977-11-15", to: "1977-12-31" } },
     ],
   },
-  "1978": {
+  1978: {
     singles: [
       {
         interpret: "Santa Esmeralda",
@@ -1499,7 +1499,7 @@ export default {
       },
     ],
   },
-  "1979": {
+  1979: {
     singles: [
       {
         interpret: "Village People",
@@ -1571,7 +1571,7 @@ export default {
       { interpret: "James Last", title: "Träum was Schönes", duration: { from: "1979-12-03", to: "1980-01-06" } },
     ],
   },
-  "1980": {
+  1980: {
     singles: [
       { interpret: "Thom Pace", title: "Maybe\nThom Pace", duration: { from: "1979-11-19", to: "1980-01-20" } },
       {
@@ -1681,7 +1681,7 @@ export default {
       { interpret: "Richard Clayderman", title: "Träumereien 2", duration: { from: "1980-12-29", to: "1981-01-04" } },
     ],
   },
-  "1981": {
+  1981: {
     singles: [
       {
         interpret: "ABBA",
@@ -1799,7 +1799,7 @@ export default {
       { interpret: "ABBA", title: "The Visitors", duration: { from: "1981-12-28", to: "1982-01-31" } },
     ],
   },
-  "1982": {
+  1982: {
     singles: [
       {
         interpret: "Gottlieb Wendehals",
@@ -1942,7 +1942,7 @@ export default {
       { interpret: "Peter Hofmann", title: "Rock Classics", duration: { from: "1982-12-06", to: "1983-01-09" } },
     ],
   },
-  "1983": {
+  1983: {
     singles: [
       {
         interpret: "Culture Club",
@@ -2019,7 +2019,7 @@ export default {
       { interpret: "Paul Young", title: "No Parlez", duration: { from: "1983-11-28", to: "1984-02-12" } },
     ],
   },
-  "1984": {
+  1984: {
     singles: [
       {
         interpret: "Paul Young",
@@ -2121,7 +2121,7 @@ export default {
       { interpret: "Duran Duran", title: "Arena", duration: { from: "1984-12-24", to: "1985-01-27" } },
     ],
   },
-  "1985": {
+  1985: {
     singles: [
       {
         interpret: "Duran Duran",
@@ -2227,7 +2227,7 @@ export default {
       { interpret: "Jennifer Rush", title: "Movin’", duration: { from: "1985-11-11", to: "1986-02-16" } },
     ],
   },
-  "1986": {
+  1986: {
     singles: [
       {
         interpret: "Elton John",
@@ -2325,7 +2325,7 @@ export default {
       { interpret: "Tina Turner", title: "Break Every Rule", duration: { from: "1986-12-22", to: "1987-01-04" } },
     ],
   },
-  "1987": {
+  1987: {
     singles: [
       {
         interpret: "The Bangles",
@@ -2413,7 +2413,7 @@ export default {
       { interpret: "Rondò Veneziano", title: "Misteriosa Venezia", duration: { from: "1987-12-21", to: "1988-01-17" } },
     ],
   },
-  "1988": {
+  1988: {
     singles: [
       {
         interpret: "Rick Astley",
@@ -2503,7 +2503,7 @@ export default {
       { interpret: "MSSO", title: "Pop Goes Classic", duration: { from: "1988-12-12", to: "1989-01-22" } },
     ],
   },
-  "1989": {
+  1989: {
     singles: [
       {
         interpret: "Bobby McFerrin",
@@ -2563,7 +2563,7 @@ export default {
       { interpret: "Phil Collins", title: "…But Seriously", duration: { from: "1989-12-04", to: "1990-04-01" } },
     ],
   },
-  "1990": {
+  1990: {
     singles: [
       {
         interpret: "Phil Collins",
@@ -2633,7 +2633,7 @@ export default {
       { interpret: "Phil Collins", title: "Serious Hits… Live!", duration: { from: "1990-12-03", to: "1991-02-02" } },
     ],
   },
-  "1991": {
+  1991: {
     singles: [
       {
         interpret: "Enigma",
@@ -2695,7 +2695,7 @@ export default {
       { interpret: "Genesis", title: "We Can’t Dance", duration: { from: "1991-11-25", to: "1992-04-05" } },
     ],
   },
-  "1992": {
+  1992: {
     singles: [
       {
         interpret: "Salt ’n’ Pepa",
@@ -2744,7 +2744,7 @@ export default {
       { interpret: "ABBA", title: "ABBA Gold – Greatest Hits", duration: { from: "1992-11-02", to: "1993-01-17" } },
     ],
   },
-  "1993": {
+  1993: {
     singles: [
       {
         interpret: "Captain Hollywood Project",
@@ -2822,7 +2822,7 @@ export default {
       { interpret: "Phil Collins", title: "Both Sides", duration: { from: "1993-12-06", to: "1994-01-30" } },
     ],
   },
-  "1994": {
+  1994: {
     singles: [
       {
         interpret: "Meat Loaf",
@@ -2905,7 +2905,7 @@ export default {
       { interpret: "The Kelly Family", title: "Over the Hump", duration: { from: "1994-12-19", to: "1995-01-15" } },
     ],
   },
-  "1995": {
+  1995: {
     singles: [
       {
         interpret: "Rednex",
@@ -3011,7 +3011,7 @@ export default {
       { interpret: "Queen", title: "Made in Heaven", duration: { from: "1995-12-11", to: "1996-02-11" } },
     ],
   },
-  "1996": {
+  1996: {
     singles: [
       {
         interpret: "Michael Jackson",
@@ -3119,7 +3119,7 @@ export default {
       { interpret: "Andrea Bocelli", title: "Bocelli", duration: { from: "1996-12-23", to: "1997-03-16" } },
     ],
   },
-  "1997": {
+  1997: {
     singles: [
       {
         interpret: "Sarah Brightman & Andrea Bocelli",
@@ -3201,7 +3201,7 @@ export default {
       { interpret: "Céline Dion", title: "Let’s Talk About Love", duration: { from: "1997-12-22", to: "1998-02-01" } },
     ],
   },
-  "1998": {
+  1998: {
     singles: [
       {
         interpret: "Run-D.M.C. vs. Jason Nevins",
@@ -3292,7 +3292,7 @@ export default {
       { interpret: "Westernhagen", title: "Radio Maria", duration: { from: "1998-12-21", to: "1999-01-10" } },
     ],
   },
-  "1999": {
+  1999: {
     singles: [
       {
         interpret: "Loona",
@@ -3416,7 +3416,7 @@ export default {
       },
     ],
   },
-  "2000": {
+  2000: {
     singles: [
       {
         interpret: "Stefan Raab & Truck Stop",
@@ -3547,7 +3547,7 @@ export default {
       { interpret: "The Beatles", title: "1", duration: { from: "2000-12-11", to: "2001-02-04" } },
     ],
   },
-  "2001": {
+  2001: {
     singles: [
       {
         interpret: "Christian",
@@ -3684,7 +3684,7 @@ export default {
       },
     ],
   },
-  "2002": {
+  2002: {
     singles: [
       {
         interpret: "Bro’Sis",
@@ -3794,7 +3794,7 @@ export default {
       { interpret: "Robbie Williams", title: "Escapology", duration: { from: "2002-12-23", to: "2003-01-05" } },
     ],
   },
-  "2003": {
+  2003: {
     singles: [
       {
         interpret: "Die Gerd Show",
@@ -3993,7 +3993,7 @@ export default {
       { interpret: "Robbie Williams", title: "Live Summer 2003", duration: { from: "2003-12-08", to: "2004-01-25" } },
     ],
   },
-  "2004": {
+  2004: {
     singles: [
       {
         interpret: "The Black Eyed Peas",
@@ -4111,7 +4111,7 @@ export default {
       { interpret: "Robbie Williams", title: "Greatest Hits", duration: { from: "2004-12-13", to: "2005-01-16" } },
     ],
   },
-  "2005": {
+  2005: {
     singles: [
       {
         interpret: "Nu Pagadi",
@@ -4251,7 +4251,7 @@ export default {
       { interpret: "Robbie Williams", title: "Intensive Care", duration: { from: "2005-12-30", to: "2006-01-12" } },
     ],
   },
-  "2006": {
+  2006: {
     singles: [
       {
         interpret: "Madonna",
@@ -4457,7 +4457,7 @@ export default {
       { interpret: "Monrose", title: "Temptation", duration: { from: "2006-12-22", to: "2007-01-11" } },
     ],
   },
-  "2007": {
+  2007: {
     singles: [
       {
         interpret: "Nelly Furtado",
@@ -4599,7 +4599,7 @@ export default {
       { interpret: "Die Ärzte", title: "Jazz ist anders", duration: { from: "2007-11-16", to: "2008-01-10" } },
     ],
   },
-  "2008": {
+  2008: {
     singles: [
       {
         interpret: "Timbaland presents OneRepublic",
@@ -4741,7 +4741,7 @@ export default {
       },
     ],
   },
-  "2009": {
+  2009: {
     singles: [
       {
         interpret: "Katy Perry",
@@ -4898,7 +4898,7 @@ export default {
       { interpret: "Ich + Ich", title: "Gute Reise", duration: { from: "2009-11-27", to: "2009-12-31" } },
     ],
   },
-  "2010": {
+  2010: {
     singles: [
       {
         interpret: "Aura Dione",
@@ -5047,7 +5047,7 @@ export default {
       { interpret: "Unheilig", title: "Große Freiheit", duration: { from: "2010-12-31", to: "2011-01-27" } },
     ],
   },
-  "2011": {
+  2011: {
     singles: [
       {
         interpret: "Israel Kamakawiwoʻole",
@@ -5234,7 +5234,7 @@ export default {
       },
     ],
   },
-  "2012": {
+  2012: {
     singles: [
       {
         interpret: "Gotye feat. Kimbra",
@@ -5407,7 +5407,7 @@ export default {
       },
     ],
   },
-  "2013": {
+  2013: {
     singles: [
       {
         interpret: "Rihanna",
@@ -5587,7 +5587,7 @@ export default {
       { interpret: "Robbie Williams", title: "Swings Both Ways", duration: { from: "2013-12-20", to: "2014-01-02" } },
     ],
   },
-  "2014": {
+  2014: {
     singles: [
       {
         interpret: "Pitbull feat. Kesha",
@@ -5765,7 +5765,7 @@ export default {
       { interpret: "Unheilig", title: "Gipfelstürmer", duration: { from: "2014-12-26", to: "2015-01-01" } },
     ],
   },
-  "2015": {
+  2015: {
     singles: [
       {
         interpret: "David Guetta feat. Sam Martin",
@@ -5949,7 +5949,7 @@ export default {
       },
     ],
   },
-  "2016": {
+  2016: {
     singles: [
       {
         interpret: "Adele",
@@ -6130,7 +6130,7 @@ export default {
       },
     ],
   },
-  "2017": {
+  2017: {
     singles: [
       {
         interpret: "Clean Bandit feat. Sean Paul & Anne-Marie",
@@ -6247,7 +6247,7 @@ export default {
       { interpret: "Ed Sheeran", title: "÷", duration: { from: "2017-12-22", to: "2018-01-18" } },
     ],
   },
-  "2018": {
+  2018: {
     singles: [
       { interpret: "Ed Sheeran", title: "Perfect\nEdward Sheeran", duration: { from: "2017-12-08", to: "2018-02-15" } },
       {
@@ -6490,7 +6490,7 @@ export default {
       },
     ],
   },
-  "2019": {
+  2019: {
     singles: [
       {
         interpret: "Capital Bra",
@@ -6748,7 +6748,7 @@ export default {
       },
     ],
   },
-  "2020": {
+  2020: {
     singles: [
       {
         interpret: "Mariah Carey",
